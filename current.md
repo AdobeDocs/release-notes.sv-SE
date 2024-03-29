@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea0c4b9aaed870ca77014eed1db8a3915a937d2f
+source-git-commit: 76b633e2b12a93934e043c2e71636de51453dfe5
 workflow-type: tm+mt
-source-wordcount: '5973'
+source-wordcount: '6024'
 ht-degree: 6%
 
 ---
@@ -32,9 +32,9 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Mars 2024
 
-Senaste uppdatering: **22 mars 2024**
+Senaste uppdatering: **29 mars 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (Uppdaterat **29 mars**)
 * [Certifiering i Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och central administration](#ecloud)
@@ -67,23 +67,25 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterat **15 mars 2024**
+Uppdaterat **29 mars 2024**
 
 +++Information
 
-* **ADOBE SUMMIT** | Digital Experience Conference | _Utveckla dina färdigheter, upptäck de senaste trenderna och utforska framtiden för upplevelsestyrd tillväxt_ | Lär dig av ledande varumärken, upptäck framtiden för generativ AI och gör dig redo för upplevelsestyrd tillväxt. | **25-28 mars på Las Vegas och på webben** | [Registrera](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
-
-* **ANALYS** | Upplevelsemakare: Kunskapsutbyte | _Kunskapsutbyte på Adobe Summit för Adobe Analytics_ | Den 28 mars 2024 kommer vi att vara värd för Adobe Analytics kunskapsutbyte på Summit i Las Vegas! Föranmäl dig nu och lär dig tips, tricks och beprövade metoder från kunder och marknadsförare i Analytics. | **28 mars kl. 9.00 PT** | [Registrera](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=952%20953)
-
-* **EXPERIENCE MANAGER** | Upplevelsemakare: Kunskapsutbyte | _Kunskapsutbyte i Adobe Summit för AEM_ | Den 28 mars 2024 kommer vi att vara värd för AEM kunskapsutbyte på Summit i Las Vegas! Föranmäl dig nu och lär dig tips, tricks och beprövade metoder från kunder och AEM. | **28 mars kl. 9.00 PT** | [Registrera](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=950%20951)
-
-* **EXPERIENCE MANAGER** | Upplevelsemakare: Kunskapsutbyte | _Kunskapsutbyte i Adobe Summit för Marketo Engage_ | Den 28 mars 2024 kommer vi att vara värd för Marketo Engage SDödingspunkt på Summit i Las Vegas! Föranmäl dig nu och lär dig tips, tricks och beprövade metoder från kunder och Champions i Marketo Engage. | **28 mars kl. 9.00 PT** | [Registrera](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=954%20955)
-
-* **WORKFRONT** | Upplevelsemakare: Kunskapsutbyte | _Kunskapsutbyte på Adobe Summit för Workfront_ | Den 28 mars 2024 kommer vi att vara värd för Adobe Workfront kunskapsutbyte på Summit i Las Vegas! Föranmäl dig nu och lär dig tips, tricks och bästa praxis från Workfront-kunder. | **28 mars kl. 9.00 PT** | [Registrera](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=956%20957)
-
 * **WORKFRONT** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att koppla dig till andra administratörer för att diskutera bästa praxis samt tips och tricks. | **5 april kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **WORKFRONT** | Kundworkshop | _Admin 101: Komma igång med Workfront_ | Har du inte använt Workfront tidigare? Gå med i våra 101-möten varje månad för att ställa frågor, få resurser, lära dig bästa praxis och träffa andra nya administratörer. Den här sessionen fokuserar på inledande konfiguration och konfiguration. | **10 april kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,8EcZ9ObE6E6vfXJJKbUE-Q,c4BGCPZ3kEetwRnBo4FL-A,AfPWNe36XUiXIb3Ne0B3mQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Kundworkshop | _Lär dig: Adobe Workfront andra kvartal 2024, uppåtavrunda_ | Delta i andra Workfront Sys Admins när vi granskar de senaste förbättringarna som ingår i den andra utgåvan av kvartal 2024. Vi ska diskutera fördelar, utrullningsplaner och hantera förändringar. | **16 april kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **MARKETO ENGAGE** | Lär dig av andra | _Låsa upp kraftfull arbetsflödesautomatisering: Praktiska program i Marketo Engage REST API_ | Följ oss live och få inspiration av verkliga användningsfall för hur REST API kan användas för att effektivisera arbetsflöden som att sammanfoga leads i bulk, skapa UTM-spårningsprogram och utnyttja ChatGPT för att optimera sändningstiderna. | **17 april kl. 8.00 PT** | [Registrera](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
+
+* **WORKFRONT** | Kundworkshop | _Lär dig: Tips för textläge i Adobe Workfront_ | Vill du utöka dina rapportkunskaper med textläge? Titta inte längre! Den här workshopen innehåller en kort introduktion till grundläggande textlägen och API Explorer följt av tio tips för textläge i Adobe Workfront. | **18 april kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 Visa mer [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) på Experience League.
+
+* **WORKFRONT** | Community-händelse | _Connect: Workfront Collective_ | Träffa dina kollegor i Workfront Sys Admins under denna månatliga gemensamma brainstorming- och delningssession, där vi diskuterar de senaste uppdateringarna och bästa metoderna. | **22 april kl. 6.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Frågor och svar - chatt | _Fråga: Migrera till Adobe Business Platform_ | Ta del av frågor och svar tillsammans med våra supporttekniker för att få reda på vad som väntar och hur ni bäst förbereder er för migreringen av Adobe Business Platform. | **23 april kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 +++
 
