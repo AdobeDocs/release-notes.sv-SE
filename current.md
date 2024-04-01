@@ -6,7 +6,7 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 76b633e2b12a93934e043c2e71636de51453dfe5
+source-git-commit: f768519d6c60ae2865ac881126a30d819b3c8846
 workflow-type: tm+mt
 source-wordcount: '6024'
 ht-degree: 6%
@@ -32,7 +32,7 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Mars 2024
 
-Senaste uppdatering: **29 mars 2024**
+Senaste uppdatering: **31 mars 2024**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events) (Uppdaterat **29 mars**)
 * [Certifiering i Adobe](#certification)
@@ -67,7 +67,7 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterat **29 mars 2024**
+Uppdaterat **31 mars 2024**
 
 +++Information
 
@@ -81,11 +81,11 @@ Uppdaterat **29 mars 2024**
 
 * **WORKFRONT** | Kundworkshop | _Lär dig: Tips för textläge i Adobe Workfront_ | Vill du utöka dina rapportkunskaper med textläge? Titta inte längre! Den här workshopen innehåller en kort introduktion till grundläggande textlägen och API Explorer följt av tio tips för textläge i Adobe Workfront. | **18 april kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-Visa mer [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) på Experience League.
-
 * **WORKFRONT** | Community-händelse | _Connect: Workfront Collective_ | Träffa dina kollegor i Workfront Sys Admins under denna månatliga gemensamma brainstorming- och delningssession, där vi diskuterar de senaste uppdateringarna och bästa metoderna. | **22 april kl. 6.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Frågor och svar - chatt | _Fråga: Migrera till Adobe Business Platform_ | Ta del av frågor och svar tillsammans med våra supporttekniker för att få reda på vad som väntar och hur ni bäst förbereder er för migreringen av Adobe Business Platform. | **23 april kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+Visa mer [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) på Experience League.
 
 +++
 
