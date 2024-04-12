@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f768519d6c60ae2865ac881126a30d819b3c8846
+source-git-commit: e581a323e92bda30c755d7030c024edb06c6f6a1
 workflow-type: tm+mt
-source-wordcount: '6024'
+source-wordcount: '5933'
 ht-degree: 6%
 
 ---
@@ -71,10 +71,6 @@ Uppdaterat **31 mars 2024**
 
 +++Information
 
-* **WORKFRONT** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att koppla dig till andra administratörer för att diskutera bästa praxis samt tips och tricks. | **5 april kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Kundworkshop | _Admin 101: Komma igång med Workfront_ | Har du inte använt Workfront tidigare? Gå med i våra 101-möten varje månad för att ställa frågor, få resurser, lära dig bästa praxis och träffa andra nya administratörer. Den här sessionen fokuserar på inledande konfiguration och konfiguration. | **10 april kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,8EcZ9ObE6E6vfXJJKbUE-Q,c4BGCPZ3kEetwRnBo4FL-A,AfPWNe36XUiXIb3Ne0B3mQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **WORKFRONT** | Kundworkshop | _Lär dig: Adobe Workfront andra kvartal 2024, uppåtavrunda_ | Delta i andra Workfront Sys Admins när vi granskar de senaste förbättringarna som ingår i den andra utgåvan av kvartal 2024. Vi ska diskutera fördelar, utrullningsplaner och hantera förändringar. | **16 april kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **MARKETO ENGAGE** | Lär dig av andra | _Låsa upp kraftfull arbetsflödesautomatisering: Praktiska program i Marketo Engage REST API_ | Följ oss live och få inspiration av verkliga användningsfall för hur REST API kan användas för att effektivisera arbetsflöden som att sammanfoga leads i bulk, skapa UTM-spårningsprogram och utnyttja ChatGPT för att optimera sändningstiderna. | **17 april kl. 8.00 PT** | [Registrera](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
@@ -91,7 +87,7 @@ Visa mer [kommande event](https://experienceleague.adobe.com/events/) eller blä
 
 ## ![Ikon](/assets/experience-league.png) Adobe Content Supply Chain {#content-supply-chain}
 
-Läs mer om [Innehållsleveranskedja](https://business.adobe.com/solutions/adobe-genstudio.html), Adobe totallösning för att snabba upp och förenkla materialet med generativ AI och intelligent automatisering.
+Läs mer om [Innehållsleveranskedja](https://business.adobe.com/solutions/adobe-genstudio.html), Adobe-från-sida-till-end-lösning som snabbar upp och förenklar materialet med generativ AI och intelligent automatisering.
 
 +++Information
 
