@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e581a323e92bda30c755d7030c024edb06c6f6a1
+source-git-commit: 71091a1c41425c3fc5109753a96028aea1765388
 workflow-type: tm+mt
-source-wordcount: '5933'
+source-wordcount: '5828'
 ht-degree: 6%
 
 ---
@@ -70,10 +70,6 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 Uppdaterat **31 mars 2024**
 
 +++Information
-
-* **WORKFRONT** | Kundworkshop | _Lär dig: Adobe Workfront andra kvartal 2024, uppåtavrunda_ | Delta i andra Workfront Sys Admins när vi granskar de senaste förbättringarna som ingår i den andra utgåvan av kvartal 2024. Vi ska diskutera fördelar, utrullningsplaner och hantera förändringar. | **16 april kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **MARKETO ENGAGE** | Lär dig av andra | _Låsa upp kraftfull arbetsflödesautomatisering: Praktiska program i Marketo Engage REST API_ | Följ oss live och få inspiration av verkliga användningsfall för hur REST API kan användas för att effektivisera arbetsflöden som att sammanfoga leads i bulk, skapa UTM-spårningsprogram och utnyttja ChatGPT för att optimera sändningstiderna. | **17 april kl. 8.00 PT** | [Registrera](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
 
 * **WORKFRONT** | Kundworkshop | _Lär dig: Tips för textläge i Adobe Workfront_ | Vill du utöka dina rapportkunskaper med textläge? Titta inte längre! Den här workshopen innehåller en kort introduktion till grundläggande textlägen och API Explorer följt av tio tips för textläge i Adobe Workfront. | **18 april kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
