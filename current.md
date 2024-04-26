@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d650848e6b2726166669a50d03f73cd1d6db5630
+source-git-commit: 3f72ee17f088aa775dd54e62937f4e3ca3333eb4
 workflow-type: tm+mt
-source-wordcount: '6055'
+source-wordcount: '6138'
 ht-degree: 6%
 
 ---
@@ -74,6 +74,10 @@ Uppdaterat **19 april 2024**
 * **WORKFRONT** | Fråga experten: Fusion Operations | _Ställa in din systemadministratörspraxis_ | Följ experten Andy Hess och lär dig mer om Adobe Workfront Fusion, inklusive hur du kvantifierar dem, samt tips och tricks för att optimera användningen i dina scenarier. | **30 april kl. 10.30 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **JOURNEY OPTIMIZER** | Kaffebrytning | _Adobe Journey Optimizer Community Q&amp;A Coffee Break_ | Besök Adobe Journey Optimizer experter och ställ frågor och chatta runt den nya kodbaserade upplevelsekanalen i Journey Optimizer. | **8 maj kl. 8:00 PT** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816)
+
+* **COMMERCE** | Webbinarium | _Commerce &amp; Coffee: Mastering Ecommerce Essentials_ | Corey Gelato, Senior Commerce Strategy Consultant, delar med sig av e-handelslösningar för framgång, inklusive personaliserade kundkampanjer, lojalitetsprogram samt optimerade betalnings- och leveransprocesser. | **2 maj klockan 10:00 PT** | [Registrera](https://adobeevents.adobeconnect.com/ewpnh2ilj4ee/event/registration.html?campaign-id=ExL)
+
+* **COMMERCE** | Kundworkshop | _Admin 101: Få användare att använda Workfront_ | Är du nybörjare i Workfront? Gå med i våra 101-möten varje månad för att ställa frågor, få resurser, lära dig bästa praxis och träffa andra nya administratörer. Den här månaden ska vi diskutera användandet! | **8 maj kl. 8:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Se [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
