@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3f72ee17f088aa775dd54e62937f4e3ca3333eb4
+source-git-commit: 6859f12eeda24987eba695b25bac8b1b98f7b96d
 workflow-type: tm+mt
-source-wordcount: '6138'
+source-wordcount: '6185'
 ht-degree: 6%
 
 ---
@@ -67,7 +67,7 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterat **19 april 2024**
+Uppdaterat **26 april 2024**
 
 +++Information
 
@@ -77,7 +77,9 @@ Uppdaterat **19 april 2024**
 
 * **COMMERCE** | Webbinarium | _Commerce &amp; Coffee: Mastering Ecommerce Essentials_ | Corey Gelato, Senior Commerce Strategy Consultant, delar med sig av e-handelslösningar för framgång, inklusive personaliserade kundkampanjer, lojalitetsprogram samt optimerade betalnings- och leveransprocesser. | **2 maj klockan 10:00 PT** | [Registrera](https://adobeevents.adobeconnect.com/ewpnh2ilj4ee/event/registration.html?campaign-id=ExL)
 
-* **COMMERCE** | Kundworkshop | _Admin 101: Få användare att använda Workfront_ | Är du nybörjare i Workfront? Gå med i våra 101-möten varje månad för att ställa frågor, få resurser, lära dig bästa praxis och träffa andra nya administratörer. Den här månaden ska vi diskutera användandet! | **8 maj kl. 8:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Kundworkshop | _Admin 101: Få användare att använda Workfront_ | Har du inte använt Workfront tidigare? Gå med i våra 101-möten varje månad för att ställa frågor, få resurser, lära dig bästa praxis och träffa andra nya administratörer. Den här månaden ska vi diskutera användandet! | **8 maj kl. 8:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Community-händelse | _Workfront: Högre utbildning_ | Om du är Workfront-kund inom högre utbildning och är intresserad av att lösa och dela utbildningsmaterial med andra administratörer kan du delta i en timmes öppen diskussion i samarbete med WGU. | **9 maj kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,jHukwQBRqkKZAQQmjDUyUg,MMnd2IdMvUmPnHLRw6PKLg,Cp-GtpugCkeOq3zdsIZDsQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Se [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
