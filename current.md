@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce21e4ccca04ec63195b8e522d1c9195723261ef
+source-git-commit: 850bd90d2ecf012068c90278c10958e119fc7438
 workflow-type: tm+mt
-source-wordcount: '6185'
+source-wordcount: '6137'
 ht-degree: 6%
 
 ---
@@ -32,7 +32,7 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## April 2024
 
-Senaste uppdatering: **24 april 2024**
+Senaste uppdatering: **1 maj 2024**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events)
 * [Certifiering i Adobe](#certification)
@@ -67,11 +67,9 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterat **30 april 2024**
+Uppdaterat **1 maj 2024**
 
 +++Information
-
-* **WORKFRONT** | Fråga experten: Fusion Operations | _Ställa in din systemadministratörspraxis_ | Följ experten Andy Hess och lär dig mer om Adobe Workfront Fusion, inklusive hur du kvantifierar dem, samt tips och tricks för att optimera användningen i dina scenarier. | **30 april kl. 10.30 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **JOURNEY OPTIMIZER** | Kaffebrytning | _Adobe Journey Optimizer Community Q&amp;A Coffee Break_ | Besök Adobe Journey Optimizer experter och ställ frågor och chatta runt den nya kodbaserade upplevelsekanalen i Journey Optimizer. | **8 maj kl. 8:00 PT** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816)
 
