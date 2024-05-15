@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 270b9743ab0d3da4ccf830e512c881d536787b8e
+source-git-commit: 57bfa1093269549f16f34757ee9e083472098800
 workflow-type: tm+mt
-source-wordcount: '6363'
+source-wordcount: '6365'
 ht-degree: 6%
 
 ---
@@ -77,7 +77,7 @@ Uppdaterat **15 maj 2024**
 
 * **WORKFRONT** | Kaffebrytning | _Adobe Workfront Community Q&amp;A Coffee Break: Adobe Business Platform Migration_ | Besök Workfront experter i communityn och ställ frågor om Adobe Business Platform, er organisations migrering till Adobe Admin Console med mera! | **29 maj kl. 8.00 PT** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
-Se [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
+Se mer [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
 +++
 
