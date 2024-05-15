@@ -5,11 +5,10 @@ doc-type: release notes
 last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Intern granskning" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 979f350248637c570c42cc8e20e2594393460d96
+source-git-commit: 270b9743ab0d3da4ccf830e512c881d536787b8e
 workflow-type: tm+mt
-source-wordcount: '6365'
+source-wordcount: '6363'
 ht-degree: 6%
 
 ---
@@ -276,7 +275,7 @@ Hitta den senaste versionsinformationen för [!DNL Customer Journey Analytics]. 
 
 [!DNL Customer Journey Analytics] Releasedatum: **15 maj 2024**
 
-* [!DNL Customer Journey Analytics] [versionsinformation](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html)
+* [!DNL Customer Journey Analytics] [versionsinformation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest)
 
 * [!DNL Customer Journey Analytics] [produktdokumentation och självstudier](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
