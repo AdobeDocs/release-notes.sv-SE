@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 57bfa1093269549f16f34757ee9e083472098800
+source-git-commit: 776ff803675808b4695782c2fef15858a555bbae
 workflow-type: tm+mt
-source-wordcount: '6365'
+source-wordcount: '6369'
 ht-degree: 6%
 
 ---
@@ -32,7 +32,7 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Maj 2024
 
-Senaste uppdatering: **15 maj 2024**
+Senaste uppdatering: **16 maj 2024**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events)
 * [Certifiering i Adobe](#certification)
@@ -228,7 +228,7 @@ Hitta den senaste versionsinformationen för [!DNL Adobe Analytics] och [!DNL Ap
 
 [!DNL Analytics] Releasedatum: **15 maj 2024**
 
-* [!DNL Analytics] [versionsinformation](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html)
+* [!DNL Analytics] [versionsinformation](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)
 
 * [!DNL Analytics] [produktdokumentation och självstudier](https://experienceleague.adobe.com/en/docs/analytics)
 
@@ -466,10 +466,10 @@ Nya videor, självstudiekurser eller kurser som publicerats för Experience Mana
 | Maj 2024 | [!DNL AEM Sites] | [Generera variationer - Fråga om mallar i Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/prompt-templates) | Video | Lär dig hur du använder de generativa AI-promptmallarna i Edge Delivery Services för att skapa innehållsvarianter. |
 | Maj 2024 | [!DNL AEM Sites] | [Generera variationer - egna mallar för uppmaningar i Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/custom-prompt-templates) | Video | Lär dig hur du skapar anpassade promptmallar för att generera variationer i Edge Delivery Services för dokumentredigering. |
 | Maj 2024 | [!DNL AEM Sites] | [Generera variationer - spara egna promptmallar i Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/save-custom-prompt-template) | Video | Lär dig hur du sparar de generativa anpassade AI-promptmallarna i Edge Delivery Services för att skapa innehållsvarianter. |
-| Maj 2024 | [!DNL AEM Sites] | [Konfigurera Sidekick för Generera variationer i Edge Delivery Services](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations-sidekick-config.html?lang=en) | Video | Lär dig hur du konfigurerar sidindelad redigering för att generera variationer vid framtagning av dokument för Edge Delivery Services. |
+| Maj 2024 | [!DNL AEM Sites] | [Konfigurera Sidekick för Generera variationer i Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/configure-sidekick) | Video | Lär dig hur du konfigurerar sidindelad redigering för att generera variationer vid framtagning av dokument för Edge Delivery Services. |
 | Maj 2024 | [!DNL AEM Assets] | [Exportera resurser](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/export) | Artikel | Lär dig hur du exporterar resurser till din lokala dator med en anpassningsbar `Node.js` skript. Det här exportskriptet innehåller ett exempel på hur du programmässigt hämtar resurser från AEM med [!DNL AEM Assets] HTTP-API:er, som särskilt fokuserar på de ursprungliga återgivningarna för att säkerställa högsta kvalitet. |
 | Maj 2024 | [!DNL AEM Forms] | [Använda GuideBridge API för att POST formulärdata](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/core-component-based-forms/submit-data-using-guidebridge-api) | Artikel | Använd [!UICONTROL Save and Resume] för att spara ifyllnadsföringen av formuläret och återuppta det senare. |
-| Maj 2024 | [!DNL AEM Sites] | [Generativ AI i [!DNL AEM Sites]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-generative-ai-for-aem-sites.html) | Video | Utforska de nya generativa AI-funktionerna i [!DNL AEM Sites] dokumentutveckling. |
+| Maj 2024 | [!DNL AEM Sites] | [Generativ AI i [!DNL AEM Sites]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-generative-ai-for-aem-sites) | Video | Utforska de nya generativa AI-funktionerna i [!DNL AEM Sites] dokumentutveckling. |
 | Maj 2024 | [!DNL AEM Forms] | [Fylla i ett PDF-formulär med ChatBot](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/chatbot-and-aem-forms/introduction) | Video | Lär dig hur du fyller i ett PDF-formulär med Chatbot. |
 | Maj 2024 | AEM Headless | [Skydda innehåll i AEM Headless](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/protected-content) | Artikel | Lär dig hur du skyddar innehåll i AEM Headless. |
 | Maj 2024 | AEM CS | [Avancerade nätverk](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/networking/advanced-networking) | Artikel | Läs mer om AEM as a Cloud Service avancerade nätverksalternativ. |
@@ -497,13 +497,13 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Experience Mana
 | April 2024 | [[!DNL Marcom] - Rensning av revision visas inte under dagligt underhåll - [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24037) | Ny artikel | Läs mer om synligheten för [!UICONTROL Revision Clean Up] i [!DNL Adobe Experience Manager (AEM)] Användargränssnitt under [!UICONTROL Daily Maintenance], särskilt efter en uppgradering till [!DNL SP17]och ger insikter i hanteringen av  [!UICONTROL Revision Garbage Collection] när du använder [!DNL MongoDB] som ett datalager. |
 | April 2024 | [Inaktivera fulltextsökning med [!DNL mime] text med anpassad [!DNL Tika] konfiguration i [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24046) | Ny artikel | Läs om hur du anpassar [!DNL Tika] konfiguration för att inaktivera fulltextsökning baserad på fil [!DNL mime] typer. |
 | April 2024 | [[!DNL Scene7]: Markera affischbildrutan eller videominiatyrbilden](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24053) | Ny artikel | Lär dig hur du anger en viss miniatyrbild eller förhandsvisningsbild i [!DNL Adobe Experience Manager (AEM)] inom ramen för [!DNL Scene7], nu känt som **[!DNL Dynamic Media]**. |
-| April 2024 | [Lägga till `stricthostcheck` in [!DNL AEMaaCS] dispatcher, konfiguration](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24069) | Ny artikel | Lär dig hur du lägger till `stricthostcheck` in [!DNL AEMaaCS] dispatcher-konfiguration. |
+| April 2024 | [Lägga till `stricthostcheck` in [!DNL AEMaaCS] Dispatcher-konfiguration](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24069) | Ny artikel | Lär dig hur du lägger till `stricthostcheck` in [!DNL AEMaaCS] Dispatcher-konfiguration. |
 | April 2024 | [[!DNL Adobe Experience Manager]: Det går inte att visa [!DNL Java] källa till [!DNL JSP/HTL] under `/libs`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24079) | Ny artikel | Lär dig hur du visar [!DNL Java] källa till [!DNL JSP/HTL] under `/libs` genom att inaktivera [!DNL Adobe Experience Manager as a Cloud Service's aem-precompiled-scripts] paket. |
 | April 2024 | [[!DNL Adobe Experience Manager]: Det första granskningssteget för `No renderer for extension html`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24080) | Ny artikel | Läs mer om orsaken till felmeddelandet: `No renderer for extension html`som påträffades när en webbsida skulle öppnas i [!DNL Adobe Experience Manager]. |
 | April 2024 | [Rensning [!DNL Fastly CDN] cachelagra när en [!DNL WAF] eller [!DNL BYOCDN]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24097) | Ny artikel | Läs om hur du konfigurerar cacherensning för [!DNL AEM as a Cloud Service] när du använder [!DNL Web Application Firewall (WAF)] eller en egen [!DNL CDN] lösning ([!DNL BYOCDN]). Att förstå hur man navigerar i dessa komplexa konfigurationer är avgörande för att man ska kunna leverera effektivt innehåll. |
 | April 2024 | [Förstå [!UICONTROL Cumulative Query Execution Times] in [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24128) | Ny artikel | Läs mer om felsökning av frågeprestanda i [!DNL AEM]. |
 | April 2024 | [Sidorna visas inte korrekt vid förhandsvisning](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24147) | Ny artikel | Läs mer om lösningen som visas när en sida förhandsgranskas i molnet ([!DNL AEMaaCS]) förhandsvisningsmiljön kanske inte visas [!DNL CSS], formatering eller upplevelsefragment som ingår i sidans mall. |
-| April 2024 | [Så här gör du [!DNL flush] dispatchercachen när det finns grupper med separata cachemappar](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24023) | Ny artikel | Lär dig hur [!DNL flush] Dispatcher-cachen när det finns grupper med separata cachemappar. |
+| April 2024 | [Så här gör du [!DNL flush] Dispatcher-cachen när det finns grupper med separata cachemappar](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24023) | Ny artikel | Lär dig hur [!DNL flush] Dispatcher-cachen när det finns grupper med separata cachemappar. |
 
 {style="table-layout:auto"}
 
@@ -659,7 +659,7 @@ Nya videor, självstudiekurser eller kurser publicerade för Adobe [!DNL Journey
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Maj 2024 | [Skapa funktionsmakron](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/create-actions.html) | Video | Lär dig vad en åtgärd är, hur du använder åtgärden Redigera profil och Hoppa i [!DNL Journey Optimizer]och hur du konfigurerar en anpassad åtgärd. |
+| Maj 2024 | [Skapa funktionsmakron](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/create-actions) | Video | Lär dig vad en åtgärd är, hur du använder åtgärden Redigera profil och Hoppa i [!DNL Journey Optimizer]och hur du konfigurerar en anpassad åtgärd. |
 | Maj 2024 | [Importera och redigera e-postinnehåll från HTML med meddelanderedigeraren](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content) | Video | Lär dig hur du importerar befintligt HTML-innehåll, ändrar designen, lägger till spegelsideslänkar och avbryter prenumerationen samt hur du kodar ditt innehåll. |
 | Maj 2024 | [Konfigurera MMS API-autentiseringsuppgifter och kanalytor](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/configure-mms-api-credentials-and-channel-surfaces) | Video | Lär dig hur du ansluter [!DNL Journey Optimizer] till en MMS-tjänsteleverantör och hur man skapar en MMS-kanalyta. |
 | Maj 2024 | [Skapa en kodbaserad upplevelsekampanj](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/code-based-experience-channel/create-a-code-based-experience-campaign) | Video | Lär dig hur du skapar en kodbaserad upplevelsekampanj för att skala personaliseringen med stöd för implementeringsmetoder på serversidan, API-baserade eller SDK-baserade för att sömlöst integrera med utvecklingsmiljöer. |
