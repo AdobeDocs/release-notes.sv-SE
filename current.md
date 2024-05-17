@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3bfd6c90c7d3113f95e46b8f355cb581835b3242
+source-git-commit: 45296141bb022d720f3d50d1dfe282224bde72d1
 workflow-type: tm+mt
-source-wordcount: '6377'
+source-wordcount: '6466'
 ht-degree: 6%
 
 ---
@@ -67,7 +67,7 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterat **15 maj 2024**
+Uppdaterat **17 maj 2024**
 
 +++Information
 
@@ -76,6 +76,10 @@ Uppdaterat **15 maj 2024**
 * **WORKFRONT** | Community-händelse | _Adobe Workfront Industry Circle: Retail_ | Om du är Workfront-kund inom detaljhandeln och är intresserad av att lösa och dela utbildningsmaterial med andra administratörer kan du delta i en timmes öppen diskussion som leds av administratörer från DSW och Nordstrom. | **23 maj kl. 11.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Kaffebrytning | _Adobe Workfront Community Q&amp;A Coffee Break: Adobe Business Platform Migration_ | Besök Workfront experter i communityn och ställ frågor om Adobe Business Platform, er organisations migrering till Adobe Admin Console med mera! | **29 maj kl. 8.00 PT** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
+
+* **WORKFRONT** | Webbinarium | _Vakna med Workfront: Optimera och underhåll din miljö_ | Delta i Adobe Business Advisors när de delar med sig av insikter om hur ni kan optimera er arbetsmiljö i Adobe Workfront med hjälp av sanerings- och utbildningsstrategier, implementeringsplaner och kontinuerliga förbättringar. | **6 juni kl. 13:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
+
+* **WORKFRONT** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att koppla dig till andra administratörer för att diskutera bästa praxis samt tips och tricks. | **7 juni kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Se mer [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
