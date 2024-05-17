@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 776ff803675808b4695782c2fef15858a555bbae
+source-git-commit: 3bfd6c90c7d3113f95e46b8f355cb581835b3242
 workflow-type: tm+mt
-source-wordcount: '6369'
+source-wordcount: '6377'
 ht-degree: 6%
 
 ---
@@ -71,7 +71,7 @@ Uppdaterat **15 maj 2024**
 
 +++Information
 
-* **WORKFRONT** | Frågor och svar - chatt | _Fråga experterna: bemästra din administratörspraxis - uppföljning av webbinarium_ | Delta med kollegor och våra experter från Dell och Adobe på vårt uppföljningshändelse för webbinariet för att fortsätta konversationen om att bemästra din administratörspraxis. | **16 maj kl. 8.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,GXUvIFWKiEanOME_WMN1Hw,BMP5cgCS5UOxsAdDHNDUyw,RoMIPwb8AkKNMLe_k5S2ww?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **REAL-TIME CUSTOMER DATA PLATFORM OCH MÅL** | Webbinarium | _Den perfekta blandningen: RTCDP, Target och Friends_ | Delta i en Senior Solutions Consultant, Josh Kimball, som berättar hur RTCDP samlar flerkanalsdata i kundprofiler och smidigt kopplar samman med Adobe Target för att aktivera en personaliserad strategi för dessa segment. | **23 maj klockan 13:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/ev550gaxnx7r/event/registration.html?campaign-id=ExL)
 
 * **WORKFRONT** | Community-händelse | _Adobe Workfront Industry Circle: Retail_ | Om du är Workfront-kund inom detaljhandeln och är intresserad av att lösa och dela utbildningsmaterial med andra administratörer kan du delta i en timmes öppen diskussion som leds av administratörer från DSW och Nordstrom. | **23 maj kl. 11.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
