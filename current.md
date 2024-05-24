@@ -1,14 +1,14 @@
 ---
 title: Senaste versionsinformation
-description: Hitta den senaste versionsinformationen och kunskapsbasutgåvan för Adobe [!DNL Experience Cloud] produkter och tjänster. Läs mer om kommande händelser och ny dokumentation om Experience League. Upptäck de senaste självstudiekurserna och kurserna för [!DNL Experience Cloud] program.
+description: Hitta den senaste versionsinformationen och kunskapsbasutgåvan för Adobe [!DNL Experience Cloud] produkter och tjänster. Läs mer om kommande evenemang och ny dokumentation om Experience League. Upptäck de senaste självstudiekurserna och kurserna för [!DNL Experience Cloud] program.
 doc-type: release notes
 last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 45296141bb022d720f3d50d1dfe282224bde72d1
+source-git-commit: 5c27e02cd941862486885944c1e74838a10ac3f9
 workflow-type: tm+mt
-source-wordcount: '6466'
+source-wordcount: '6366'
 ht-degree: 6%
 
 ---
@@ -67,13 +67,9 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterat **17 maj 2024**
+Uppdaterat **24 maj 2024**
 
 +++Information
-
-* **REAL-TIME CUSTOMER DATA PLATFORM OCH MÅL** | Webbinarium | _Den perfekta blandningen: RTCDP, Target och Friends_ | Delta i en Senior Solutions Consultant, Josh Kimball, som berättar hur RTCDP samlar flerkanalsdata i kundprofiler och smidigt kopplar samman med Adobe Target för att aktivera en personaliserad strategi för dessa segment. | **23 maj klockan 13:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/ev550gaxnx7r/event/registration.html?campaign-id=ExL)
-
-* **WORKFRONT** | Community-händelse | _Adobe Workfront Industry Circle: Retail_ | Om du är Workfront-kund inom detaljhandeln och är intresserad av att lösa och dela utbildningsmaterial med andra administratörer kan du delta i en timmes öppen diskussion som leds av administratörer från DSW och Nordstrom. | **23 maj kl. 11.00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Kaffebrytning | _Adobe Workfront Community Q&amp;A Coffee Break: Adobe Business Platform Migration_ | Besök Workfront experter i communityn och ställ frågor om Adobe Business Platform, er organisations migrering till Adobe Admin Console med mera! | **29 maj kl. 8.00 PT** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
@@ -164,7 +160,7 @@ Hitta den senaste versionsinformationen och den nya dokumentationen för [!DNL E
 
 +++Information
 
-* Versionsinformation om [[!DNL Experience Platform] ](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
+* [[!DNL Experience Platform] versionsinformation](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
 
 * [[!DNL Experience Platform] Versionsinformation för Mobile SDK](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
@@ -694,7 +690,7 @@ Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [[!
 
 * [Instruktionsvideor](https://experienceleague.adobe.com/en/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration)
 
-* [Senaste dokumentationsuppdateringarna](https://experienceleague.adobe.com/en/docs/journeys/using/release-notes/documentation-updates)
+* [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/en/docs/journeys/using/release-notes/documentation-updates)
 
 +++
 
