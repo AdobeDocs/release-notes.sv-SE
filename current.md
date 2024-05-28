@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5c27e02cd941862486885944c1e74838a10ac3f9
+source-git-commit: 44a28ba76ef778ff8b609b836f7cde6a8ad265e7
 workflow-type: tm+mt
-source-wordcount: '6366'
-ht-degree: 6%
+source-wordcount: '4841'
+ht-degree: 7%
 
 ---
 
@@ -311,149 +311,19 @@ Nya funktioner, korrigeringar och uppdateringar i Experience Manager. Adobe reko
 
 +++Information
 
-### [!DNL Experience Manager] färdplaner och videoklipp
-
-Adobe rekommenderar att du besöker följande resurser för att hålla dig uppdaterad om versionsinformation:
-
-* [Uppdateringar och färdplaner för Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/home) - Lär dig mer om lanseringarna av Experience Manager, tidigare uppdateringar och dokumentationsuppdateringar.
-* [as a Cloud Service uppdateringar för Experience Manager](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview) - Titta på funktionsvideoöversikter över aktuella och tidigare versioner av [!DNL Experience Manager as a Cloud Service].
-* [Aktuell versionsinformation för Adobe Experience Manager (AEM) as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) - Läs den senaste versionsinformationen för [!DNL Experience Manager as a Cloud Service].
-
-<!-- ### Latest Release Overview video
-
-Watch the [November 2023 Release Overview video](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/2023/2023-11-0.html?lang=en) for a summary of the features added in the 2023.11.0 (November 2023) release. -->
-
-### [!DNL Experience Manager Sites] som [!DNL Cloud Service]
-
-_Extension Manager in[!DNL AEM Sites]_
-
-Utforska nya [Extension Manager in [!DNL AEM Sites]](https://developer.adobe.com/uix/docs/extension-manager/) så att du kan anpassa AEM genom att konfigurera gränssnittstillägg.
-
-Extension Manager in [!DNL AEM Sites] gör det möjligt för utvecklare och yrkesverksamma att få tillgång till, hantera och anpassa [Gränssnittstillägg](https://developer.adobe.com/uix/docs/) inbyggd med [Adobe App Builder](https://developer.adobe.com/app-builder/) för att förbättra funktionaliteten hos [!DNL AEM Sites].
-
-Med Extension Manager kan du göra följande:
-
-* Aktivera eller inaktivera tillägg per instans.
-* Konfigurera tilläggsparametrar;
-* Förhandsgranska tillägg och generera en delbar förhandsgranskningslänk.
-* Upptäck funktioner för användargränssnittets utbyggbarhet via interaktiva demos.
-* Få tillgång till Adobe experimentella funktioner via förstahandstillägg.
-
-Adobe söker aktivt efter feedback och nya användningsexempel för UI-tillägg. Om du vill ansluta skickar du ett mejl till [uix@adobe.com](mailto:uix@adobe.com).
-
-### [!DNL Experience Manager Assets] som [!DNL Cloud Service]
-
-_Administratörsvy förhandsversionsfunktioner_
-
-* **Förhandsgranska återgivningar för alla videotyper som stöds** - Experience Manager Assets genererar nu förhandsgranskningsåtergivningar av alla videotyper som stöds som standard utan att en bearbetningsprofilskonfiguration krävs.
-
-_Resursvy_
-
-* **[!UICONTROL Smart Tags]blockeringslista** - I Assets Essentials skapar du en blockeringslista som består av ord som du kanske inte vill lägga till som [!UICONTROL Smart Tags] till resurser när de överförs till databasen. Med den här funktionen kan ni upprätthålla varumärkestrohet och minska arbetet med att moderera smarta taggar.
-
-### [!DNL Experience Manager Forms] som [!DNL Cloud Service]
-
-_Tidiga Adobe-program_
-
-* **[Skicka ett anpassat formulär till Adobe Workfront Fusion Scenario](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/forms/integrate/services/submit-adaptive-form-to-workfront-fusion)** - Forms as a Cloud Service har färdiga alternativ för smidig anslutning av adaptiva formulär till Adobe Workfront. Detta förenklar processen att skicka in ett adaptivt formulär till ett Adobe Workfront-scenario, vilket gör att du kan utlösa ett Workfront Fusion-scenario när ett adaptivt formulär skickas in.
-
-* **[Stöd för språk från höger till vänster](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/supporting-new-language-localization-core-components)** - Adaptiv Forms som bygger på kärnkomponenter kan nu presenteras på höger-till-vänster-språk (RTL) som arabiska, persiska och urdu. Globalt talar över 2 miljarder människor RTL-språk. Genom att använda ett formulär på RTL-språk kan ni utöka räckvidden för era adaptiva formulär så att de kan anpassas till dessa olika målgrupper och väljas ut på RTL-marknader. I vissa regioner är det också ett juridiskt mandat att tillhandahålla blanketter på det lokala språket. Genom att ta hand om lokala språk kan ni inte bara öppna dörrar för en bredare publik utan också säkerställa att relevanta lagar och bestämmelser följs.
-
-* **[Protect dina dokument med DocAssurance API:er (del av kommunikations-API:er)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications-introduction)** - Med API:erna för DocAssurance kan du skydda känslig information genom att signera och kryptera dokumenten. Genom kryptering omvandlas innehållet i ett dokument till ett oläsligt format så att bara behöriga användare kan få åtkomst till det. Detta förstärkta skydd skyddar inte bara värdefulla data från obehöriga ögon, utan ger även sinnesro. Med signatur-API:erna kan din organisation skydda säkerheten och sekretessen för Adobe PDF-dokument som den distribuerar och tar emot. Den här tjänsten använder digitala signaturer och certifiering för att säkerställa att endast avsedda mottagare kan ändra dokument.
-
-Du kan skriva till [aem-forms-early-adopter-program@adobe.com](mailto:aem-forms-early-adopter-program@adobe.com) från ditt officiella e-post-ID för att gå med i det tidiga adopterprogrammet och begära åtkomst till funktionen.
-
-### [!DNL Experience Manager] som [!DNL Cloud Service Foundation]
-
-* **Dynatrace-kunder kan övervaka AEM** - [Läs om](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/dynatrace) för att begära anslutning till din Dynatrace-miljö för övervakning av programprestanda. New Relic APM, som är tillgängligt för alla kunder, slutar samla in data om Dynatrace är aktiverat.
-
-* **RDE-stöd för Front-End-kod med hjälp av webbplatsteman och webbplatsmallar** - [Rapid Development Environment (RDE)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments) har nu stöd för slutkod för [webbplatsteman](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/administering/site-creation/site-themes) och [webbplatsmallar](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/administering/site-creation/site-templates), för tidiga användare. Med de skrivna redigeringsfälten görs detta med hjälp av ett kommandoradsdirektiv i stället för ett [rörledning för frontend](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/administering/site-creation/enable-front-end-pipeline). Skicka e-post till [aemcs-rde-support@adobe.com](mailto:aemcs-rde-support@adobe.com) om du vill prova det och ge feedback.
-
-### [!DNL Cloud Manager]
-
-_Nya funktioner_
-
-* Molnhanteraren validerar nu förfallodatumen inte bara för huvudsidan [certifikat](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-ssl-certificates/introduction), men även för mellanliggande certifikat.
-* CDN [loggar](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-logs) returneras nu i ett komprimerat format.
-
-_Tidiga Adobe-program_
-
-Om du vill testa några av de kommande funktionerna kan du vara en del av programmet som används av Adobe tidigt.
-
-* **Klientsidessamling med hjälp av Real User Monitoring (RUM)** - Använd [Real User Monitoring (RUM) Data Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/content-requests) för att aktivera klientsidessamling för AEM as a Cloud Service.
-
-  Real User Monitoring (RUM) Data Service ger en mer exakt återgivning av användarinteraktioner och säkerställer ett tillförlitligt mått på webbplatsengagemanget. Det är en utmärkt möjlighet att få avancerade insikter om hur sidan fungerar. Detta är fördelaktigt för kunder som använder antingen CDN som hanteras av Adobe eller CDN som inte hanteras av Adobe. För kunder som använder ett icke-Adobe-hanterat CDN kan automatiserad trafikrapportering nu aktiveras för dem, vilket eliminerar behovet av att dela trafikrapporter med Adobe.
-
-  Om du vill testa den här nya funktionen och dela med dig av dina synpunkter skickar du ett e-postmeddelande till [aemcs-rum-adopter@adobe.com](mailto:aemcs-rum-adopter@adobe.com) från den e-postadress som är kopplad till din Adobe ID. Inkludera domännamnet för produktions-, scen- och utvecklingsmiljöer i e-postmeddelandet. Tillgången till programmet för tidig användning av den här funktionen är begränsad.
-
-* **Hämta din egen GitHub** - Om du använder GitHub för att hantera dina databaser, [du kan validera kod direkt i dina GitHub-databaser via Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/managing-code/byo-github). Integreringen eliminerar behovet av att konsekvent synkronisera kod med Adobe-databasen och gör att du kan verifiera pull-begäranden innan du sammanfogar dem i huvudgrenarna.
-
-  Om du vill testa den här nya funktionen och dela med dig av dina synpunkter skickar du ett e-postmeddelande till [Grp-CloudManager_BYOG@adobe.com](mailto:Grp-CloudManager_BYOG@adobe.com) från den e-postadress som är kopplad till din Adobe ID.
-
-* **Självbetjäning för återställning av innehåll** - [En ny självbetjäningsfunktion för innehållsåterställning](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/operations/restore) erbjuder nu säkerhetskopiering för återställning i upp till sju dagar och är tillgänglig för tidiga användare i utvärderingssyfte som omfattar:
-
-   * Säkerhetskopiering vid bestämda tidpunkter för de senaste 24 timmarna
-   * Återställningar i upp till sju dagar
-
-  Om du vill testa den här nya funktionen och dela med dig av dina synpunkter skickar du ett e-postmeddelande till [aemcs-restorefrombackup-adopter@adobe.com](mailto:aemcs-restorefrombackup-adopter@adobe.com) via e-post som är kopplad till din Adobe ID.
-
-   * Det tidiga adopterprogrammet är begränsat till utvecklingsmiljöer.
-   * Tillgången till programmet för tidig användning av den här funktionen är begränsad.
-   * Den här funktionen används för att återställa innehåll som har tagits bort av misstag och är inte avsedd för katastrofåterställning.
-
-* **Kontrollpanelen för Experience Audit** - [Kontrollpanelen för Experience Audit i Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard) innehåller en trendvy över dina sidresultatspoäng tillsammans med insikter och rekommendationer som hjälper dig att förbättra dem. Experience Audit ingår som ett steg i Cloud Managers produktionsflöde.
-
-  Kontrollpanelen använder Google Lightroom, ett automatiserat verktyg med öppen källkod som förbättrar kvaliteten på dina webbprogram. Du kan köra det mot alla webbsidor, offentliga webbplatser eller autentiseringar. Den har granskningar av prestanda, tillgänglighet, progressiva webbprogram, SEO med mera.
-
-  Är du intresserad av att testa den nya instrumentpanelen? Skicka ett e-postmeddelande till [aem-lighthouse-pilot@adobe.com](mailto:aem-lighthouse-pilot@adobe.com) via e-post som är kopplad till din Adobe ID.
-
-_Felkorrigeringar_
-
-* Ett fel korrigerades där konfigurationsförloppet skulle misslyckas vid byggsteget med ett oklart felmeddelande om platsen för konfigurationsfilerna inte var korrekt inställd. Felmeddelandet är nu klart och anger att användaren bör kontrollera att platsen för konfigurationsfilerna är korrekt.
-* När ett byggsteg avslutas med status `FAILED` på grund av `BUILD_MAVEN_TRANSFER_ARTIFACT_ERROR`, beskrivs det nu korrekt som ett fel på grund av sammanslagningskonflikter med målgrenen.
-
-### [!DNL Workfront for Experience Manager] förbättrad koppling
-
-Releasedatum för den senaste versionen, 1.9.18, av Workfront för Experience Manager med utökad anslutning är 8 mars 2024.
-
-_Frigör högdagrar_
-
-I den senaste versionen av den förbättrade anslutningen för Workfront för Experience Manager finns följande felkorrigeringar:
-
-* Problem uppstår vid bearbetning av överföringar av flera resurser från Workfront.
-* Om du inte lägger till avslutande citattecken när du använder Workfront för att söka efter mappar i Experience Manager resulterar det i `SERVER_ERROR`.
-
->[!NOTE]
->
->AEM 6.4 upphör nu med utökat stöd. Mer information finns i Adobe. [teknisk supportperiod](https://helpx.adobe.com/se/support/programs/eol-matrix.html). Sök [versioner som stöds här](https://experienceleague.adobe.com/en/docs).
-
->[!IMPORTANT]
->
->Adobe rekommenderar att du [uppgradera till den senaste 1.9.18-versionen](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install) för Workfront för Experience Manager förbättrade kontakter.
-
-_Kända fel_
-
-* När projektlänkade mappar konfigureras med AEM 6.4, [!DNL Experience Manager] sparar inte värden för **undermappar** och **Skapa länkad mapp i projekt med portfölj** fält. Värdet för **undermappar** fältuppdateringar till **undefined**. Värdet för **Skapa länkad mapp i projekt med portfölj** fältuppdateringar till **Portfolio** automatiskt när konfigurationen har sparats.
-* När du använder den klassiska Workfront-upplevelsen **Skicka till** som finns i **Mer** I den nedrullningsbara listan kan du inte välja måldestinationen i Experience Manager. The **Skicka till** fungerar korrekt med **Dokumentåtgärder** listruta. The **Skicka till** alternativet fungerar korrekt för **Mer** nedrullningsbar lista och **Dokumentåtgärder** nedrullningsbar lista som finns i nya Workfront.
-
 ### Versionsinformation för Experience Manager
 
 Alla [!DNL Experience Manager] versionsinformationen finns på följande sidor:
 
-* [as a Cloud Service versionsinformation för Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/home)
-* [as a Cloud Service uppdateringar för Experience Manager](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
+* [Uppdateringar och färdplaner för Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/home) - Lär dig mer om lanseringarna av Experience Manager, tidigare uppdateringar och dokumentationsuppdateringar.
 * [Aktuell versionsinformation för Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
-* [as a Cloud Service versionsinformation för Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/home)
+* [Versionsinformation om Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes)
 * [Versionsinformation om Experience Manager Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [Versionsinformation för konverteringstjänsten för automatiserade formulär](https://experienceleague.adobe.com/en/docs/aem-forms-automated-conversion-service/using/release-notes)
-* [Versionsinformation om Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes)
-* [Versionsinformation för Experience Manager 6.4 Cumulative Fix Pack](https://experienceleague.adobe.com/en/docs/experience-manager-64/release-notes/cfp-release-notes)
 * [Versionsinformation för Experience Manager Assets Dynamic Media](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
 * [Versionsinformation för Experience Manager Brand Portal](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
 * [Versionsinformation för Experience Manager-datorprogrammet](https://experienceleague.adobe.com/en/docs/experience-manager-desktop-app/using/release-notes)
 * [Versionsinformation om Experience Manager Dispatcher](https://experienceleague.adobe.com/en/docs/experience-manager-dispatcher/using/getting-started/release-notes)
-* [Versionsinformation för Adobe Primetime](https://experienceleague.adobe.com/en/docs/pass)
-* [Versionsinformation för Livefyre](https://experienceleague.adobe.com/en/docs/discontinued/using/livefyre)
 
 ### Nytt [!DNL Experience Manager] självstudiekurser och kurser {#tutorials-aem}
 
@@ -507,28 +377,7 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Experience Mana
 
 {style="table-layout:auto"}
 
-### Andra hjälpresurser för [!DNL Experience Manager]
-
-* [Dynamic Media Classic – startsida för hjälp](https://experienceleague.adobe.com/en/docs/dynamic-media-classic/using/home)
-* [as a Cloud Service stödlinjer för Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/overview/introduction)
-* [Användarhandbok för Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/introduction)
-* [Experience Manager 6.5 - startsida för utbildning och support](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/deploying/introduction/platform)
-* [Experience Manager 6.4 - startsida för utbildning och support](https://experienceleague.adobe.com/en/docs/experience-manager-64)
-* [Experience Manager-dokumentation: Senaste uppdateringar](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates)
-* [Äldre versioner av Experience Manager-dokumentation](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
-
 +++
-
-<!-- ## ![Icon](/assets/ec_appicon_24.png) Adobe [!DNL Experience Manager Guides] {#xml-doc}
-
-[!DNL Experience Manager Guides] is an application deployed onto AEM. It is a powerful, enterprise-grade component content management solution (CCMS) which enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery.
-
-Learn more about [[!DNL Experience Manager Guides]](https://business.adobe.com/products/experience-manager/guides/features.html).
-
-### Additional resources
-
-* [[!DNL Experience Manager Guides]](https://experienceleague.adobe.com/docs/experience-manager-guides-learn/videos/overview.html) - tutorials on Experience League
-* [[!DNL Experience Manager Guides] Learn & Support](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html) - product documentation -->
 
 ## ![Ikon](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
