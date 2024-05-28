@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7aac2cd48bd037c3f860328e3418d7af6ad58d7d
+source-git-commit: aee0af049df43d0004e8d3b9686731cbb27587b4
 workflow-type: tm+mt
-source-wordcount: '4841'
+source-wordcount: '4881'
 ht-degree: 7%
 
 ---
@@ -32,7 +32,7 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Maj 2024
 
-Senaste uppdatering: **16 maj 2024**
+Senaste uppdatering: **28 maj 2024**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events)
 * [Certifiering i Adobe](#certification)
@@ -40,8 +40,8 @@ Senaste uppdatering: **16 maj 2024**
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och central administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (frigöra **15 maj**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (frigöra **15 maj**)
+* [[!DNL Adobe Analytics]](#analytics) (släppt **15 maj**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (släppt **15 maj**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,10 +67,11 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterat **24 maj 2024**
+Uppdaterat **28 maj 2024**
 
 +++Information
 
+* **UPPLEVELSER AV DIG** | Videor | _Upplevelser av dig_ har innehåll som skapats av användare som har uppnått en viss kunskapsnivå och som påverkar deras Adobe DX-lösningar. hitta inspiration som behövs för att höja din produktexpertis. | [Tillgänglig på begäran](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
 * **WORKFRONT** | Kaffebrytning | _Adobe Workfront Community Q&amp;A Coffee Break: Adobe Business Platform Migration_ | Besök Workfront experter i communityn och ställ frågor om Adobe Business Platform, er organisations migrering till Adobe Admin Console med mera! | **29 maj kl. 8.00 PT** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
 * **WORKFRONT** | Webbinarium | _Vakna med Workfront: Optimera och underhåll din miljö_ | Delta i Adobe Business Advisors när de delar med sig av insikter om hur ni kan optimera er arbetsmiljö i Adobe Workfront med hjälp av sanerings- och utbildningsstrategier, implementeringsplaner och kontinuerliga förbättringar. | **6 juni kl. 13:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
