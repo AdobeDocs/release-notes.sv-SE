@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: aee0af049df43d0004e8d3b9686731cbb27587b4
+source-git-commit: 2c43781a5d8372dc6967f0d193d5cfd3a369c0f5
 workflow-type: tm+mt
-source-wordcount: '4881'
+source-wordcount: '4931'
 ht-degree: 7%
 
 ---
@@ -32,9 +32,9 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Maj 2024
 
-Senaste uppdatering: **28 maj 2024**
+Senaste uppdatering: **30 maj 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (**30 maj**)
 * [Certifiering i Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och central administration](#ecloud)
@@ -67,16 +67,19 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterat **28 maj 2024**
+Uppdaterat **30 maj 2024**
 
 +++Information
 
 * **UPPLEVELSER AV DIG** | Videor | _Upplevelser av dig_ har innehåll som skapats av användare som har uppnått en viss kunskapsnivå och som påverkar deras Adobe DX-lösningar. hitta inspiration som behövs för att höja din produktexpertis. | [Tillgänglig på begäran](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
-* **WORKFRONT** | Kaffebrytning | _Adobe Workfront Community Q&amp;A Coffee Break: Adobe Business Platform Migration_ | Besök Workfront experter i communityn och ställ frågor om Adobe Business Platform, er organisations migrering till Adobe Admin Console med mera! | **29 maj kl. 8.00 PT** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
 * **WORKFRONT** | Webbinarium | _Vakna med Workfront: Optimera och underhåll din miljö_ | Delta i Adobe Business Advisors när de delar med sig av insikter om hur ni kan optimera er arbetsmiljö i Adobe Workfront med hjälp av sanerings- och utbildningsstrategier, implementeringsplaner och kontinuerliga förbättringar. | **6 juni kl. 13:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
 
 * **WORKFRONT** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att koppla dig till andra administratörer för att diskutera bästa praxis samt tips och tricks. | **7 juni kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **COMMERCE** | Webbinarium | _Bakom brevet: Adobe Commerce Intelligence (f ka MBI)_ | Nå en djupdykning av Adobe Commerce Intelligence (tidigare Magento Business Intelligence), ett kraftfullt verktyg som utformats för att förvandla era e-handelsdata till användbara insikter via skräddarsydda instrumentpaneler och rapporter. | **11 juni kl. 13:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/ex795wtgzy1v/event/registration.html?campaign-id=ExL)
+
+* **MARKETO ENGAGE** | Kaffebrytning | _Generativa AI-funktioner för Adobe Dynamic Chat_ | Missa inte detta tillfälle att fråga våra experter om de nya funktionerna för Adobe Dynamic Chat, som möjliggör frihandsritningar, tvåvägssamtal i chatbot med mera! | **12 juni kl. 8.00 PT** | [Registrera](https://mugs.marketo.com/events/details/marketo-marketo-coffee-breaks-presents-adobe-marketo-engage-community-coffee-break-gen-ai-for-dynamic-chat/)
 
 Se mer [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
