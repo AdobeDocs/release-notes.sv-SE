@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2c43781a5d8372dc6967f0d193d5cfd3a369c0f5
+source-git-commit: 108f6e465fc220340aaa4bf233093bf182d58702
 workflow-type: tm+mt
-source-wordcount: '4931'
+source-wordcount: '5038'
 ht-degree: 7%
 
 ---
@@ -73,13 +73,17 @@ Uppdaterat **30 maj 2024**
 
 * **UPPLEVELSER AV DIG** | Videor | _Upplevelser av dig_ har innehåll som skapats av användare som har uppnått en viss kunskapsnivå och som påverkar deras Adobe DX-lösningar. hitta inspiration som behövs för att höja din produktexpertis. | [Tillgänglig på begäran](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
 
-* **WORKFRONT** | Webbinarium | _Vakna med Workfront: Optimera och underhåll din miljö_ | Delta i Adobe Business Advisors när de delar med sig av insikter om hur ni kan optimera er arbetsmiljö i Adobe Workfront med hjälp av sanerings- och utbildningsstrategier, implementeringsplaner och kontinuerliga förbättringar. | **6 juni kl. 13:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
-
 * **WORKFRONT** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att koppla dig till andra administratörer för att diskutera bästa praxis samt tips och tricks. | **7 juni kl. 9:00 PT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **COMMERCE** | Webbinarium | _Bakom brevet: Adobe Commerce Intelligence (f ka MBI)_ | Nå en djupdykning av Adobe Commerce Intelligence (tidigare Magento Business Intelligence), ett kraftfullt verktyg som utformats för att förvandla era e-handelsdata till användbara insikter via skräddarsydda instrumentpaneler och rapporter. | **11 juni kl. 13:00 ET** | [Registrera](https://adobeevents.adobeconnect.com/ex795wtgzy1v/event/registration.html?campaign-id=ExL)
 
 * **MARKETO ENGAGE** | Kaffebrytning | _Generativa AI-funktioner för Adobe Dynamic Chat_ | Missa inte detta tillfälle att fråga våra experter om de nya funktionerna för Adobe Dynamic Chat, som möjliggör frihandsritningar, tvåvägssamtal i chatbot med mera! | **12 juni kl. 8.00 PT** | [Registrera](https://mugs.marketo.com/events/details/marketo-marketo-coffee-breaks-presents-adobe-marketo-engage-community-coffee-break-gen-ai-for-dynamic-chat/)
+
+* **CREATIVE CLOUD, EXPERIENCE MANAGER OCH WORKFRONT** | Frågor och svar - chatt | _Fråga: Bygga innehållsleveranskedjan med Workfront, Creative Cloud och AEM_ | Träffa Adobe Customer Success Teams och City National Bank för att få en timmes intervju om bästa praxis, fördelar och mervärde med integreringar med Workfront, Creative Cloud och AEM. | **18 juni kl. 10.30 PT** | [Registrera](https://events.teams.microsoft.com/event/ff76e5c9-8c8c-4dc4-927c-902a446215b7@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **MARKETO MEASURE** | Webbinarium | _Marketo Measure &amp; Mochas: Verksamheter och anpassade modeller_ | Delta med dig av experter från Adobe Marketo Measure om hur de kan använda Custom Attribution Models and Activities Attribution för att justera dina sälj- och marknadsföringsdata med hjälp av kontaktpunkter direkt från CRM Activity records. | **20 juni kl. 13:00 ET** | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5696306635/event_landing.html?sco-id=5696306640&amp;campaign-id=ExL&amp;_charset_=utf-8)
+
+* **WORKFRONT** | Kundworkshop | _Lär dig mer: Prioritizing and Strategy Planning Work in Workfront_ | Gå med i Workfront Customer Success Team och lär dig de bästa metoderna för årsplanering, hur man skapar en formell prioriteringsprocess och rekommenderade vyer för att hitta projektdata för att säkerställa en övergripande anpassning. | **25 juni kl. 9.30 PT** | [Registrera](https://events.teams.microsoft.com/event/f765ea5b-c5a6-41d1-ac0d-ffea34ae1b11@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Se mer [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
