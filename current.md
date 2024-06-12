@@ -6,7 +6,7 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fbb4dc8b9e98de3010799a797da4714952a1700d
+source-git-commit: 1cafd2d5ef95cefa906742e028796600dca3bcbd
 workflow-type: tm+mt
 source-wordcount: '3959'
 ht-degree: 7%
@@ -652,7 +652,7 @@ Nya självstudiekurser publicerade för program i [!DNL Adobe Creative Cloud for
 | Publicerad | Program | Namn | Typ | Beskrivning |
 | -----------| -----------|---------- | ---------- | ---------- |
 | Maj 2024 | [!DNL Firefly] | [Skapa återanvändbara scener för varor](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes) | Video | Lär dig hur du skapar återanvändbara scener för varor som handväskor och tillbehör. Genom att skapa återanvändbara scener kan ni snabba upp den digitala marknadsföringen genom att uppdatera webbplatsvarianterna säsongsinriktat eller närhelst ni vill. |
-| Maj 2024 | [!DNL Firefly] | [Accelerate creative ideation](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | Video | Lär dig hur du snabbt visualiserar idéer och utforskar koncept för affärskampanjer. Snabbare kreativa idéer gör att man snabbt kan producera högkvalitativt innehåll. |
+| Maj 2024 | [!DNL Firefly] | [Accelerate creative ideation](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | Video | Lär dig visualisera idéer och utforska koncept för affärskampanjer. Snabbare kreativa idéer gör att man snabbt kan producera högkvalitativt innehåll. |
 
 Se [Självstudiekurser för Creative Cloud for enterprise](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) för de senaste självstudiekurserna.
 
