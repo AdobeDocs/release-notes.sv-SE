@@ -1,15 +1,15 @@
 ---
 title: Senaste versionsinformation
-description: Hitta den senaste versionsinformationen och kunskapsbasutgåvan för Adobe [!DNL Experience Cloud] produkter och tjänster. Läs mer om kommande evenemang och ny dokumentation om Experience League. Upptäck de senaste självstudiekurserna och kurserna för [!DNL Experience Cloud] program.
+description: Hitta den senaste versionsinformationen och kunskapsbasutgåvan för Adobe [!DNL Experience Cloud] produkter och tjänster. Läs mer om kommande händelser och ny dokumentation om Experience League. Upptäck de senaste självstudiekurserna och kurserna för [!DNL Experience Cloud] program.
 doc-type: release notes
 last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1cafd2d5ef95cefa906742e028796600dca3bcbd
+source-git-commit: 4c32968c3fe0e49e367b9b6130f681dd246541a7
 workflow-type: tm+mt
-source-wordcount: '3959'
-ht-degree: 7%
+source-wordcount: '3984'
+ht-degree: 8%
 
 ---
 
@@ -32,16 +32,16 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Juni 2024
 
-Senaste uppdatering: **12 juni 2024**
+Senaste uppdatering: **25 juni 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events) (**30 maj**)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (**25 juni**)
 * [Certifiering i Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och central administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (frigöra **12 juni**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (frigöra **12 juni**)
+* [[!DNL Adobe Analytics]](#analytics) (släppt **12 juni**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (släppt **12 juni**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,17 +67,19 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterat **12 juni 2024**
+Uppdaterat **25 juni 2024**
 
 +++Information
 
-* **CREATIVE CLOUD, EXPERIENCE MANAGER OCH WORKFRONT** | Frågor och svar - chatt | _Fråga: Bygga innehållsleveranskedjan med Workfront, Creative Cloud och AEM_ | Träffa Adobe Customer Success Teams och City National Bank för att få en timmes intervju om bästa praxis, fördelar och mervärde med integreringar med Workfront, Creative Cloud och AEM. | **18 juni kl. 10.30 PT** | [Registrera](https://events.teams.microsoft.com/event/ff76e5c9-8c8c-4dc4-927c-902a446215b7@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **CREATIVE CLOUD** | Adobe Developers Live | _Adobe Developers Live för Adobe Express och Creative Cloud_ | Delta i en virtuell tvådagarskonferens för alla som utvecklar tillägg, plugins eller integreringar för Adobe Express eller Creative Cloud för att få veta mer om viktiga utvecklingsprioriteringar och färdplaner under 2024. | **19 juni kl. 9.15 MT** | [Registrera](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fevents.ringcentral.com%2Fevents%2Fadobe-developers-live-adobe-express-creative-cloud-2024%3Futm_source%3DExperienceleague%2520Events%26utm_campaign%3DExperienceleague%2520Events&amp;data=05%7C02%7Cieichel%40adobe.com%7C350e6e0f78514d018ff708dc8998551f%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C638536534560540136%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=l%2BVrnbrZ8BBlfl3v3UGMozKCOcF%2BtoN89bWgOsLokQo%3D&amp;reserved=0)
-
-* **MARKETO MEASURE** | Webbinarium | _Marketo Measure &amp; Mochas: Verksamheter och anpassade modeller_ | Delta med dig av experter från Adobe Marketo Measure om hur de kan använda Custom Attribution Models and Activities Attribution för att justera dina sälj- och marknadsföringsdata med hjälp av kontaktpunkter direkt från CRM Activity records. | **20 juni kl. 13:00 ET** | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5696306635/event_landing.html?sco-id=5696306640&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
 * **WORKFRONT** | Kundworkshop | _Lär dig mer: Prioritizing and Strategy Planning Work in Workfront_ | Gå med i Workfront Customer Success Team och lär dig de bästa metoderna för årsplanering, hur man skapar en formell prioriteringsprocess och rekommenderade vyer för att hitta projektdata för att säkerställa en övergripande anpassning. | **25 juni kl. 9.30 PT** | [Registrera](https://events.teams.microsoft.com/event/f765ea5b-c5a6-41d1-ac0d-ffea34ae1b11@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Kundworkshop | _Admin 101: Ta med dina Workfront-frågor_ | Missade du någon av våra Admin 101-sessioner? Besök oss under den timlånga Frågor och svar-sessionen där vi sammanfattar de föregående händelserna och sedan öppnar den för allmänna diskussioner och frågor. | **26 juni kl. 9:00 MT** | [Registrera](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,s9AzVDbQGkujSdPhs9lVDw,_ptlrrxSw0uslhILWOmKGg,C_k9EDSbrk652sjpeJ13Dw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Webbinarium | _Nyheter i 24.7_ | Gå med i Adobe Workfront Product Team den 26 juni kl. 10:00 EST och lär dig mer om kommande funktioner och förbättringar i version 24.7. | **27 juni kl. 8.00 MT** | [Registrera](https://webinars.on24.com/adobe_workfront/whatsnewin247?partnerref=ExperienceLeagueEvents)
+
+* **JOURNEY OPTIMIZER** | Frågor och svar - chatt | _Career Discovery Webinar - Adobe Journey Optimizer_ | På det här webbinariet får du lära dig av gästföreläsare om deras arbeten och expertis i Adobe Journey Optimizer och se hur du kan komma igång på vägen till nya karriärmöjligheter. | **28 juni kl. 8.00 MT** | [Registrera](https://event.adobe.com/careerdiscovery)
+
+* **WORKFRONT** | Kundworkshop | _Admin 101 - Komma igång med Workfront_ | Har du inte använt Workfront tidigare? Delta i våra månatliga möten med&quot;Ny administratör&quot; för att ställa frågor, få resurser och rekommendationer, träffa andra nya administratörer och för den här sessionen lära dig de bästa sätten att konfigurera din Workfront-miljö. | **9 juli kl. 9:00 MT** | [Registrera]https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Visa alla [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 +++
@@ -149,7 +151,7 @@ Hitta den senaste versionsinformationen och den nya dokumentationen för [!DNL E
 
 +++Information
 
-* [[!DNL Experience Platform] versionsinformation](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
+* Versionsinformation om [[!DNL Experience Platform] ](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
 
 * [[!DNL Experience Platform] Versionsinformation för Mobile SDK](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
@@ -494,7 +496,7 @@ Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [[!
 
 * [Instruktionsvideor](https://experienceleague.adobe.com/en/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration)
 
-* [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/en/docs/journeys/using/release-notes/documentation-updates)
+* [Senaste dokumentationsuppdateringarna](https://experienceleague.adobe.com/en/docs/journeys/using/release-notes/documentation-updates)
 
 +++
 
