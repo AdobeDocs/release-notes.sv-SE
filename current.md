@@ -6,9 +6,9 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 73136bb756a8be56a3c265b30a36005911c141d4
+source-git-commit: 38946bebc2e663fc6ac9e03e200d179f0916b433
 workflow-type: tm+mt
-source-wordcount: '3806'
+source-wordcount: '3964'
 ht-degree: 8%
 
 ---
@@ -71,9 +71,15 @@ Uppdaterat **25 juni 2024**
 
 +++Information
 
-* **WORKFRONT** | Kundworkshop | _Admin 101 - Komma igång med Workfront_ | Har du inte använt Workfront tidigare? Delta i våra månatliga möten med&quot;Ny administratör&quot; för att ställa frågor, få resurser och rekommendationer, träffa andra nya administratörer och för den här sessionen lära dig de bästa sätten att konfigurera din Workfront-miljö. | **9 juli kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att koppla dig till andra administratörer för att diskutera bästa praxis samt tips och tricks. | **12 juli kl. 10.00 MT** | [Registrera](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-Visa alla [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
+* **WORKFRONT** | Kaffebrytning | _Coffee Break Sweepstakes: Creative Brief Intake &amp; Best Practices_ | Delta i våra andra Coffee Break Sweepstakes om de effektivaste strategierna med Creative Brief! Upptäck nya strategier och dela med dig av dina insikter. Skicka en fråga, kommentar eller tips om du vill vinna Workfront swag. Missa inte erbjudandet! | **16 juli kl. 11.00 MT** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
+
+* **WORKFRONT** | Kundworkshop | _Lär dig: Adobe Workfront tredje kvarteret 2024, versionssammanfattning + miljöerbjudande_ | Delta i vår kvartalsvisa versionsgranskning där vi diskuterar de senaste releasefunktionerna och deras fördelar. Under det här seminariet kommer vi också att diskutera den mycket efterfrågade funktionen för miljömarknadsföring. | **18 juli kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **EXPERIENCE MANAGER, EXPERIENCE MANAGER ASSETS OCH EXPERIENCE MANAGER SITES** | Webbinarium | _Espressos &amp; Experience Manager: Digital flexibilitet med AEM_ | Läs om de senaste innovationerna i AEM Sites och Assets som gör AEM lösningen till de vanligaste utmaningarna inom CMS. Vi kommer att utforska den universella redigeraren, det Headless &amp; Document-baserade redigeringsprogrammet samt Assets UI. | **18 juli kl. 11.00 MT** | [Registrera](https://adobeevents.adobeconnect.com/ev3w9wtf5th2/event/registration.html?campaign-id=ExL)
+
+Och mycket mer! Visa alla [kommande event](https://experienceleague.adobe.com/events/) eller bläddra [inspelningar av händelser](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 +++
 
 ## ![Ikon](/assets/experience-league.png) Adobe Content Supply Chain {#content-supply-chain}
