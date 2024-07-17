@@ -6,9 +6,9 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 936f9884f1a75fbd55abdcfbbfa0fdbaa2415e44
+source-git-commit: 2af1f8d226d3fc7e0f1157179444ef2fdd483f1d
 workflow-type: tm+mt
-source-wordcount: '3673'
+source-wordcount: '3632'
 ht-degree: 8%
 
 ---
@@ -71,17 +71,17 @@ Uppdaterad **17 juli 2024**
 
 +++Information
 
-* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig mer: Adobe Workfront tredje kvarteret 2024 Release Round Up + Environment Promotion_ | Delta i vår kvartalsvisa versionsgranskning där vi diskuterar de senaste releasefunktionerna och deras fördelar. Under det här seminariet kommer vi också att diskutera den mycket efterfrågade funktionen för miljömarknadsföring. | **18 juli kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig mer: Adobe [!DNL Workfront] 3 kvartal 2024 Versionssammanfattning + miljökampanj_ | Delta i vår kvartalsvisa versionsgranskning där vi diskuterar de senaste releasefunktionerna och deras fördelar. Under det här seminariet kommer vi också att diskutera den mycket efterfrågade funktionen för miljömarknadsföring. | **18 juli kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE MANAGER], [!DNL EXPERIENCE MANAGER ASSETS] OCH[!DNL EXPERIENCE MANAGER SITES]** | Webbinarium | _Espressos &amp; Experience Manager: Digital flexibilitet med AEM_ | Läs om de senaste innovationerna i AEM Sites och Assets som gör AEM lösningen till de vanligaste utmaningarna inom CMS. Vi kommer att utforska den universella redigeraren, det Headless &amp; Document-baserade redigeringsprogrammet samt Assets UI. | **18 juli kl. 11:00 MT** | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **[!DNL EXPERIENCE MANAGER], [!DNL EXPERIENCE MANAGER ASSETS] OCH[!DNL EXPERIENCE MANAGER SITES]** | Webbinarium | _Espressos &amp; [!DNL Experience Manager:]: Digital flexibilitet med AEM_ | Läs om de senaste innovationerna i AEM Sites och Assets som gör AEM lösningen till de vanligaste utmaningarna inom CMS. Vi kommer att utforska den universella redigeraren, det Headless &amp; Document-baserade redigeringsprogrammet samt Assets UI. | **18 juli kl. 11:00 MT** | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
-* **[!DNL WORKFRONT]** | Community-händelse | _Connect: Workfront Collective_ | Delta i våra månatliga Workfront Collective-möten, som tagits fram för att få kontakt med andra kunder, diskutera Workfront funktioner, utbyta idéer och brainstorm tillsammans för att lösa vanliga problem. | **22 juli kl. 7:00 MT** | [Registrera](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Community-händelse | _Connect: [!DNL Workfront] Collective_ | Delta i våra månatliga [!DNL Workfront] gemensamma månatliga möten, som utformats för att kommunicera med andra kunder, diskutera [!DNL Workfront] funktioner, utbyta idéer och brainstorm tillsammans för att lösa vanliga utmaningar. | **22 juli kl. 7:00 MT** | [Registrera](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig med kunder: Använda Workfront för organisationer_ | Delta i en 1-timmars presentation från kunder och tidigare kunder när de delar med sig av sina erfarenheter och rekommendationer om hur de kan använda Workfront för att hjälpa till med strukturförändringar och processförändringar i organisationsförändringar. | **23 juli kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig med kunder: Använda [!DNL Workfront] för förbättringar_ | Delta i en 1-timmars presentation från kunder och tidigare kunder när de delar med sig av sina erfarenheter och rekommendationer om hur de kan använda [!DNL Workfront] för att hjälpa till med strukturförändringar och processförändringar i organisationsförändringar. | **23 juli kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL MARKETO AND MARKETO ENGAGE]** | Webbinarium | _Marketo &amp; Mochas: Llaying the Foundation - Maturity Part 1_ | Gå med i Adobe Business Advisors och lär dig hur du bäst utvecklar din organisations användning av Marketo. Vi granskar allt från instansstyrning till programbiblioteket, som har flera program som är värd för att starta programbyggandet. | **25 juli kl. 11:00 MT** | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5706378570/event_landing.html?sco-id=5706388344&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
-* **[!DNL WORKFRONT]** | Webbinarium | _Fråga Workfront kundsupport - felsökning av beräknade uttryck_ | Gå med i Workfront kundsupport för en timma på beräknade uttryck. Den här sessionen är inte något att missa mellan vanliga exempel, felsökningstips, viktig information och en live-demo! | **31 juli kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Webbinarium | _Fråga [!DNL Workfront] Kundsupport - Felsökning av beräknade uttryck_ | Gå med i [!DNL Workfront] kundsupport för en timma på beräknade uttryck. Den här sessionen är inte något att missa mellan vanliga exempel, felsökningstips, viktig information och en live-demo! | **31 juli kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Och mycket mer! Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
@@ -247,9 +247,9 @@ Hitta den senaste versionsinformationen för [!DNL Streaming Media Analytics]. V
 
 +++
 
-## ![Ikon](/assets/aem.png) Adobe Experience Manager {#aem}
+## ![Ikon](/assets/aem.png) Adobe [!DNL Experience Manager:] {#aem}
 
-Nya funktioner, korrigeringar och uppdateringar i Experience Manager. Adobe rekommenderar att kunder med lokal driftsättning driftsätter de senaste patcharna för att säkerställa högre stabilitet, säkerhet och prestanda.
+Nya funktioner, korrigeringar och uppdateringar i [!DNL Experience Manager:]. Adobe rekommenderar att kunder med lokal driftsättning driftsätter de senaste patcharna för att säkerställa högre stabilitet, säkerhet och prestanda.
 
 +++Information
 
@@ -257,19 +257,19 @@ Nya funktioner, korrigeringar och uppdateringar i Experience Manager. Adobe reko
 
 Alla versionsinformation för [!DNL Experience Manager] finns på följande sidor:
 
-* [Uppdateringar och färdplaner för lansering i Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/home) - Lär dig mer om färdplanen för lansering i Experience Manager, uppdateringar för tidigare versioner och dokumentationsuppdateringar.
-* [Aktuell versionsinformation för Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
-* [Versionsinformation för Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes)
-* [Versionsinformation för Experience Manager Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current)
+* [[!DNL Experience Manager:] releaseuppdateringar och färdplaner](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/home) - Läs mer om [!DNL Experience Manager:]-releasematchningen, tidigare versionsuppdateringar och dokumentationsuppdateringar.
+* [Aktuell versionsinformation för  [!DNL Experience Manager:] as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
+* [[!DNL Experience Manager:] 6.5 Versionsinformation om Service Pack](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes)
+* [[!DNL Experience Manager:] Versionsinformation för Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [Versionsinformation för konverteringstjänsten för automatiserade formulär](https://experienceleague.adobe.com/en/docs/aem-forms-automated-conversion-service/using/release-notes)
-* [Versionsinformation för Experience Manager Assets Dynamic Media](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
-* [Versionsinformation för Experience Manager Brand Portal](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
-* [Versionsinformation för Experience Manager-datorprogrammet](https://experienceleague.adobe.com/en/docs/experience-manager-desktop-app/using/release-notes)
-* [Versionsinformation för Experience Manager Dispatcher](https://experienceleague.adobe.com/en/docs/experience-manager-dispatcher/using/getting-started/release-notes)
+* [[!DNL Experience Manager:] Versionsinformation för Assets Dynamic Media](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
+* [[!DNL Experience Manager:] Versionsinformation för Brand Portal](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
+* [[!DNL Experience Manager:] Versionsinformation för skrivbordsapp](https://experienceleague.adobe.com/en/docs/experience-manager-desktop-app/using/release-notes)
+* [[!DNL Experience Manager:] Versionsinformation för Dispatcher](https://experienceleague.adobe.com/en/docs/experience-manager-dispatcher/using/getting-started/release-notes)
 
 ### Nya [!DNL Experience Manager] självstudier {#tutorials-aem}
 
-Nya självstudiekurser publicerade för [!DNL Experience Manager] på Experience Manager.
+Nya självstudiekurser publicerade för [!DNL Experience Manager] på [!DNL Experience Manager:].
 
 | Publicerad | Program | Namn | Typ | Beskrivning |
 | ----------| ---------- | ---------- | ---------- |---------- |
@@ -513,9 +513,9 @@ Läs mer om den senaste versionsinformationen för [!DNL Adobe Workfront]. Hitta
 
 ### [!DNL Adobe Workfront] uppdateringar
 
-* På sidan [Adobe Workfront produktreleaser](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) finns information om Workfront releaseschema och versionsinformation.
+* På sidan [Adobe [!DNL Workfront] produktreleaser](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) finns information om [!DNL Workfront] publiceringsscheman och versionsinformation.
 
-* Den senaste informationen om Fusion finns i [Aktivitetsöversikt för Adobe Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity).
+* Den senaste informationen om Fusion finns i [Adobe [!DNL Workfront] Aktivitetsöversikt för Fusion](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity).
 
 ### Självstudiekurser för nya Adobe [!DNL Workfront] {#tutorials-workfront}
 
@@ -523,13 +523,13 @@ Nya [!DNL Workfront] självstudiekurser och händelser på Experience League.
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Juli 2024 | [Hantera oplanerade arbeten](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work) | Video | Lär dig hantera oplanerade arbeten med Adobe Workfront. |
+| Juli 2024 | [Hantera oplanerade arbeten](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work) | Video | Lär dig hur du hanterar oplanerade arbeten med Adobe [!DNL Workfront]. |
 | Juli 2024 | [Fyll i projektinformationen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details) | Video | Lär dig mer om de vanligaste projektinställningarna som behövs när du skapar ett projekt. |
 | Juli 2024 | [Lär dig att sekvensera uppgifter](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks) | Video | Lär dig vad en föregångare är och hur de hanterar uppgifter i ett projekt. Lär dig sedan att använda varaktighet och föregångare för att skapa en tidslinje. |
 | Juli 2024 | [Förstå planerade timmar](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours) | Video | Lär dig vad som planeras för timmar, varför planerade timmar är viktiga för ditt projekt och hur du lägger till planerade timmar till aktiviteter. |
 | Juli 2024 | [Gör en förfrågan](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/make-a-request) | Video | Lär dig hur du hittar området Förfrågningar och gör en förfrågan. Lär dig sedan hur du visar inskickade begäranden och utkast. |
-| Juli 2024 | [Uppdatera en begäran](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request) | Video | Lär dig hur du hittar de förfrågningar du har skickat och gör en uppdatering av förfrågningarna i Workfront. |
-| Juli 2024 | [God praxis - scheman](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/best-practices/schedules-bp) | Video | Utforska rekommendationer från Adobe Workfront experter om hur man ställer in, hanterar och använder Workfront scheman. |
+| Juli 2024 | [Uppdatera en begäran](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request) | Video | Lär dig hur du söker efter de förfrågningar du har skickat och gör en uppdatering för dessa förfrågningar i [!DNL Workfront]. |
+| Juli 2024 | [God praxis - scheman](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/best-practices/schedules-bp) | Video | Utforska rekommendationer om god praxis från experter på Adobe [!DNL Workfront] om hur du konfigurerar, hanterar och använder [!DNL Workfront]-scheman. |
 
 {style="table-layout:auto"}
 
