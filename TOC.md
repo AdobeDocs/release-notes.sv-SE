@@ -3,12 +3,12 @@ cloud: Experience Cloud, Experience Platform
 product: experience cloud
 user-guide-title: Versionsinformation om Adobe Experience Cloud
 breadcrumb-title: Versionsinformation
-user-guide-description: Läs om nya funktioner, korrigeringar och viktiga meddelanden i Adobe Experience Cloud och Experience Platform.
+user-guide-description: Lär dig om nya funktioner, korrigeringar och viktiga meddelanden i Adobe Experience Cloud och Experience Platform.
 user-guide-url: https://www.adobe.com
 source-git-commit: 9ba56beb33b26b247e9ef8837481fd07525454c3
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 53%
+ht-degree: 71%
 
 ---
 
