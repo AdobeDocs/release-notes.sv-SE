@@ -6,9 +6,9 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2af1f8d226d3fc7e0f1157179444ef2fdd483f1d
+source-git-commit: ef4b1f6c217c9aedcbe2aed16526190bb26fc81e
 workflow-type: tm+mt
-source-wordcount: '3632'
+source-wordcount: '3569'
 ht-degree: 8%
 
 ---
@@ -58,7 +58,7 @@ Senaste uppdatering: **17 juli 2024**
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Kunddatahantering - Voices](#voices)
 * [Digital Experience-utkast](#blueprints)
-* [Certifiering i Adobe](#certification)
+* [Certifiering på Adobe](https://experienceleague.adobe.com/en/docs/certification/program/overview)
 * [Adobe produktsäkerhetssårbarheter](https://helpx.adobe.com/se/security.html)
 
 ## ![Ikon](/assets/experience-league.png) [!DNL Experience League] - händelser och uppdateringar {#events}
@@ -150,6 +150,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 |April 2024|[[!DNL AEP - Adobe Experience Platform] Use Case [!UICONTROL Playbooks] menu is missing](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24108)|New article| Learn about the solution for when the [!UICONTROL Playbooks] menu is missing from your [!UICONTROL sandbox].|
 
 {style="table-layout:auto"} -->
+
 +++
 
 ## ![Ikon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
@@ -643,18 +644,18 @@ De senaste självstudiekurserna finns i [Creative Cloud för företag](https://e
 
 [Digitala upplevelseutkast](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview) är repeterbara implementeringar som gör att du kan hantera strategier och snabbt lösa etablerade affärsproblem. Varje utkast innehåller en serie artefakter som förklarar de mest värdefulla problemen, arkitekturer, implementeringssteg, tekniska överväganden och länkar till relevant dokumentation.
 
-## ![Ikon](/assets/certification-badge.png)-certifiering{#certification}
+<!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Se till att alla Adobe är certifierade. Besök Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) på Experience League.
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
 
-+++Information
++++Details
 
-Webbplatsen [Experience Cloud-certifiering](https://experienceleague.adobe.com/en/docs/certification/program/overview) är din enda butik för allt [!DNL Experience Cloud]-certifieringsrelaterat innehåll och uppdateras regelbundet med:
+The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
-* Tillgängliga certifieringar
-* Certifieringsförnyelser för Adobe-program
-* Uppdateringar av certifieringsprogram
+* Available certifications
+* Certification renewals for Adobe applications
+* Certification program updates
 
-Och mycket mer! Gå till [Adobe-certifiering](https://experienceleague.adobe.com/en/docs/certification/program/overview) på Experience League och påbörja certifieringsresan idag!
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
 
-+++
++++ -->
