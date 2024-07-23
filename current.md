@@ -6,9 +6,9 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ef4b1f6c217c9aedcbe2aed16526190bb26fc81e
+source-git-commit: a0ce8369c59cecbb8eed2f22947c98807098b27d
 workflow-type: tm+mt
-source-wordcount: '3569'
+source-wordcount: '3441'
 ht-degree: 8%
 
 ---
@@ -32,7 +32,7 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Juli 2024
 
-Senaste uppdatering: **17 juli 2024**
+Senaste uppdatering: **23 juli 2024**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -70,12 +70,6 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 Uppdaterad **17 juli 2024**
 
 +++Information
-
-* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig mer: Adobe [!DNL Workfront] 3 kvartal 2024 Versionssammanfattning + miljökampanj_ | Delta i vår kvartalsvisa versionsgranskning där vi diskuterar de senaste releasefunktionerna och deras fördelar. Under det här seminariet kommer vi också att diskutera den mycket efterfrågade funktionen för miljömarknadsföring. | **18 juli kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL EXPERIENCE MANAGER], [!DNL EXPERIENCE MANAGER ASSETS] OCH[!DNL EXPERIENCE MANAGER SITES]** | Webbinarium | _Espressos &amp; [!DNL Experience Manager:]: Digital flexibilitet med AEM_ | Läs om de senaste innovationerna i AEM Sites och Assets som gör AEM lösningen till de vanligaste utmaningarna inom CMS. Vi kommer att utforska den universella redigeraren, det Headless &amp; Document-baserade redigeringsprogrammet samt Assets UI. | **18 juli kl. 11:00 MT** | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
-* **[!DNL WORKFRONT]** | Community-händelse | _Connect: [!DNL Workfront] Collective_ | Delta i våra månatliga [!DNL Workfront] gemensamma månatliga möten, som utformats för att kommunicera med andra kunder, diskutera [!DNL Workfront] funktioner, utbyta idéer och brainstorm tillsammans för att lösa vanliga utmaningar. | **22 juli kl. 7:00 MT** | [Registrera](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig med kunder: Använda [!DNL Workfront] för förbättringar_ | Delta i en 1-timmars presentation från kunder och tidigare kunder när de delar med sig av sina erfarenheter och rekommendationer om hur de kan använda [!DNL Workfront] för att hjälpa till med strukturförändringar och processförändringar i organisationsförändringar. | **23 juli kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
