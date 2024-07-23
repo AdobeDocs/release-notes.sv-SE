@@ -6,9 +6,9 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a0ce8369c59cecbb8eed2f22947c98807098b27d
+source-git-commit: 7f6fded5411ad9eb451cec9529ec3400a9b15e1b
 workflow-type: tm+mt
-source-wordcount: '3441'
+source-wordcount: '3528'
 ht-degree: 8%
 
 ---
@@ -76,6 +76,10 @@ Uppdaterad **17 juli 2024**
 * **[!DNL MARKETO AND MARKETO ENGAGE]** | Webbinarium | _Marketo &amp; Mochas: Llaying the Foundation - Maturity Part 1_ | Gå med i Adobe Business Advisors och lär dig hur du bäst utvecklar din organisations användning av Marketo. Vi granskar allt från instansstyrning till programbiblioteket, som har flera program som är värd för att starta programbyggandet. | **25 juli kl. 11:00 MT** | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5706378570/event_landing.html?sco-id=5706388344&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 * **[!DNL WORKFRONT]** | Webbinarium | _Fråga [!DNL Workfront] Kundsupport - Felsökning av beräknade uttryck_ | Gå med i [!DNL Workfront] kundsupport för en timma på beräknade uttryck. Den här sessionen är inte något att missa mellan vanliga exempel, felsökningstips, viktig information och en live-demo! | **31 juli kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL COMMERCE]** | Webbinarium | _Commerce och Coffee: Strategies for B2B eCommerce Success_ | Följ Sr. Commerce Strategy Consultant, Corey Gelato, som han lyfter fram några av de mest effektiva e-handelstrenderna och ser över strategier som kunderna kan utnyttja inom Adobe Commerce. | **1 augusti kl. 11:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att koppla dig till andra administratörer för att diskutera bästa praxis samt tips och tricks. | **2 augusti kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Och mycket mer! Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
