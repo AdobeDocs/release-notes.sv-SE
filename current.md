@@ -6,9 +6,9 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7f6fded5411ad9eb451cec9529ec3400a9b15e1b
+source-git-commit: ce3509b0e50a2febbd002d677bf31282c42684dd
 workflow-type: tm+mt
-source-wordcount: '3528'
+source-wordcount: '3613'
 ht-degree: 8%
 
 ---
@@ -67,19 +67,23 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterad **17 juli 2024**
+Uppdaterad **26 juli 2024**
 
 +++Information
-
-* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig med kunder: Använda [!DNL Workfront] för förbättringar_ | Delta i en 1-timmars presentation från kunder och tidigare kunder när de delar med sig av sina erfarenheter och rekommendationer om hur de kan använda [!DNL Workfront] för att hjälpa till med strukturförändringar och processförändringar i organisationsförändringar. | **23 juli kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL MARKETO AND MARKETO ENGAGE]** | Webbinarium | _Marketo &amp; Mochas: Llaying the Foundation - Maturity Part 1_ | Gå med i Adobe Business Advisors och lär dig hur du bäst utvecklar din organisations användning av Marketo. Vi granskar allt från instansstyrning till programbiblioteket, som har flera program som är värd för att starta programbyggandet. | **25 juli kl. 11:00 MT** | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5706378570/event_landing.html?sco-id=5706388344&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 * **[!DNL WORKFRONT]** | Webbinarium | _Fråga [!DNL Workfront] Kundsupport - Felsökning av beräknade uttryck_ | Gå med i [!DNL Workfront] kundsupport för en timma på beräknade uttryck. Den här sessionen är inte något att missa mellan vanliga exempel, felsökningstips, viktig information och en live-demo! | **31 juli kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL COMMERCE]** | Webbinarium | _Commerce och Coffee: Strategies for B2B eCommerce Success_ | Följ Sr. Commerce Strategy Consultant, Corey Gelato, som han lyfter fram några av de mest effektiva e-handelstrenderna och ser över strategier som kunderna kan utnyttja inom Adobe Commerce. | **1 augusti kl. 11:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att koppla dig till andra administratörer för att diskutera bästa praxis samt tips och tricks. | **2 augusti kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Kundworkshop | _Admin 101: Få användare att använda Workfront_ | Har du inte använt Workfront tidigare? Gå med i våra 101-möten varje månad för att ställa frågor, få resurser, lära dig bästa praxis och träffa andra nya administratörer. Den här månaden ska vi diskutera användandet! | **6 augusti kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/25756c69-c2ae-41d5-a5b8-b257193b1313@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL ANALYTICS]** | Upplevelsemakare | _Kunskapsutbyte för Adobe Analytics_ | Besök oss den 7 augusti för detta kostnadsfria event om digital kundinlärning. Experter och kollegor får höra om hur de använder Adobe Analytics. Det finns även tid att få svar på dina frågor. | **7 augusti kl. 10:00 MT** | [Registrera](https://adobe.ly/4c7TAqZ)
+
+* **[!DNL MARKETO]** | Upplevelsemakare | _Kunskapsutbyte för Adobe Marketo Engage_ | Besök oss den 8 augusti för detta kostnadsfria event om utbildning för digitala kunder. Experter och kollegor får höra om hur de använder Marketo Engage. Det finns även tid att få svar på dina frågor. | **8 augusti kl. 10:00 MT** | [Registrera](https://adobe.ly/4c7TAqZ)
+
+* **[!DNL COMMERCE]** | Upplevelsemakare | _Bakom branden: Adobe Developer App Builder_ | Gå med i Adobe Technical Account Manager och lär dig allt du behöver veta för att integrera Adobe Commerce med andra e-handelsprogram via Adobe Developer App Builder flexibla ramverk | **8 augusti kl. 11.00 MT** | [Registrera](https://adobeevents.adobeconnect.com/expphv5tkyoc/event/registration.html?campaign-id=ExL)
 
 Och mycket mer! Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
