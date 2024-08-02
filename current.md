@@ -6,9 +6,9 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce3509b0e50a2febbd002d677bf31282c42684dd
+source-git-commit: 261f4a4a4ee24f61415febb87e95d9ffb4359ab7
 workflow-type: tm+mt
-source-wordcount: '3613'
+source-wordcount: '3483'
 ht-degree: 8%
 
 ---
@@ -32,7 +32,7 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Juli 2024
 
-Senaste uppdatering: **23 juli 2024**
+Senaste uppdatering: **2 augusti 2024**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -67,15 +67,9 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Händelser på Experience League
 
-Uppdaterad **26 juli 2024**
+Uppdaterad **2 augusti 2024**
 
 +++Information
-
-* **[!DNL WORKFRONT]** | Webbinarium | _Fråga [!DNL Workfront] Kundsupport - Felsökning av beräknade uttryck_ | Gå med i [!DNL Workfront] kundsupport för en timma på beräknade uttryck. Den här sessionen är inte något att missa mellan vanliga exempel, felsökningstips, viktig information och en live-demo! | **31 juli kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | Webbinarium | _Commerce och Coffee: Strategies for B2B eCommerce Success_ | Följ Sr. Commerce Strategy Consultant, Corey Gelato, som han lyfter fram några av de mest effektiva e-handelstrenderna och ser över strategier som kunderna kan utnyttja inom Adobe Commerce. | **1 augusti kl. 11:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att koppla dig till andra administratörer för att diskutera bästa praxis samt tips och tricks. | **2 augusti kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Kundworkshop | _Admin 101: Få användare att använda Workfront_ | Har du inte använt Workfront tidigare? Gå med i våra 101-möten varje månad för att ställa frågor, få resurser, lära dig bästa praxis och träffa andra nya administratörer. Den här månaden ska vi diskutera användandet! | **6 augusti kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/25756c69-c2ae-41d5-a5b8-b257193b1313@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
