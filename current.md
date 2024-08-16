@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4a405ffdd266ebadf9d43e4e4696b40d670ee3ff
+source-git-commit: 79f6a9ae7032ed3a640c4925b14e334ceb1354e4
 workflow-type: tm+mt
-source-wordcount: '3030'
+source-wordcount: '3073'
 ht-degree: 8%
 
 ---
@@ -34,7 +34,7 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 Senaste uppdatering: **14 augusti 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad: **16 augusti**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -66,13 +66,23 @@ Senaste uppdatering: **14 augusti 2024**
 
 Läs om spännande event på Experience League. Det är en fantastisk plats att lära sig, interagera och få svar från produktexperter på Adobe!
 
+### Spellistor på Experience League (nya!)
+
+Uppdatering: **16 augusti 2024**
+
+Video [spellistor](https://experienceleague.adobe.com/en/playlists) är ny i Experience League. En spellista är en välstrukturerad samling videoklipp som snabbt hjälper dig att få de kunskaper du behöver.
+
+Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Playlists]** om du vill bläddra bland spellistor.
+
+>[!NOTE]
+>
+>**Kurser** dras tillbaka från Experience League. Om du har ett bokmärke till en kurs omdirigeras du till en motsvarande spellista.
+
+Om du vill skicka feedback till Experience League om spellistor eller andra hjälpproblem kan du använda popup-fönstret Feedback längst ned på varje sida.
+
 ### Händelser på Experience League
 
-Uppdaterad **14 augusti 2024**
-
 +++Information
-
-* **[!DNL EXPERIENCE MANAGER]** | Upplevelsemakare | _Kunskapsutbyte för Adobe Experience Manager_ | Besök oss den 14 augusti för detta kostnadsfria event om digital kundinlärning. Experter och kollegor får höra hur de bäst använder AEM. Det finns tid för eventet att svara på dina frågor. | **14 augusti kl. 10:00 MT** | [Registrera](https://adobe.ly/4c7TAqZ%60)
 
 * **[!DNL WORKFRONT]** | Upplevelsemakare | _Kunskapsutbyte för Adobe Workfront_ | Besök oss den 15 augusti för ett kostnadsfritt digitalt event med innehåll som är fokuserat på Workfront. Experter och kollegor får höra om hur de använder Workfront i sin dagliga verksamhet. | **15 augusti kl. 10:00 MT** | [Registrera](https://adobe.ly/4c7TAqZ)
 
