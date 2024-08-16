@@ -6,7 +6,7 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 79f6a9ae7032ed3a640c4925b14e334ceb1354e4
+source-git-commit: 59f082ddef93b5ca415ccc3da5a1220b6aeae88b
 workflow-type: tm+mt
 source-wordcount: '3073'
 ht-degree: 8%
@@ -32,7 +32,7 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Augusti 2024
 
-Senaste uppdatering: **14 augusti 2024**
+Senaste uppdatering: **16 augusti 2024**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad: **16 augusti**)
 * [[!DNL Adobe System Status]](#status)
@@ -72,7 +72,7 @@ Uppdatering: **16 augusti 2024**
 
 Video [spellistor](https://experienceleague.adobe.com/en/playlists) är ny i Experience League. En spellista är en välstrukturerad samling videoklipp som snabbt hjälper dig att få de kunskaper du behöver.
 
-Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Playlists]** om du vill bläddra bland spellistor.
+Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om du vill bläddra bland spellistor.
 
 >[!NOTE]
 >
