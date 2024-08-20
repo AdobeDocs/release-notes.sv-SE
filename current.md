@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 59f082ddef93b5ca415ccc3da5a1220b6aeae88b
+source-git-commit: 4955798262f3d97c1a7944dbadab05d70cb66c40
 workflow-type: tm+mt
-source-wordcount: '3073'
+source-wordcount: '3159'
 ht-degree: 8%
 
 ---
@@ -32,9 +32,9 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Augusti 2024
 
-Senaste uppdatering: **16 augusti 2024**
+Senaste uppdatering: **20 augusti 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad: **16 augusti**)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad: **20 augusti**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -84,11 +84,15 @@ Om du vill skicka feedback till Experience League om spellistor eller andra hjä
 
 +++Information
 
-* **[!DNL WORKFRONT]** | Upplevelsemakare | _Kunskapsutbyte för Adobe Workfront_ | Besök oss den 15 augusti för ett kostnadsfritt digitalt event med innehåll som är fokuserat på Workfront. Experter och kollegor får höra om hur de använder Workfront i sin dagliga verksamhet. | **15 augusti kl. 10:00 MT** | [Registrera](https://adobe.ly/4c7TAqZ)
+* **[!DNL EXPERIENCE CLOUD]** | Community-händelse | _2025 Adobe Experience Maker Awards_ | Nu kan du lämna in tävlingsbidrag för 2025 Adobe Experience Maker Awards. Extraordinärt är bara början. Fet visionärer. Exceptionella kundupplevelser. | **Ej tillämpligt** | [Använd nu](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | Community-händelse | _Connect: Workfront Collective_ | Delta i månatliga Workfront Collective-event som tagits fram för att kommunicera med andra kunder, diskutera Workfront funktioner, utbyta idéer och brainstorm tillsammans för att lösa vanliga problem. | **19 augusti kl. 7:00 MT** | [Registrera](https://events.teams.microsoft.com/event/96be978b-7cb2-453d-b8a8-991101596488@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig mer: Använda Workfront Request Queues för Input Processes_ | Ta en diskussion om fördelarna och de effektivaste strategierna med Workfront Request Queues för att spåra, ordna och rapportera om organisationens arbete. | **21 augusti kl. 9.30 MT** | [Registrera](https://events.teams.microsoft.com/event/ba631a2b-d656-42ca-99e9-3a78d0229c7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL REAL-TIME CUSTOMER DATA PLATFORM]** | Community-händelse | _AEP/RTCDP-tidsinställningar och vad som ska förväntas_ | Följ oss på ett insiktsfullt webbinarium med Seth Burke, Adobe Global Lead, när han går vidare till de bästa sätten att navigera i Real-time Customer Data Platform (RTCDP). | **20 augusti kl. 12:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/tech-sessions/event/registration.html)
+* **[!DNL ANALYTICS]** | Community-händelse | _Datadripp: Adobe Analytics Basics and Beyond_ | Följ Adobe Analytics experter när de vägleder oss genom de bästa sätten att ordna din arbetsyta, navigera i Adobe Analytics utbildningsvägar för nybörjare och koppla samman dem med datavisualiseringsverktyg från tredje part. | **22 augusti kl. 11:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/et45xd86xdq9/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig mer: Fall för Workfront Fusion_ | Gå med i Customer Success Team för en interaktiv workshop på en timme med Deloitte och Adobe Workfront Integrations Consulting för att få reda på hur ni kan kvantifiera tidsbesparingarna och ta fram ett bra affärsexempel för Workfront Fusion. | **27 augusti kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL JOURNEY OPTIMIZER]** | Kaffebrytning | _Adobe Journey Optimizer Community Q&amp;A Coffee Break_ | Det är en timmes lång, AMA-liknande chattsession med Journey Optimizer-experter runt tre måste prova på funktioner som Journey Optimizer-kundsexperiment, frekvensbegränsning och flerspråkig meddelandehantering. | **4 september kl. 9:00 MT** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
 
 Och mycket mer! Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
