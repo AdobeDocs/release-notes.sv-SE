@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4955798262f3d97c1a7944dbadab05d70cb66c40
+source-git-commit: 4f85a610d82980e431f5e3692e1fecb28677478b
 workflow-type: tm+mt
-source-wordcount: '3159'
+source-wordcount: '3129'
 ht-degree: 8%
 
 ---
@@ -32,9 +32,9 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Augusti 2024
 
-Senaste uppdatering: **20 augusti 2024**
+Senast uppdaterad: **22 augusti 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad: **20 augusti**)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad: **22 augusti**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -68,17 +68,22 @@ Läs om spännande event på Experience League. Det är en fantastisk plats att 
 
 ### Spellistor på Experience League (nya!)
 
-Uppdatering: **16 augusti 2024**
+Uppdatering: **22 augusti 2024**
 
-Video [spellistor](https://experienceleague.adobe.com/en/playlists) är ny i Experience League. En spellista är en välstrukturerad samling videoklipp som snabbt hjälper dig att få de kunskaper du behöver.
+Den nya videon [playlists](https://experienceleague.adobe.com/en/playlists) är tillgänglig i Experience League. En spellista är en välstrukturerad samling videoklipp som snabbt hjälper dig att få de kunskaper du behöver.
+
+Spellistans funktioner:
+
+* Automatiskt uppspelade videor
+* Kapitelmarkering och uppspelningshastighet
+* Fortsätt där du slutade
+* Videotranskript
 
 Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om du vill bläddra bland spellistor.
 
 >[!NOTE]
 >
->**Kurser** dras tillbaka från Experience League. Om du har ett bokmärke till en kurs omdirigeras du till en motsvarande spellista.
-
-Om du vill skicka feedback till Experience League om spellistor eller andra hjälpproblem kan du använda popup-fönstret Feedback längst ned på varje sida.
+>**Kurser** dras tillbaka från Experience League. Om du har bokmarkerat en kurs omdirigeras du till en motsvarande spellista om det finns en sådan. I vissa fall kan du behöva bläddra till en ny spellista som omfattar de ämnen du letar efter.
 
 ### Händelser på Experience League
 
@@ -86,13 +91,11 @@ Om du vill skicka feedback till Experience League om spellistor eller andra hjä
 
 * **[!DNL EXPERIENCE CLOUD]** | Community-händelse | _2025 Adobe Experience Maker Awards_ | Nu kan du lämna in tävlingsbidrag för 2025 Adobe Experience Maker Awards. Extraordinärt är bara början. Fet visionärer. Exceptionella kundupplevelser. | **Ej tillämpligt** | [Använd nu](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig mer: Använda Workfront Request Queues för Input Processes_ | Ta en diskussion om fördelarna och de effektivaste strategierna med Workfront Request Queues för att spåra, ordna och rapportera om organisationens arbete. | **21 augusti kl. 9.30 MT** | [Registrera](https://events.teams.microsoft.com/event/ba631a2b-d656-42ca-99e9-3a78d0229c7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | Community-händelse | _Datadripp: Adobe Analytics Basics and Beyond_ | Följ Adobe Analytics experter när de vägleder oss genom de bästa sätten att ordna din arbetsyta, navigera i Adobe Analytics utbildningsvägar för nybörjare och koppla samman dem med datavisualiseringsverktyg från tredje part. | **22 augusti kl. 11:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/et45xd86xdq9/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig mer: Fall för Workfront Fusion_ | Gå med i Customer Success Team för en interaktiv workshop på en timme med Deloitte och Adobe Workfront Integrations Consulting för att få reda på hur ni kan kvantifiera tidsbesparingarna och ta fram ett bra affärsexempel för Workfront Fusion. | **27 augusti kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL JOURNEY OPTIMIZER]** | Kaffebrytning | _Adobe Journey Optimizer Community Q&amp;A Coffee Break_ | Det är en timmes lång, AMA-liknande chattsession med Journey Optimizer-experter runt tre måste prova på funktioner som Journey Optimizer-kundsexperiment, frekvensbegränsning och flerspråkig meddelandehantering. | **4 september kl. 9:00 MT** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL WORKFRONT]** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att koppla dig till andra administratörer för att diskutera bästa praxis samt tips och tricks. | **6 september kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Och mycket mer! Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
