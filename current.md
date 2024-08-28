@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4f85a610d82980e431f5e3692e1fecb28677478b
+source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
 workflow-type: tm+mt
-source-wordcount: '3129'
+source-wordcount: '3160'
 ht-degree: 8%
 
 ---
@@ -28,13 +28,19 @@ På den här sidan kan du hitta följande självhjälpsresurser för företagspr
 
 Logga in på [Experience League](https://experienceleague.adobe.com/#home) och anpassa sökupplevelsen i det kostnadsfria biblioteket för [dokumentation](https://experienceleague.adobe.com/en/docs), [kurser](https://experienceleague.adobe.com/?lang=sv#courses), [event](https://experienceleague.adobe.com/events/), [communityforum](https://experienceleaguecommunities.adobe.com/?profile.language=en) och [support](https://experienceleague.adobe.com/?support-tab=home&amp;lang=sv#support) för att få bästa möjliga självhjälp.
 
+**Lämna feedback**
+
+Leta efter **_Var det här innehållet till hjälp?_** popup längst ned på varje sida. Dina synpunkter är välstrukturerade och skickas till skribenterna.
+
+**Få meddelande**
+
 Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på produktuppdateringen [Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## Augusti 2024
 
-Senast uppdaterad: **22 augusti 2024**
+Senast uppdaterad: **28 augusti 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad: **22 augusti**)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad: **28 augusti**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -91,9 +97,9 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 * **[!DNL EXPERIENCE CLOUD]** | Community-händelse | _2025 Adobe Experience Maker Awards_ | Nu kan du lämna in tävlingsbidrag för 2025 Adobe Experience Maker Awards. Extraordinärt är bara början. Fet visionärer. Exceptionella kundupplevelser. | **Ej tillämpligt** | [Använd nu](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig mer: Fall för Workfront Fusion_ | Gå med i Customer Success Team för en interaktiv workshop på en timme med Deloitte och Adobe Workfront Integrations Consulting för att få reda på hur ni kan kvantifiera tidsbesparingarna och ta fram ett bra affärsexempel för Workfront Fusion. | **27 augusti kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL JOURNEY OPTIMIZER]** | Kaffebrytning | _Adobe Journey Optimizer Community Q&amp;A Coffee Break_ | Det är en timmes lång, AMA-liknande chattsession med Journey Optimizer-experter runt tre måste prova på funktioner som Journey Optimizer-kundsexperiment, frekvensbegränsning och flerspråkig meddelandehantering. | **4 september kl. 9:00 MT** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _Nyheter i miljöer för snabb utveckling för AEM?_ | Följ oss för att få veta hur du använder RDE:er för att minska utvecklingstiderna och få omedelbar feedback på kodändringar. Vi kommer att presentera de senaste funktionerna som förbättrad loggning, stöd för frontend med mera. | **4 september kl. 9:00 MT** | [Registrera](https://adobe.ly/4cwc5W4)
 
 * **[!DNL WORKFRONT]** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att koppla dig till andra administratörer för att diskutera bästa praxis samt tips och tricks. | **6 september kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
