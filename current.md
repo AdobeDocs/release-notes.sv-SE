@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
+source-git-commit: 5999b9ecba0626d515248194beaabc77613ddf2f
 workflow-type: tm+mt
-source-wordcount: '3160'
+source-wordcount: '3189'
 ht-degree: 8%
 
 ---
@@ -38,11 +38,11 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Augusti 2024
 
-Senast uppdaterad: **28 augusti 2024**
+Senaste uppdatering: **3 september 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad: **28 augusti**)
+* [[!DNL Experience League] händelser och uppdateringar](#events)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud)
+* [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud) (Uppdaterat: **3** september)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (Releasedatum: **14 augusti**)
@@ -132,7 +132,11 @@ Lär dig mer om [!DNL Experience Cloud] centrala gränssnittskomponenter och adm
 
 +++Information
 
-Inte uppdaterat.
+Version: **2 september 2024**
+
+| Funktion | Beskrivning |
+| -----------| ---------- |
+| Slack-meddelanden | Du kan konfigurera dina kontoinställningar så att du kan skicka meddelanden från Experience Cloud till Slack. Mer information finns i _Slack-meddelanden_ i hjälpen för [Kontoinställningar och meddelanden](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences). |
 
 Hjälp om komponenterna i det centrala gränssnittet i Experience Cloud finns i [handboken om gränssnittet och administrationsfunktionen i Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (innehåller [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets] och [!UICONTROL Audiences]).
 
