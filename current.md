@@ -6,9 +6,9 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c563d797f681063494a6b9b5e3448cb71bfa6ce1
+source-git-commit: 0d239505fecd3d8b933bfb0e16ded3632b463b1f
 workflow-type: tm+mt
-source-wordcount: '4088'
+source-wordcount: '3806'
 ht-degree: 8%
 
 ---
@@ -38,15 +38,15 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## Oktober 2024
 
-Senaste uppdatering: **2 oktober 2024**
+Senaste uppdatering: **3 oktober 2024**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad: **10 september**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Analytics]](#analytics) (Utgåva: **2** oktober)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Utgåva: **2** oktober)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -93,21 +93,9 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Information
 
-* **[!DNL MARKETO ENGAGE]** | Community-händelse | _Marketo &amp; Mochas: Optimizing your Marketo Usage (Maturity PT 2)_ | Lär dig hur du optimerar din användning av Marketo på del 2 i Marketo Maturity-serien. Denna session fokuserar på bästa praxis för datahantering, integrering och programoptimering för förbättrad personalisering. | **12 september kl. 11:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/eaawduywkndj/event/registration.html?campaign-id=ExL)
+* **[!DNL WORKFRONT]** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att hjälpa dig att få kontakt med andra Workfront-administratörer för att diskutera både bästa praxis och tips och tricks. | **4 oktober kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig mer: Tillbaka till Workfront Boards med Adobe Product_ | Söker du nya och kreativa sätt att använda Workfront Boards? Följ våra produktchefer och lär dig mer om de effektivaste strategierna för styrelserna och hur du använder funktionen för att förbättra användningen. | **12 september kl. 12:00 MT** | [Registrera](https://events.teams.microsoft.com/event/e1e4a956-0115-4a60-b7f8-f519e6f26013@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Community-händelse | _Connect: Workfront Collective_ | Delta i vårt månatliga Workfront Collective-event för att få kontakt med andra kunder, diskutera Workfront funktioner och brainstorm tillsammans för att lösa vanliga problem. | **16 september kl. 7:00 MT** | [Registrera](https://events.teams.microsoft.com/event/ecc08357-a15e-4058-a062-8efe038c81cc@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Kundworkshop | _Admin 101: Ta med dina Workfront-frågor_ | Har du inte använt Workfront tidigare? Missade du någon av de tidigare administratörssessionerna? Delta i vår sammanfattningssession för att ställa frågor, få resurser och rekommendationer och träffa andra nya administratörer. | **17 september kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/ea6802af-b1dc-441a-aedb-79ed8607e02d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL MARKETO ENGAGE]** | Webbinarium | _Hantera komplexa kundresor med Multi-Stream Engagement Programs_ | Besök Adobe Marketo Engage Champion Max Garrett och utforska hur ni systematiskt engagerar och vårdar kundrelationer med multi-touch och multi-stream Engagement Programs under hela kundresan. | **17 september kl. 9:00 MT** | [Registrera](https://engage.adobe.com/Master-Muti-Stream-Engagement-Program-Marketo-Engage.html?trackingid=CJ1327K1&amp;mv=email)
-
-* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig: Värdeåteralisering - Få ut det mesta av Workfront_ | Söker du vägledning om hur du kan få ut så mycket som möjligt av dina Workfront-satsningar? Häng med Kait Winchell, Senior Customer Success Manager, som delar med sig av branschens bästa metoder för att få ut mesta möjliga av Workfront. | **19 september kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/6fae993e-73b5-49e6-97a1-1aa0a64b83c8@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | Webbinarium | _Commerce &amp; Coffee: Peak Season Prep_ | Besök Corey Gelato för en översikt över hur du förbereder sajten för en högsäsong när som helst på året. Lär dig hur du optimerar webbplatsens prestanda, hanterar lager, slutför beställningar och ökar supporten proaktivt. | **19 september kl. 11:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/e47se7d9nn63/event/registration.html?campaign-id=ExL)
-
-* **[!DNL DYNAMIC MEDIA CLASSIC],[!DNL EXPERIENCE MANAGER ASSETS]** | Webbinarium | _Dynamic Media Experience: Unveiling the Latest Innovations_ | Nu finns nya innovationer i AEM Dynamic Media som lyfter din kundupplevelse! Följ oss för en värdefokuserad rundown och en genomgång av en övertygande användarupplevelse som byggts med den senaste tekniken. | **25 september kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/043c6637-cfaf-486b-8924-2e562d28c833@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Community-händelse | _Admin 101: Komma igång med Workfront_ | Har du inte använt Workfront tidigare? Delta i den första sessionen i 3-delsserien, Admin 101, Series. Ni kan förvänta er att få lära er de bästa metoderna och rekommendationerna om systemkonfiguration och navigering, liksom de resurser ni behöver. | **8 oktober kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Och mycket mer! Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
@@ -247,7 +235,7 @@ Hitta den senaste versionsinformationen för [!DNL Customer Journey Analytics]. 
 
 +++Information
 
-[!DNL Customer Journey Analytics] Releasedatum: **1 september 2024**
+[!DNL Customer Journey Analytics] Releasedatum: **2 oktober 2024**
 
 * [!DNL Customer Journey Analytics] [versionsinformation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases) <!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
@@ -638,7 +626,6 @@ Nya självstudiekurser publicerade för [!DNL Document Cloud], inklusive [!DNL A
 | Publicerad | Program | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | September 2024 | Acrobat | [Så här befordrar du en användare till en administratörsroll](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/promote-admin.html?lang=en) | Video | Lär dig hur du befordrar en användare till en Acrobat Sign-administratörsroll med Adobe Admin Console. |
-| September 2024 | Acrobat | [Använda flera profiler](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/multiple-profiles) | Video | Lär dig hur du använder profilväljaren för att arbeta med flera Acrobat Sign-konton. |
 | September 2024 | Acrobat Sign | [Granskningsrapporter](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/audit-reports) | Video | Lär dig hur du får tillgång till, använder och konfigurerar granskningsrapporter efter organisationens behov. Alla dokument i Acrobat Sign passerar genom en serie händelsemål som definierar förloppet för en transaktion. Dessa delmål dokumenteras grundligt i en revisionsrapport för varje transaktion. |
 | September 2024 | Acrobat Sign | [Verktyget Masshämtning](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/bulk-download-tool) | Video | Lär dig hur du använder verktyget för masshämtning för att snabbt hämta alla signerade avtal, vilket sparar mycket tid. Verktyget för masshämtning finns för Windows och Mac OS X. |
 | September 2024 | Acrobat Sign | [Konfigurera automatiska uppdateringar](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/salesforce-automatic-updates) | Video | Lär dig hur du enkelt kan länka ditt konto till Salesforce för att få automatiska uppdateringar som effektiviserar arbetet och som är korrekta. |
