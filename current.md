@@ -1,6 +1,6 @@
 ---
 title: Information om den senaste versionen
-description: Hitta den senaste versionsinformationen och kunskapsbasutgåvorna för Adobe [!DNL Experience Cloud] -produkter och -tjänster. Läs mer om kommande händelser och ny dokumentation om Experience League. Upptäck de senaste självstudiekurserna och kurserna för [!DNL Experience Cloud] program.
+description: Hitta den senaste versionsinformationen och kunskapsbasutgåvorna för Adobe [!DNL Experience Cloud] -produkter och -tjänster. Lär dig mer om kommande händelser och ny dokumentation om Experience League. Upptäck de senaste självstudiekurserna och kurserna för [!DNL Experience Cloud] program.
 doc-type: release notes
 last-update: September 2024
 author: mfrei
