@@ -6,14 +6,14 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0d239505fecd3d8b933bfb0e16ded3632b463b1f
+source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
 workflow-type: tm+mt
-source-wordcount: '3806'
+source-wordcount: '3808'
 ht-degree: 8%
 
 ---
 
-# Versionsinformation för Experience Cloud - oktober 2024
+# Versionsinformation för Experience Cloud - september/oktober 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,7 +36,7 @@ Leta efter **_Var det här innehållet till hjälp?_** popup längst ned på var
 
 Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på produktuppdateringen [Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html).
 
-## Oktober 2024
+## September - oktober 2024
 
 Senaste uppdatering: **3 oktober 2024**
 
