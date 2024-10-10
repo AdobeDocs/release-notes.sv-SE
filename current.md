@@ -6,7 +6,7 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
+source-git-commit: f80213edd3db47dd0519beeaaaeb1cbfc9e04883
 workflow-type: tm+mt
 source-wordcount: '3808'
 ht-degree: 8%
@@ -38,9 +38,9 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## September - oktober 2024
 
-Senaste uppdatering: **3 oktober 2024**
+Senaste uppdatering: **10 oktober 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad: **10 september**)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad: **10 oktober**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -93,9 +93,9 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Information
 
-* **[!DNL WORKFRONT]** | Community-händelse | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Den här kunddrivna sessionen kommer att hjälpa dig att få kontakt med andra Workfront-administratörer för att diskutera både bästa praxis och tips och tricks. | **4 oktober kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Community-händelse | _Connect: Workfront Collective_ | Gå med i Customer Success-teamet på måndagsmorgonationen där du kan få kontakt med andra Workfront-administratörer, diskutera de senaste funktionerna, utbyta idéer och brainstormlösningar för vanliga utmaningar. | **14 oktober kl. 7:00 MT** | [Registrera](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Community-händelse | _Admin 101: Komma igång med Workfront_ | Har du inte använt Workfront tidigare? Delta i den första sessionen i 3-delsserien, Admin 101, Series. Ni kan förvänta er att få lära er de bästa metoderna och rekommendationerna om systemkonfiguration och navigering, liksom de resurser ni behöver. | **8 oktober kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig mer: Förbättrad effektivitet - Hur Cognizant använder Adobe Workfront för sin projektkompetens_ | Delta i Sujatha T S, Creative Operations Senior Manager och Global Brand och i Creative, System Admin. Hon berättar hur Cognizant optimerade sina system och processer för att förbättra effektiviteten i projekt. | **17 oktober kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Och mycket mer! Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
