@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1c909c2060ac5d838028dcd49def2d5c04e49e9a
+source-git-commit: e87cb9ab004a05e3555eabd29455ad9e8aa5231e
 workflow-type: tm+mt
-source-wordcount: '3880'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -93,11 +93,13 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Information
 
-* **[!DNL WORKFRONT]** | Community-händelse | _Connect: Workfront Collective_ | Gå med i Customer Success-teamet på måndagsmorgonationen där du kan få kontakt med andra Workfront-administratörer, diskutera de senaste funktionerna, utbyta idéer och brainstormlösningar för vanliga utmaningar. | **14 oktober kl. 7:00 MT** | [Registrera](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig mer: Förbättrad effektivitet - Hur Cognizant använder Adobe Workfront för sin projektkompetens_ | Delta i Sujatha T S, Creative Operations Senior Manager och Global Brand och i Creative, System Admin. Hon berättar hur Cognizant optimerade sina system och processer för att förbättra effektiviteten i projekt. | **17 oktober kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-Och mycket mer! Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
+* **[!DNL COMMERCE]** | Webbinarium | _Bakom bruset: Optimera din Commerce Storefront_ | Letar du efter strategier för att effektivt upprätthålla och optimera din butik? Lär dig hur du förhindrar vanliga datablockerare, strategier för att minska robotaktiviteten och planering av diskutrymme och databasstorlek. | **17 oktober kl. 11:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/ekboarwqotqv/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Frågor och svar - chatt | _Läs mer: Qualcomm&#39;s Journey to the Adoption of Adobe Workfront_ | Läs mer om den strategiska strategin Becky Barus, den certifierade tekniska Adobe Workfront-ledaren i Qualcomm, som används för att avsevärt öka användarnas användning av Adobe Workfront. | **23 oktober kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+Och många fler! Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
 +++
 
