@@ -5,7 +5,7 @@ user-guide-title: Versionsinformation om Adobe Experience Cloud
 breadcrumb-title: Versionsinformation
 user-guide-description: Lär dig om nya funktioner, korrigeringar och viktiga meddelanden i Adobe Experience Cloud och Experience Platform.
 user-guide-url: https://www.adobe.com
-source-git-commit: 8e97368ffaa98f281eb4495e3c9cd779331cea55
+source-git-commit: 435359866a5a8ba7019e0a8ed55e1917a41a341e
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 71%
