@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e87cb9ab004a05e3555eabd29455ad9e8aa5231e
+source-git-commit: 6d6a35b5c5c9ebd43c9cf2a683213578ff0f5912
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3879'
+ht-degree: 8%
 
 ---
 
@@ -93,11 +93,9 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Information
 
-* **[!DNL WORKFRONT]** | Kundworkshop | _Lär dig mer: Förbättrad effektivitet - Hur Cognizant använder Adobe Workfront för sin projektkompetens_ | Delta i Sujatha T S, Creative Operations Senior Manager och Global Brand och i Creative, System Admin. Hon berättar hur Cognizant optimerade sina system och processer för att förbättra effektiviteten i projekt. | **17 oktober kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | Webbinarium | _Bakom bruset: Optimera din Commerce Storefront_ | Letar du efter strategier för att effektivt upprätthålla och optimera din butik? Lär dig hur du förhindrar vanliga datablockerare, strategier för att minska robotaktiviteten och planering av diskutrymme och databasstorlek. | **17 oktober kl. 11:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/ekboarwqotqv/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** | Frågor och svar - chatt | _Läs mer: Qualcomm&#39;s Journey to the Adoption of Adobe Workfront_ | Läs mer om den strategiska strategin Becky Barus, den certifierade tekniska Adobe Workfront-ledaren i Qualcomm, som används för att avsevärt öka användarnas användning av Adobe Workfront. | **23 oktober kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | Följ oss på Adobe Developers Live på Adobe HQ i San Jose! Kommunicera med AEM och Commerce-utvecklare, utforska de senaste innovationerna och lär dig de bästa metoderna. 12 nov, personligen eller online. Anmäl dig nu! | **12 november kl. 9:00 MT** | [Registrera ][(https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
 Och många fler! Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
