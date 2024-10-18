@@ -6,9 +6,9 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d6a35b5c5c9ebd43c9cf2a683213578ff0f5912
+source-git-commit: 64f8c46f7424a25a53e2da939c7ea29795ba1937
 workflow-type: tm+mt
-source-wordcount: '3879'
+source-wordcount: '3865'
 ht-degree: 8%
 
 ---
@@ -142,7 +142,7 @@ Version: **10 september 2024**
 | Releasedatum | Funktion | Beskrivning |
 | -----------| -----------| ---------- |
 | September 10 | [!DNL Slack] meddelanden i [!DNL Experience Cloud] | Du kan konfigurera dina kontoinställningar så att [!DNL Experience Cloud] meddelanden skickas till Slack. Mer information finns i [Prenumerera på Slack-meddelanden](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences). |
-| Oktober 2 | Anpassningsbart hem | Klicka på **[!UICONTROL Edit]** på landningssidan för Experience Cloud. I [!UICONTROL Edit]-läget kan du anpassa din Experience Cloud-hemsida med åtkomst till ett widgetbibliotek och anpassade bakgrunder. [!UICONTROL Edit]-läget ger smidiga, intuitiva kontroller för att flytta, ändra storlek på och hantera widgetar, inklusive massåtgärder och layoutjusteringar, vilket ger en mer estetisk och skräddarsydd upplevelse. Anpassa Experience Cloud-startsidan med tillgång till ett widgetbibliotek och anpassade bakgrunder. |
+| Oktober 2 | Anpassningsbart hem | Klicka på **[!UICONTROL Edit]** på landningssidan för Experience Cloud. I [!UICONTROL Edit]-läget kan du anpassa din Experience Cloud-hemsida med åtkomst till ett widgetbibliotek och anpassade bakgrunder. [!UICONTROL Edit]-läget ger smidiga, intuitiva kontroller för att flytta, ändra storlek på och hantera widgetar, inklusive massåtgärder och layoutjusteringar, vilket ger en mer estetisk och anpassad upplevelse. |
 
 Hjälp om de centrala gränssnittskomponenterna i [!DNL Experience Cloud] finns i [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (inkluderar [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets] och [!UICONTROL Audiences]).
 
