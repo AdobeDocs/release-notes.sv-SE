@@ -6,9 +6,9 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 64f8c46f7424a25a53e2da939c7ea29795ba1937
+source-git-commit: 1a51bbbeef7022125cd7498e6863f9ad367198a4
 workflow-type: tm+mt
-source-wordcount: '3865'
+source-wordcount: '3910'
 ht-degree: 8%
 
 ---
@@ -95,7 +95,9 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 * **[!DNL WORKFRONT]** | Frågor och svar - chatt | _Läs mer: Qualcomm&#39;s Journey to the Adoption of Adobe Workfront_ | Läs mer om den strategiska strategin Becky Barus, den certifierade tekniska Adobe Workfront-ledaren i Qualcomm, som används för att avsevärt öka användarnas användning av Adobe Workfront. | **23 oktober kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | Följ oss på Adobe Developers Live på Adobe HQ i San Jose! Kommunicera med AEM och Commerce-utvecklare, utforska de senaste innovationerna och lär dig de bästa metoderna. 12 nov, personligen eller online. Anmäl dig nu! | **12 november kl. 9:00 MT** | [Registrera ][(https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
+* **[!DNL Experience Platform, Journey Optimizer, and Real-Time Customer Data Platform Collaboration]** | Frågor och svar - chatt | _Adobe Experience League Live: Harmonisera målgrupper i Experience Ecosystems - Federated Audience Composition i Experience Platform_ | Läs om hur Federated Audience Composition erbjuder ett omfattande sätt att hantera målgruppsgenerering och -aktivering med Real-Time CDP och Journey Optimizer. | **24 oktober kl. 8.30 MT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-241024.html)
+
+* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | Följ oss på Adobe Developers Live på Adobe HQ i San Jose! Kommunicera med AEM och Commerce-utvecklare, utforska de senaste innovationerna och lär dig de bästa metoderna. 12 nov, personligen eller online. Anmäl dig nu! | **12 november kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Och många fler! Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
