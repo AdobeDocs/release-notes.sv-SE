@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4dc15dc72d06718975ab5179065513265f061dc8
+source-git-commit: 1f52efdc0836864a20ea66d286f9cee4d1587b6d
 workflow-type: tm+mt
-source-wordcount: '4620'
+source-wordcount: '4484'
 ht-degree: 9%
 
 ---
@@ -38,7 +38,7 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## November 2024
 
-Senaste uppdatering: **23 oktober**
+Senaste uppdatering: **30 oktober**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -92,12 +92,6 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 ### Händelser på Experience League
 
 +++Information
-
-* **[!DNL Workfront]** | Frågor och svar - chatt | _Läs mer: Qualcomm&#39;s Journey to the Adoption of Adobe Workfront_ | Läs mer om den strategiska strategin Becky Barus, den certifierade tekniska Adobe Workfront-ledaren i Qualcomm, som används för att avsevärt öka användarnas användning av Adobe Workfront. | **23 oktober kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Platform, Journey Optimizer, and Real-Time Customer Data Platform Collaboration]** | EXPERIENCE LEAGUE LIVE | _Adobe Experience League Live: Harmonisera målgrupper i Experience Ecosystems - Federated Audience Composition i Experience Platform_ | Läs om hur Federated Audience Composition erbjuder ett omfattande sätt att hantera målgruppsgenerering och -aktivering med Real-Time CDP och Journey Optimizer. | **24 oktober kl. 9.30 MT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-241024.html)
-
-* **[!DNL Workfront]** | Frågor och svar - chatt | _Kundpanel: Lektioner från veteranadministratörer i Workfront_ | Besök fyra erfarna Adobe Workfront-kunder och få en timmes interaktiv paneldiskussion för att ta reda på vad de ska göra (eller inte göra) när de implementerar, ärver, hanterar och utökar en instans av Workfront. | **29 oktober kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/bfdd4c24-1a60-447d-a91b-ad52806626a5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Cloud](flerprodukt)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Följ oss på Adobe Developers Live på Adobe HQ i San Jose! Kommunicera med AEM och Commerce-utvecklare, utforska de senaste innovationerna och lär dig de bästa metoderna. 12 nov, personligen eller online. Anmäl dig nu! | **12 november kl. 9:00 MT** | [Registrera](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
@@ -188,7 +182,7 @@ Hitta den senaste versionsinformationen för [!DNL Adobe Analytics] och [!DNL Ap
 
 +++Information
 
-[!DNL Analytics] Releasedatum: **2 oktober 2024**
+[!DNL Analytics] Releasedatum: **23 oktober 2024**
 
 * [!DNL Analytics] [versionsinformation](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)<!-- (https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
 
@@ -226,7 +220,7 @@ Hitta den senaste versionsinformationen för [!DNL Customer Journey Analytics]. 
 
 +++Information
 
-[!DNL Customer Journey Analytics] Releasedatum: **2 oktober 2024**
+[!DNL Customer Journey Analytics] Releasedatum: **23 oktober 2024**
 
 * [!DNL Customer Journey Analytics] [versionsinformation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases) <!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
