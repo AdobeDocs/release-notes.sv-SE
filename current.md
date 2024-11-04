@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1f52efdc0836864a20ea66d286f9cee4d1587b6d
+source-git-commit: 7b1fc9eb2230cb7779b9253211080933c73cb796
 workflow-type: tm+mt
-source-wordcount: '4484'
+source-wordcount: '4560'
 ht-degree: 9%
 
 ---
@@ -38,7 +38,7 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## November 2024
 
-Senaste uppdatering: **30 oktober**
+Senaste uppdatering: **4 november**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -92,6 +92,10 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 ### Händelser på Experience League
 
 +++Information
+
+* **[!DNL Workfront]** | Kundworkshop | _Lär dig mer: Använda ändringshantering på din Workfront-resa_ | Häng med Keri Amundson, Senior Customer Success Manager, som delar med sig av de effektivaste strategierna för förändringshantering för att hjälpa till att förändra din Workfront-resa. | **7 november kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Kundworkshop | _Lär dig mer: Använda ändringshantering på din Workfront-resa_ | Häng med Keri Amundson, Senior Customer Success Manager, som delar med sig av de effektivaste strategierna för förändringshantering för att hjälpa till att förändra din Workfront-resa. | **7 november kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Cloud](flerprodukt)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Följ oss på Adobe Developers Live på Adobe HQ i San Jose! Kommunicera med AEM och Commerce-utvecklare, utforska de senaste innovationerna och lär dig de bästa metoderna. 12 nov, personligen eller online. Anmäl dig nu! | **12 november kl. 9:00 MT** | [Registrera](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
