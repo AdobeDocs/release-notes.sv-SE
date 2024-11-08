@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 719336060311e774db7799c3357946dc2568ac67
+source-git-commit: 9231c3a730a0b7167c8c63a7655f08239fd6dee9
 workflow-type: tm+mt
-source-wordcount: '4436'
+source-wordcount: '4566'
 ht-degree: 9%
 
 ---
@@ -93,7 +93,13 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Information
 
+* **[!DNL Workfront]** | Community-händelse | _Connect: Workfront Collective_ | Delta i månatliga Workfront Collective-event som tagits fram för att kommunicera med andra kunder, diskutera Workfront funktioner, utbyta idéer och brainstorm tillsammans för att lösa vanliga problem. | **11 november kl. 7:00 MT** | [Registrera](https://events.teams.microsoft.com/event/ffc976b3-a3a9-44d3-bea7-ff315460495a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Kundworkshop | _Admin 101: Få användare att använda Workfront_ | Har du inte använt Workfront tidigare? Besök oss på den andra sessionen i den 3-delade Admin 101-serien för att diskutera allt som rör användandet. Kom med dina frågor! | **12 november kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/e9e4e06c-b492-4759-afda-b5d3fb31859e@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL Experience Cloud](flerprodukt)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Följ oss på Adobe Developers Live på Adobe HQ i San Jose! Kommunicera med AEM och Commerce-utvecklare, utforska de senaste innovationerna och lär dig de bästa metoderna. 12 nov, personligen eller online. Anmäl dig nu! | **12 november kl. 9:00 MT** | [Registrera](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
+
+* **[!DNL Experience Platform and Real-Time CDP]** | EXPERIENCE LEAGUE LIVE | _Introduktion till AI Assistant för marknadsförare i Real-Time CDP_ | Besök produktexperterna på Adobe och få en smygtitt på AI Assistant för de målgrupper som snart kommer till Adobe Real-Time CDP för att få fantastiska målgruppsinsikter och åtgärder. Få svar på dina frågor från Adobe produktexperter! | **13 november kl. 10:00 MT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-241113.html)
 
 Och många fler! Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
