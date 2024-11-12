@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9231c3a730a0b7167c8c63a7655f08239fd6dee9
+source-git-commit: 0c46b2408ea58ab78dbd5b0dd9e3931ddd20e33a
 workflow-type: tm+mt
-source-wordcount: '4566'
+source-wordcount: '4662'
 ht-degree: 9%
 
 ---
@@ -38,7 +38,7 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## November 2024
 
-Senaste uppdatering: **8 november**
+Senaste uppdatering: **12 november**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -93,13 +93,13 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Information
 
-* **[!DNL Workfront]** | Community-händelse | _Connect: Workfront Collective_ | Delta i månatliga Workfront Collective-event som tagits fram för att kommunicera med andra kunder, diskutera Workfront funktioner, utbyta idéer och brainstorm tillsammans för att lösa vanliga problem. | **11 november kl. 7:00 MT** | [Registrera](https://events.teams.microsoft.com/event/ffc976b3-a3a9-44d3-bea7-ff315460495a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | Kundworkshop | _Admin 101: Få användare att använda Workfront_ | Har du inte använt Workfront tidigare? Besök oss på den andra sessionen i den 3-delade Admin 101-serien för att diskutera allt som rör användandet. Kom med dina frågor! | **12 november kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/e9e4e06c-b492-4759-afda-b5d3fb31859e@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Experience Cloud](flerprodukt)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Följ oss på Adobe Developers Live på Adobe HQ i San Jose! Kommunicera med AEM och Commerce-utvecklare, utforska de senaste innovationerna och lär dig de bästa metoderna. 12 nov, personligen eller online. Anmäl dig nu! | **12 november kl. 9:00 MT** | [Registrera](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
 * **[!DNL Experience Platform and Real-Time CDP]** | EXPERIENCE LEAGUE LIVE | _Introduktion till AI Assistant för marknadsförare i Real-Time CDP_ | Besök produktexperterna på Adobe och få en smygtitt på AI Assistant för de målgrupper som snart kommer till Adobe Real-Time CDP för att få fantastiska målgruppsinsikter och åtgärder. Få svar på dina frågor från Adobe produktexperter! | **13 november kl. 10:00 MT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-241113.html)
+
+* **[!DNL Marketo]** | Marketo Engage Champions | _November 2024 Marketo Engage Champion Office Hours_ | Besök oss på Marketo Champion Office Hours i november torsdagen den 14 november med vår panel Champions Miray Vu, Maria Cruz, AJ Navarro och Lucas Goncalves Machado, modererad av Alsyha Khan. | **14 november kl. 9:00 MT** | [Registrera](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-november-2024-marketo-engage-champion-office-hours/)
+
+* **[!DNL Analytics and Customer Journey Analytics]** | Experience Cloud Tech Sessions | _Adobe Customer Journey Analytics produktinnovationer: Kvartalsvis översikt - Q4 2025_ | Besök Adobe Analytics produktexperter och upptäck de allra senaste innovationerna med Adobe Customer Journey Analytics. Kv4 2025-sessionen pågår snart, så anmäl dig nu så att du kan hitta rätt. | **14 november kl. 10:00 MT** | [Registrera](https://event.adobe.com/customerjourneyanalytics)
 
 Och många fler! Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
@@ -321,6 +321,9 @@ Nya självstudiekurser för [!DNL Adobe Commerce] på Experience League.
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
+| November 2024 | [Konfigurationsvärden](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values) | Video | Lär dig hur du söker efter, validerar och hanterar konfigurationsvärden i Adobe Commerce med hjälp av `core_config_data`, XML-filer och administrationsinställningar. |
+| November 2024 | [Åtgärda vanliga fel](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values) | Video | Åtgärda två vanliga Adobe Cloud-projektfel som förhindrar att webbplatsen läses in. |
+| November 2024 | [Utgånget SSL-certifikat](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/invalid-ssl) | Video | Lär dig hur du identifierar ett utgånget ssl-certifikat och hur du genererar om ett för Adobe Commerce Cloud-integrering eller andra utvecklingsmiljöer. |
 | Oktober 2024 | [Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/qa/code-freeze) | Flera videor | Se nya videor om Commerce marknadsföringsmiljö, global leveransmodell, administratörsroller, butiksalternativ med mera. |
 | Oktober 2024 | [Migrerar till Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/overview) | Video | En översikt över förberedelser, anpassad kod, QA, prestanda och säkerhet vid migrering till Adobe Commerce. |
 | Oktober 2024 | [Återställ admin-URI med klippet](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/admin/reset-admin-uri) | Video | Lär dig hur du återställer admin-URI med kommandot Adobe Commerce Cloud cli. Detta är användbart om admin-URL:en har ändrats från admin men ett fel har gjorts och du inte längre kan komma åt admin. |
