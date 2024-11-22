@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0c46b2408ea58ab78dbd5b0dd9e3931ddd20e33a
+source-git-commit: 1d63ee52cf877b33f2033666021918271a83404f
 workflow-type: tm+mt
-source-wordcount: '4662'
+source-wordcount: '4601'
 ht-degree: 9%
 
 ---
@@ -38,15 +38,15 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 
 ## November 2024
 
-Senaste uppdatering: **12 november**
+Senaste uppdatering: **22 november**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (**24 november**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Utgåva: **23 oktober**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Utgåva: **23 oktober**)
+* [[!DNL Adobe Analytics]](#analytics) (frisläppt: **23 oktober**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (frisläppt: **23 oktober**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -57,7 +57,7 @@ Senaste uppdatering: **12 november**
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing) (**Ny!**)
+* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing)
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
@@ -71,6 +71,17 @@ Senaste uppdatering: **12 november**
 ## ![Ikon](/assets/experience-league.png) [!DNL Experience League] - händelser och uppdateringar {#events}
 
 Läs om spännande event på Experience League. Det är en fantastisk plats att lära sig, interagera och få svar från produktexperter på Adobe!
+
+### Förbättrad innehållsförteckning
+
+Uppdatering: **22 november 2024**
+
+Följande uppdateringar har gjorts för varje innehållsförteckning i Experience League:
+
+* **[!UICONTROL Expand all sections]**: Visar hela innehållsförteckningen i en Experience League-stödlinje. (Den här växlingen stängs av när en sida har lästs in. Problemet kommer att åtgärdas i en framtida uppdatering.) Alternativen **[!UICONTROL View more]** och **[!UICONTROL View less]** har tagits bort.
+* **Bläddra**: Gör att du kan bläddra igenom en lång innehållsförteckning.
+* **[!UICONTROL Filter by keyword]**: Du kan filtrera innehållsförteckningsposter genom att skriva nyckelord. En listruta visar relevanta resultat och du kan rensa filtret genom att klicka på **[!UICONTROL Clear]**.
+* **Aktiv sidsynlighet**: Den aktiva sidan markeras alltid i innehållsförteckningen.
 
 ### Spellistor på Experience League
 
@@ -93,15 +104,7 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Information
 
-* **[!DNL Experience Cloud](flerprodukt)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Följ oss på Adobe Developers Live på Adobe HQ i San Jose! Kommunicera med AEM och Commerce-utvecklare, utforska de senaste innovationerna och lär dig de bästa metoderna. 12 nov, personligen eller online. Anmäl dig nu! | **12 november kl. 9:00 MT** | [Registrera](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
-
-* **[!DNL Experience Platform and Real-Time CDP]** | EXPERIENCE LEAGUE LIVE | _Introduktion till AI Assistant för marknadsförare i Real-Time CDP_ | Besök produktexperterna på Adobe och få en smygtitt på AI Assistant för de målgrupper som snart kommer till Adobe Real-Time CDP för att få fantastiska målgruppsinsikter och åtgärder. Få svar på dina frågor från Adobe produktexperter! | **13 november kl. 10:00 MT** | [Registrera](https://engage.adobe.com/ExpLeagueLive-241113.html)
-
-* **[!DNL Marketo]** | Marketo Engage Champions | _November 2024 Marketo Engage Champion Office Hours_ | Besök oss på Marketo Champion Office Hours i november torsdagen den 14 november med vår panel Champions Miray Vu, Maria Cruz, AJ Navarro och Lucas Goncalves Machado, modererad av Alsyha Khan. | **14 november kl. 9:00 MT** | [Registrera](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-november-2024-marketo-engage-champion-office-hours/)
-
-* **[!DNL Analytics and Customer Journey Analytics]** | Experience Cloud Tech Sessions | _Adobe Customer Journey Analytics produktinnovationer: Kvartalsvis översikt - Q4 2025_ | Besök Adobe Analytics produktexperter och upptäck de allra senaste innovationerna med Adobe Customer Journey Analytics. Kv4 2025-sessionen pågår snart, så anmäl dig nu så att du kan hitta rätt. | **14 november kl. 10:00 MT** | [Registrera](https://event.adobe.com/customerjourneyanalytics)
-
-Och många fler! Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
+Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
 +++
 
@@ -130,6 +133,10 @@ Information om den senaste versionen finns här:
 Lär dig mer om [!DNL Experience Cloud] centrala gränssnittskomponenter och administration. Hantera produkter och användare, konfigurera profilinställningar och -inställningar, söka efter Experience Cloud-objekt och hantera cookies.
 
 +++Information
+
+För att göra det enklare att styra inställningarna för produktanvändningen i Experience Cloud har vi effektiviserat vår inställningssida för Experience Cloud för att ta bort dubblettalternativ. För enkelhetens skull har vi bevarat de aktuella användarinställningarna, och du kan när som helst uppdatera dina inställningar på https://experience.adobe.com/preferences.
+
+
 
 | Releasedatum | Funktion | Beskrivning |
 | -----------| -----------| ---------- |
