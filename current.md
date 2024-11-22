@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1d63ee52cf877b33f2033666021918271a83404f
+source-git-commit: 8f8c2c1c77f9ca98e7543ff7a52071c6fa49fea5
 workflow-type: tm+mt
-source-wordcount: '4601'
+source-wordcount: '4576'
 ht-degree: 9%
 
 ---
@@ -28,23 +28,19 @@ På den här sidan kan du hitta följande självhjälpsresurser för företagspr
 
 Logga in på [Experience League](https://experienceleague.adobe.com/#home) och anpassa sökupplevelsen i det kostnadsfria biblioteket för [dokumentation](https://experienceleague.adobe.com/en/docs), [kurser](https://experienceleague.adobe.com/?lang=sv#courses), [event](https://experienceleague.adobe.com/events/), [communityforum](https://experienceleaguecommunities.adobe.com/?profile.language=en) och [support](https://experienceleague.adobe.com/?support-tab=home&amp;lang=sv#support) för att få bästa möjliga självhjälp.
 
-**Lämna feedback**
+**Lämna feedback:** Leta efter **_Var det här innehållet till hjälp?_** popup längst ned på varje sida. Dina synpunkter är välstrukturerade och skickas till skribenterna.
 
-Leta efter **_Var det här innehållet till hjälp?_** popup längst ned på varje sida. Dina synpunkter är välstrukturerade och skickas till skribenterna.
+**Få meddelande:** Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [produktuppdateringen för Adobe-prioritet](https://www.adobe.com/subscription/priority-product-update.html).
 
-**Få meddelande**
+**November 2024**
 
-Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på produktuppdateringen [Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html).
-
-## November 2024
-
-Senaste uppdatering: **22 november**
+Senaste uppdatering: **22 november 2024**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events) (**24 november**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
-* [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
+* [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (frisläppt: **23 oktober**)
 * [[!DNL Adobe Customer Journey Analytics]](#cja) (frisläppt: **23 oktober**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
@@ -68,9 +64,11 @@ Senaste uppdatering: **22 november**
 * [Certifiering på Adobe](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe produktsäkerhetssårbarheter](https://helpx.adobe.com/se/security.html)
 
-## ![Ikon](/assets/experience-league.png) [!DNL Experience League] - händelser och uppdateringar {#events}
+## [!DNL Experience League] händelser och uppdateringar {#events}
 
 Läs om spännande event på Experience League. Det är en fantastisk plats att lära sig, interagera och få svar från produktexperter på Adobe!
+
++++Information
 
 ### Förbättrad innehållsförteckning
 
@@ -100,6 +98,8 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 >
 >Om du har bokmarkerat en kurs på Experience League omdirigeras du till en motsvarande spellista. I vissa fall kan du behöva bläddra till en ny spellista som omfattar de ämnen du letar efter.
 
++++
+
 ### Händelser på Experience League
 
 +++Information
@@ -108,7 +108,7 @@ Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) elle
 
 +++
 
-## ![Ikon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
+## [!DNL Adobe System Status] {#status}
 
 Läs om de senaste funktionerna och uppdateringarna i [!DNL Adobe System Status].
 
@@ -128,15 +128,13 @@ Information om den senaste versionen finns här:
 
 +++
 
-## ![Ikon](/assets/ec_appicon_24.png) [!DNL Experience Cloud] - centralt gränssnitt och administration {#ecloud}
+## [!DNL Experience Cloud] - centralt gränssnitt och administration {#ecloud}
 
 Lär dig mer om [!DNL Experience Cloud] centrala gränssnittskomponenter och administration. Hantera produkter och användare, konfigurera profilinställningar och -inställningar, söka efter Experience Cloud-objekt och hantera cookies.
 
 +++Information
 
 För att göra det enklare att styra inställningarna för produktanvändningen i Experience Cloud har vi effektiviserat vår inställningssida för Experience Cloud för att ta bort dubblettalternativ. För enkelhetens skull har vi bevarat de aktuella användarinställningarna, och du kan när som helst uppdatera dina inställningar på https://experience.adobe.com/preferences.
-
-
 
 | Releasedatum | Funktion | Beskrivning |
 | -----------| -----------| ---------- |
@@ -146,7 +144,7 @@ Hjälp om de centrala gränssnittskomponenterna i [!DNL Experience Cloud] finns 
 
 +++
 
-## ![Ikon](/assets/experience_platform_appicon_24.png) [!DNL Experience Platform] {#platform}
+## [!DNL Experience Platform] {#platform}
 
 Hitta den senaste versionsinformationen och den nya dokumentationen för [!DNL Experience Platform] och [!UICONTROL Mobile SDK]. Visa nya självstudiekurser och kunskapsbasartiklar på Experience League.
 
@@ -175,9 +173,9 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Experience Plat
 
 +++
 
-## ![Ikon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
+## [!DNL Real-Time CDP] {#rtcdp}
 
-Hitta de senaste självstudiekurserna för [!DNL Real-Time Customer Data Platform] på Experience League.
+Hitta de senaste självstudiekurserna för [!DNL Real-Time CDP] på Experience League.
 
 +++Information
 
@@ -187,7 +185,7 @@ Hitta de senaste självstudiekurserna för [!DNL Real-Time Customer Data Platfor
 
 +++
 
-## ![Ikon](/assets/analytics.png) [!DNL Analytics] {#analytics}
+## [!DNL Analytics] {#analytics}
 
 Hitta den senaste versionsinformationen för [!DNL Adobe Analytics] och [!DNL AppMeasurement]. Se nya självstudiekurser Experience League.
 
@@ -225,7 +223,7 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Analytics].
 
 +++
 
-## ![Ikon](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
+## [!DNL Customer Journey Analytics] {#cja}
 
 Hitta den senaste versionsinformationen för [!DNL Customer Journey Analytics]. Visa nya självstudiekurser på Experience League.
 
@@ -247,7 +245,7 @@ Nya självstudiekurser har publicerats för [!DNL Customer Journey Analytics].
 
 +++
 
-## ![Ikon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
+## [!DNL Streaming Media Analytics] {#sma}
 
 Hitta den senaste versionsinformationen för [!DNL Streaming Media Analytics]. Visa nya självstudiekurser på Experience League.
 
@@ -259,7 +257,7 @@ Hitta den senaste versionsinformationen för [!DNL Streaming Media Analytics]. V
 
 +++
 
-## ![Ikon](/assets/aem.png) Adobe [!DNL Experience Manager] {#aem}
+## Adobe [!DNL Experience Manager] {#aem}
 
 Nya funktioner, korrigeringar och uppdateringar i [!DNL Experience Manager]. Adobe rekommenderar att kunder med lokal driftsättning driftsätter de senaste patcharna för att säkerställa högre stabilitet, säkerhet och prestanda.
 
@@ -312,7 +310,7 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Experience Mana
 
 +++
 
-## ![Ikon](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
+## [!DNL Adobe Commerce] {#commerce}
 
 Få tillgång till versionsinformation, nya självstudiekurser och kunskapsbasartiklar för [!DNL Adobe Commerce] på Experience League.
 
@@ -351,7 +349,7 @@ Nya artiklar och uppdateringar av befintliga artiklar för Adobe Commerce.
 
 +++
 
-## ![Ikon](/assets/target.png) [!DNL Target] {#target}
+## [!DNL Target] {#target}
 
 Få tillgång till förhandsversionsinformation, aktuell versionsinformation och nya självstudiekurser för [!DNL Adobe Target].
 
@@ -369,7 +367,7 @@ Få tillgång till förhandsversionsinformation, aktuell versionsinformation och
 
 +++
 
-## ![Ikon](/assets/campaign.png) [!DNL Campaign] {#ac}
+## [!DNL Campaign] {#ac}
 
 Hämta de senaste uppdateringarna för [!DNL Adobe Campaign]. Hitta nya självstudiekurser och supportartiklar i kunskapsbasen på Experience League.
 
@@ -415,7 +413,7 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Campaign].
 
 +++
 
-## ![Ikon](/assets/experience_platform_appicon_24.png) [!DNL Journey Optimizer] {#journey-opt}
+## [!DNL Journey Optimizer] {#journey-opt}
 
 Läs mer om den senaste versionsinformationen för [!DNL Journey Optimizer]. Se de senaste självstudiekurserna och supportartiklarna i kunskapsbasen på Experience League.
 
@@ -462,7 +460,7 @@ Nya självstudiekurser publicerade för Adobe [!DNL Journey Optimizer] på Exper
 
 +++
 
-## ![Ikon](/assets/ajo-b2b.png) [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
+## [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
 
 Hitta versionsinformation och ny dokumentation för Adobe [!DNL Journey Optimizer B2b Edition].
 
@@ -473,7 +471,7 @@ Hitta versionsinformation och ny dokumentation för Adobe [!DNL Journey Optimize
 
 +++
 
-## ![Ikon](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
+## [!DNL Journey Orchestration] {#journey-orch}
 
 Få tillgång till den senaste versionsinformationen för [!DNL Journey Orchestration] på Experience League.
 
@@ -495,7 +493,7 @@ Läs mer om de senaste funktionerna, förbättringarna och korrigeringarna i [[!
 
 +++
 
-## ![Ikon](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
+## [!DNL Marketo Engage] {#marketo}
 
 Ta reda på den senaste versionsinformationen och releaseplanen för [!DNL Marketo Engage].
 
@@ -531,7 +529,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 +++
 
-## ![Ikon](/assets/workfront.png) [!DNL Workfront] {#workfront}
+## [!DNL Workfront] {#workfront}
 
 Läs mer om den senaste versionsinformationen för [!DNL Adobe Workfront]. Hitta nya självstudiekurser på Experience League.
 
@@ -594,7 +592,7 @@ Den senaste produktdokumentationen finns på [Adobe [!DNL Workfront] dokumentati
 
 +++
 
-## ![Ikon](/assets/ec_appicon_24.png) GenStudio for Performance Marketing {#genstudio-marketing}
+## GenStudio for Performance Marketing {#genstudio-marketing}
 
 Hitta den senaste versionsinformationen och den nya dokumentationen för [!DNL GenStudio for Performance Marketing].
 
@@ -613,7 +611,7 @@ Senaste videokurser för [!DNL GenStudio for Performance Marketing].
 
 +++
 
-## ![Ikon](/assets/ec_appicon_24.png) [!DNL Adobe Mix Modeler] {#mix-modeler}
+## [!DNL Adobe Mix Modeler] {#mix-modeler}
 
 +++Information
 
@@ -624,7 +622,7 @@ På följande sidor finns den senaste informationen:
 
 +++
 
-## ![Ikon](/assets/advertising-cloud.png) Adobe Advertising {#advertising}
+## Adobe Advertising {#advertising}
 
 Versionsinformation för [!DNL Adobe Advertising].
 
@@ -642,7 +640,7 @@ Se [Nyheter i [!DNL Advertising Search, Social, & Commerce]](https://experiencel
 
 +++
 
-## ![Ikon](/assets/pass.png) [!DNL Adobe Pass] {#pass}
+## [!DNL Adobe Pass] {#pass}
 
 [!DNL Adobe Pass] är en TV-plattform för flera skärmar som hjälper radio/TV-bolag, kabelnätverk och tjänsteleverantörer att skapa och tjäna pengar på engagerande, personaliserade tittarupplevelser.
 
@@ -652,7 +650,7 @@ I [Adobe Pass-dokumentation](https://experienceleague.adobe.com/en/docs/pass) fi
 
 +++
 
-## ![Ikon](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
+## [!DNL Document Cloud] {#doc-cloud}
 
 Nya självstudiekurser publicerade för [!DNL Document Cloud], inklusive [!DNL Acrobat Services] och [!DNL Acrobat Sign].
 
@@ -679,7 +677,7 @@ Nya självstudiekurser publicerade för [!DNL Document Cloud], inklusive [!DNL A
 
 +++
 
-## ![Ikon](/assets/creative-cloud-24.png) [!DNL Creative Cloud] för företag {#creative-cloud}
+## [!DNL Creative Cloud] för företag {#creative-cloud}
 
 Nya självstudiekurser publicerade för program i [!DNL Adobe Creative Cloud for enterprise].
 
@@ -693,11 +691,11 @@ De senaste självstudiekurserna finns i [Creative Cloud för företag](https://e
 
 +++
 
-## ![Ikon](/assets/experience-league.png) Kunddatahantering - Voices {#voices}
+## Kunddatahantering - Voices {#voices}
 
 [Voices för kunddatahantering](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview) är ditt mål som ansvarig och specialist för kunddatahantering. Den här samlingen självstudiekurser är den självstudiekurs du behöver för att höra från kollegor, få inspiration och lära dig mer om utvecklingen i MarTech. Ingen registrering behövs. Klicka bara och titta.
 
-## ![Ikon](/assets/experience-league.png) Digital Experience-utkast {#blueprints}
+## Digital Experience-utkast {#blueprints}
 
 [Digitala upplevelseutkast](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview) är repeterbara implementeringar som gör att du kan hantera strategier och snabbt lösa etablerade affärsproblem. Varje utkast innehåller en serie artefakter som förklarar de mest värdefulla problemen, arkitekturer, implementeringssteg, tekniska överväganden och länkar till relevant dokumentation.
 
