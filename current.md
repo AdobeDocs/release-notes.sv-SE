@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8f8c2c1c77f9ca98e7543ff7a52071c6fa49fea5
+source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
 workflow-type: tm+mt
-source-wordcount: '4576'
+source-wordcount: '4580'
 ht-degree: 9%
 
 ---
@@ -34,7 +34,7 @@ Logga in på [Experience League](https://experienceleague.adobe.com/#home) och a
 
 **November 2024**
 
-Senaste uppdatering: **22 november 2024**
+Senaste uppdatering: **24 november 2024**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events) (**24 november**)
 * [[!DNL Adobe System Status]](#status)
@@ -64,17 +64,17 @@ Senaste uppdatering: **22 november 2024**
 * [Certifiering på Adobe](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe produktsäkerhetssårbarheter](https://helpx.adobe.com/se/security.html)
 
-## [!DNL Experience League] händelser och uppdateringar {#events}
+## [!DNL Experience League] uppdateringar och händelser {#events}
 
 Läs om spännande event på Experience League. Det är en fantastisk plats att lära sig, interagera och få svar från produktexperter på Adobe!
 
-+++Information
+### Uppdateringar till Experience League
 
-### Förbättrad innehållsförteckning
++++Information
 
 Uppdatering: **22 november 2024**
 
-Följande uppdateringar har gjorts för varje innehållsförteckning i Experience League:
+**Innehållsförteckningens uppdateringar:** Följande uppdateringar har gjorts för varje innehållsförteckning i Experience League:
 
 * **[!UICONTROL Expand all sections]**: Visar hela innehållsförteckningen i en Experience League-stödlinje. (Den här växlingen stängs av när en sida har lästs in. Problemet kommer att åtgärdas i en framtida uppdatering.) Alternativen **[!UICONTROL View more]** och **[!UICONTROL View less]** har tagits bort.
 * **Bläddra**: Gör att du kan bläddra igenom en lång innehållsförteckning.
