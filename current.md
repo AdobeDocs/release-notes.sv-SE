@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
+source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
 workflow-type: tm+mt
-source-wordcount: '4580'
+source-wordcount: '4661'
 ht-degree: 9%
 
 ---
@@ -34,15 +34,15 @@ Logga in på [Experience League](https://experienceleague.adobe.com/#home) och a
 
 **November 2024**
 
-Senaste uppdatering: **24 november 2024**
+Senaste uppdatering: **11 december 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events) (**24 november**)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (**11** december)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (frisläppt: **23 oktober**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (frisläppt: **23 oktober**)
+* [[!DNL Adobe Analytics]](#analytics) (senaste versionen: **23 oktober**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (senaste versionen: **23 oktober**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -103,6 +103,10 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 ### Händelser på Experience League
 
 +++Information
+
+* **[!DNL Workfront]** | Community-händelse | _Connect: Workfront Collective_ | Delta i månatliga Workfront Collective-event som tagits fram för att kommunicera med andra kunder, diskutera Workfront funktioner, utbyta idéer och brainstorm tillsammans för att lösa vanliga problem. | **16 december kl. 7:00 MT** | [Registrera](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Frågor och svar - chatt | _Admin 101: Ta med dina Workfront-frågor_ | Har du inte använt Workfront tidigare? Missade du någon av de tidigare administratörssessionerna? Delta i vår sammanfattningssession för att ställa frågor, få resurser och rekommendationer och träffa andra nya administratörer. | **17 december kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
