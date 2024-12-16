@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
+source-git-commit: acb2e70c307774752fca6b7e0fb903c8d6c12601
 workflow-type: tm+mt
-source-wordcount: '4661'
+source-wordcount: '4716'
 ht-degree: 9%
 
 ---
@@ -32,11 +32,11 @@ Logga in på [Experience League](https://experienceleague.adobe.com/#home) och a
 
 **Få meddelande:** Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [produktuppdateringen för Adobe-prioritet](https://www.adobe.com/subscription/priority-product-update.html).
 
-**November 2024**
+**November/december 2024**
 
-Senaste uppdatering: **11 december 2024**
+Senaste uppdatering: **16 december 2024**
 
-* [[!DNL Experience League] händelser och uppdateringar](#events) (**11** december)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (**16 december**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -104,9 +104,11 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Information
 
-* **[!DNL Workfront]** | Community-händelse | _Connect: Workfront Collective_ | Delta i månatliga Workfront Collective-event som tagits fram för att kommunicera med andra kunder, diskutera Workfront funktioner, utbyta idéer och brainstorm tillsammans för att lösa vanliga problem. | **16 december kl. 7:00 MT** | [Registrera](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Workfront]** | Frågor och svar - chatt | _Admin 101: Ta med dina Workfront-frågor_ | Har du inte använt Workfront tidigare? Missade du någon av de tidigare administratörssessionerna? Delta i vår sammanfattningssession för att ställa frågor, få resurser och rekommendationer och träffa andra nya administratörer. | **17 december kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workfront | _Adobe Workfront First Quarter Release Webinar_ | Det här webbinariet finns i samarbete med Jeremy Flores, Sr. Product Manager, och kommer att lyfta fram de senaste funktionsförbättringarna från Adobe Workfront som kommer att släppas nästa vecka i första utgåvan av kvartal 2025. | **9 januari kl. 10.30 MT** | [Registrera](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workfront | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Denna kunddrivna session i samarbete med katolska räddningstjänsten kommer att ge bästa praxis och fritid för frågor. | **10 januari kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
