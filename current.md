@@ -6,14 +6,14 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: acb2e70c307774752fca6b7e0fb903c8d6c12601
+source-git-commit: 5e81c8f593c1bcb09e38e8fdb7dba85fb51aab75
 workflow-type: tm+mt
-source-wordcount: '4716'
+source-wordcount: '4796'
 ht-degree: 9%
 
 ---
 
-# Versionsinformation för Experience Cloud - november 2024
+# Versionsinformation för Experience Cloud - november/december 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -34,15 +34,15 @@ Logga in på [Experience League](https://experienceleague.adobe.com/#home) och a
 
 **November/december 2024**
 
-Senaste uppdatering: **16 december 2024**
+Senaste uppdatering: **9 januari 2024**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events) (**16 december**)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud)
+* [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud) (**9** januari)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (senaste versionen: **23 oktober**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (senaste versionen: **23 oktober**)
+* [[!DNL Adobe Analytics]](#analytics) (Nästa version: **22 januari**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Nästa version: **22 januari**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -104,8 +104,6 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Information
 
-* **[!DNL Workfront]** | Frågor och svar - chatt | _Admin 101: Ta med dina Workfront-frågor_ | Har du inte använt Workfront tidigare? Missade du någon av de tidigare administratörssessionerna? Delta i vår sammanfattningssession för att ställa frågor, få resurser och rekommendationer och träffa andra nya administratörer. | **17 december kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Workfront]** | Workfront | _Adobe Workfront First Quarter Release Webinar_ | Det här webbinariet finns i samarbete med Jeremy Flores, Sr. Product Manager, och kommer att lyfta fram de senaste funktionsförbättringarna från Adobe Workfront som kommer att släppas nästa vecka i första utgåvan av kvartal 2025. | **9 januari kl. 10.30 MT** | [Registrera](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | Workfront | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Denna kunddrivna session i samarbete med katolska räddningstjänsten kommer att ge bästa praxis och fritid för frågor. | **10 januari kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
@@ -144,7 +142,9 @@ För att göra det enklare att styra inställningarna för produktanvändningen 
 
 | Releasedatum | Funktion | Beskrivning |
 | -----------| -----------| ---------- |
-| Oktober 2 | Anpassningsbart hem | Klicka på **[!UICONTROL Edit]** på landningssidan för Experience Cloud. I [!UICONTROL Edit]-läget kan du anpassa din Experience Cloud-hemsida med åtkomst till ett widgetbibliotek och anpassade bakgrunder. [!UICONTROL Edit]-läget ger smidiga, intuitiva kontroller för att flytta, ändra storlek på och hantera widgetar. Den här funktionen inkluderar massåtgärder och layoutjusteringar, vilket ger en mer estetisk och skräddarsydd upplevelse. Anpassa Experience Cloud hemsida med tillgång till ett widgetbibliotek och anpassade bakgrunder. |
+| **Januari 9** | Produktanvändningsdata | För att göra det enklare att styra inställningarna för produktanvändningsdata för Experience Cloud har vi effektiviserat vår Experience Cloud [inställningssida](https://experienceleague.adobe.com/docs/core-services/interface/features/account-preferences.html#product-usage-data) för att ta bort dubblettalternativ. Den här förenklingen innebär att de aktuella användarinställningarna bevaras och du kan när som helst uppdatera dina inställningar på [Experience Cloud-inställningarna](https://experience.adobe.com/preferences). |
+| **30 januari** (planerat releasedatum) | Spektrum 2 | Programramen Experience Cloud, som innehåller rubrikfältet och de komponenter som öppnas från rubrikfältet, samt den vänstra navigeringslisten för vissa program, kommer att uppdateras till Spectrum 2, Adobe senaste designsystem. Den här uppdaterade designen innehåller uppdaterad ikonografi, men samma funktionalitet. Flera element i sidhuvudet placeras om för att justeras mot andra Adobe-platser och -program. |
+| **Oktober 2** | Anpassningsbart hem | Klicka på **[!UICONTROL Edit]** på landningssidan för Experience Cloud. I [!UICONTROL Edit]-läget kan du anpassa din Experience Cloud-hemsida med åtkomst till ett widgetbibliotek och anpassade bakgrunder. [!UICONTROL Edit]-läget ger smidiga, intuitiva kontroller för att flytta, ändra storlek på och hantera widgetar. Den här funktionen inkluderar massåtgärder och layoutjusteringar, vilket ger en mer estetisk och skräddarsydd upplevelse. Anpassa Experience Cloud hemsida med tillgång till ett widgetbibliotek och anpassade bakgrunder. |
 
 Hjälp om de centrala gränssnittskomponenterna i [!DNL Experience Cloud] finns i [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (inkluderar [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets] och [!UICONTROL Audiences]).
 
