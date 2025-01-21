@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5e81c8f593c1bcb09e38e8fdb7dba85fb51aab75
+source-git-commit: 7b8c92ee53a0cfc4a4fb38e12eee75cfc2641c03
 workflow-type: tm+mt
-source-wordcount: '4796'
+source-wordcount: '4806'
 ht-degree: 9%
 
 ---
@@ -34,7 +34,8 @@ Logga in på [Experience League](https://experienceleague.adobe.com/#home) och a
 
 **November/december 2024**
 
-Senaste uppdatering: **9 januari 2024**
+Senaste uppdatering: **21 januari 2024**
+Nästa siduppdatering: **22 januari 2025**
 
 * [[!DNL Experience League] händelser och uppdateringar](#events) (**16 december**)
 * [[!DNL Adobe System Status]](#status)
@@ -47,7 +48,7 @@ Senaste uppdatering: **9 januari 2024**
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Campaign]](#ac) (Uppdaterad **21 januari**)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Journey Optimizer B2B Edition]](#ajo-b2b)
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
@@ -381,13 +382,13 @@ Hämta de senaste uppdateringarna för [!DNL Adobe Campaign]. Hitta nya självst
 
 ### Senaste kampanjproduktreleaser
 
-* [!DNL Web User Interface]: [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Campaign] v8: [15 januari 2025 - Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Campaign] v8: [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Web User Interface]: [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign Classic] v7: [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
 
-* [!DNL Campaign Standard]: [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: [ 25.1 - Versionsinformation 2025 ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
 
 ### Nya [!DNL Campaign] självstudier {#tutorials-campaign}
 
@@ -598,7 +599,7 @@ Den senaste produktdokumentationen finns på [Adobe [!DNL Workfront] dokumentati
 
 +++
 
-## GenStudio for Performance Marketing {#genstudio-marketing}
+## GenStudio för prestationsbaserad marknadsföring {#genstudio-marketing}
 
 Hitta den senaste versionsinformationen och den nya dokumentationen för [!DNL GenStudio for Performance Marketing].
 
