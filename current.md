@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7b8c92ee53a0cfc4a4fb38e12eee75cfc2641c03
+source-git-commit: 83c0def18c96df9a9325ecc69fa3c41a6cd2611f
 workflow-type: tm+mt
-source-wordcount: '4806'
-ht-degree: 9%
+source-wordcount: '4954'
+ht-degree: 8%
 
 ---
 
@@ -105,9 +105,17 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Information
 
-* **[!DNL Workfront]** | Workfront | _Adobe Workfront First Quarter Release Webinar_ | Det här webbinariet finns i samarbete med Jeremy Flores, Sr. Product Manager, och kommer att lyfta fram de senaste funktionsförbättringarna från Adobe Workfront som kommer att släppas nästa vecka i första utgåvan av kvartal 2025. | **9 januari kl. 10.30 MT** | [Registrera](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Vakna med Workfront: fråga mig vad som helst_ | Under den här&quot;Fråga mig vad som helst&quot;-sessionen kommer Adobe Workfront Business Advisors Samantha Miller, Aaron Baker och Mary Ann Erickson att ta live-frågor och utbyta bästa praxis i Workfront för att hjälpa kunderna att lyckas under 2025. | **23 januari kl. 11:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
 
-* **[!DNL Workfront]** | Workfront | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för ett marknadsförings- eller kreativt team? Denna kunddrivna session i samarbete med katolska räddningstjänsten kommer att ge bästa praxis och fritid för frågor. | **10 januari kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Connect: Workfront Collective_ | Delta i månatliga Workfront Collective-event som tagits fram för att kommunicera med andra kunder, diskutera Workfront funktioner, utbyta idéer och brainstorm tillsammans för att lösa vanliga problem. | **27 januari kl. 7:00 MT** | [Registrera](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Lär dig mer: Motståndskraft mot förändringar på din Workfront-resa_ | Delta i våra Workfront experter på ändringshantering för att diskutera bästa praxis för att identifiera och övervinna motstånd hos era användare. | **30 januari kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Target]** | _Adobe Target Maturity Webinar Series_ | Adobe Target innovationer, inklusive GenAI, och bästa praxis för AI-driven personalisering och experimenterande i stor skala. | **4 februari kl. 9:00 MT** | [Registrera](https://event.adobe.com/adobetargetmaturitywebinars)
+
+* **[!DNL Target]** | _Marketo &amp; Mochas: 5 Marketo Features to Know in 2025_ | Under årets första Marketo- och Mochas-session kommer Marketo experter Carly Gaver och Kate Colbert att gå över fem funktionsrika funktioner som kan höja kundupplevelsen och öka efterfrågan under 2025. | **6 februari kl. 11:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Commerce]** | _Commerce &amp; Coffee: The Rise of Self-Service in B2B_ | Börja året bra med våra Commerce-experter, Corey Gelato och Agbi Bajrushi, när de utforskar de senaste B2B-trenderna och ett sätt att utnyttja nya Adobe Commerce-funktioner för att ligga steget före konkurrenterna hela året. | **13 februari kl. 11:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
 Visa alla [kommande händelser](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
