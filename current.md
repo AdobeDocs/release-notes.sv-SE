@@ -6,9 +6,9 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a6b06a2fd33e45c0efff9173803debc392244fae
+source-git-commit: e1fa57bb50fae162e3fcd51c1b28abbdba3bb3a3
 workflow-type: tm+mt
-source-wordcount: '4444'
+source-wordcount: '4450'
 ht-degree: 8%
 
 ---
@@ -290,6 +290,8 @@ Nya funktioner, korrigeringar och uppdateringar i [!DNL Experience Manager]. Ado
 +++Information
 
 ### Versionsinformation för Experience Manager
+
+Nästa AEM CS-version: **30 januari**
 
 Alla versionsinformation för [!DNL Experience Manager] finns på följande sidor:
 
