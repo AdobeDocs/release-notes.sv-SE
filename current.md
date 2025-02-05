@@ -6,9 +6,9 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8cbb1bff56f6f664dd2c46c0fc53b04909761992
+source-git-commit: 03486f88bc94130445325ac63150ecb54c953f48
 workflow-type: tm+mt
-source-wordcount: '4448'
+source-wordcount: '4340'
 ht-degree: 8%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 8%
 
 ## Januari 2025
 
-Senast uppdaterad: **22 januari 2025**
+Senaste uppdatering: **5 februari 2025**
 
 Specifika releasedatum finns i produktens versionsinformation.
 
@@ -69,35 +69,23 @@ Specifika releasedatum finns i produktens versionsinformation.
 
 Läs om spännande event på Experience League. Det är en fantastisk plats att lära sig, interagera och få svar från produktexperter på Adobe!
 
-### Uppdateringar till Experience League
+### Uppdateringar till Experience League (februari 2025)
 
 +++Information
 
-Släppt: **Hösten 2024**
+**Personaliserad hemsida**
 
-**Innehållsförteckningens uppdateringar:** Följande uppdateringar har gjorts för varje innehållsförteckning i Experience League:
+Släppt: **5 februari 2025**
 
-* **[!UICONTROL Expand all sections]**: Visar hela innehållsförteckningen i en Experience League-stödlinje. (Den här växlingen stängs av när en sida har lästs in. Problemet kommer att åtgärdas i en framtida uppdatering.) Alternativen **[!UICONTROL View more]** och **[!UICONTROL View less]** har tagits bort.
-* **Bläddra**: Gör att du kan bläddra igenom en lång innehållsförteckning.
-* **[!UICONTROL Filter by keyword]**: Du kan filtrera innehållsförteckningsposter genom att skriva nyckelord. En listruta visar relevanta resultat och du kan rensa filtret genom att klicka på **[!UICONTROL Clear]**.
-* **Aktiv sidsynlighet**: Den aktiva sidan markeras alltid i innehållsförteckningen.
+Helt nya [Experience League home](https://experienceleague.adobe.com/?lang=en) innehåller anpassade utbildningsrekommendationer som drivs av [!DNL Adobe Target].
 
-### Spellistor på Experience League
+Viktiga funktioner:
 
-Den nya videon [playlists](https://experienceleague.adobe.com/en/playlists) är tillgänglig i Experience League. En spellista är en välstrukturerad samling videor som är utformade för att hjälpa dig att få den kunskap och de färdigheter du söker.
-
-Spellistans funktioner:
-
-* Automatiskt uppspelade videor
-* Kapitelmarkering och uppspelningshastighet
-* Fortsätt där du slutade
-* Videotranskript
-
-Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om du vill bläddra bland spellistor.
-
->[!NOTE]
->
->Om du har bokmarkerat en kurs på Experience League omdirigeras du till en motsvarande spellista. I vissa fall kan du behöva bläddra till en ny spellista som omfattar de ämnen du letar efter.
+* Rekommenderat innehåll baserat på roll, produkt och senaste aktivitet
+* Nyligen visat innehåll
+* Föreslagna on-demand-händelser och certifieringar
+* Nytt publicerat innehåll för din produkt
+* Nytt, uppdaterat gränssnitt
 
 +++
 
@@ -105,15 +93,17 @@ Navigera till **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]** om 
 
 +++Information
 
-* **[!DNL Workfront]** | _Vakna med Workfront: fråga mig vad som helst_ | Under den här&quot;Fråga mig vad som helst&quot;-sessionen kommer Adobe [!DNL Workfront] affärsrådgivare Samantha Miller, Aaron Baker och Mary Ann Erickson att ta live-frågor och dela med sig av sina bästa metoder i [!DNL Workfront] för att hjälpa kunderna att lyckas under 2025. | **23 januari kl. 11:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
-
-* **[!DNL Workfront]** | _Connect: [!DNL Workfront] Collective_ | Delta i våra månatliga måndag- [!DNL Workfront] kollektiva event som utformats för att kommunicera med andra kunder, diskutera [!DNL Workfront] -funktioner, utbyta idéer och brainstorm tillsammans för att lösa vanliga utmaningar. | **27 januari kl. 7:00 MT** | [Registrera](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Lär dig mer: Motståndskraft mot förändringar på din [!DNL Workfront] resa_ | Delta i våra [!DNL Workfront] experter på ändringshantering för att diskutera bästa praxis för att identifiera och övervinna motstånd hos era användare. | **30 januari kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Target]** | _Adobe Target Maturity Webinar Series_ | Adobe Target innovationer, inklusive GenAI, och bästa praxis för AI-driven personalisering och experimenterande i stor skala. | **4 februari kl. 9:00 MT** | [Registrera](https://event.adobe.com/adobetargetmaturitywebinars)
+* **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | Häng med kollegor och höra från chefer på Coca-Cola Company, JPMorganChase, ServiceNow med flera. | **18-19 mars @ Las Vegas &amp; Online** | [Registrera](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 * **[!DNL Target]** | _Marketo &amp; Mochas: 5 Marketo Features to Know in 2025_ | Under årets första [!DNL Marketo] &amp; Mochas-session beskriver [!DNL Marketo] -experterna Carly Gaver och Kate Colbert fem funktionsrika funktioner som kan hjälpa till att höja kundupplevelsen och öka efterfrågan under 2025. | **6 februari kl. 11:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing &amp; Creative_ | Är du systemadministratör för Workfront för ett marknadsförings- eller kreativt team? Delta i vår interaktiva diskussion för att få kontakt med andra administratörer och dela med dig av bästa praxis! | **7 februari kl. 10:00 MT** | [Registrera](https://events.teams.microsoft.com/event/5c409c21-d39e-4239-9853-5e69569711d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Admin 101: Få användare att använda Workfront_ | Har du inte använt Workfront tidigare? Delta i den andra sessionen i vår 3-delsserie, där vi ger dig tips om hur man tar sig an projekt och hur man använder dem. | **11 februari kl. 9:00 MT** | [Registrera](https://events.teams.microsoft.com/event/66877127-5d68-4f56-aeb6-ca6769551fb3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Fråga mig något om Workfront styrning_ | Fråga våra interna experter om hur ni kan förbättra era processer, policyer och kontroller för Workfront så att de bättre överensstämmer med organisationens strategiska mål! | **12 februari kl. 9:00 MT** | [Registrera](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-governance/ev-p/729202)
+
+* **[!DNL Marketo and Marketo Engage]** | _Adobe Marketo Engage Champion Office Hours - februari 2025_ | Delta i en tid som är nordamerikansk och LATAM-vänlig Champion Timours som leds av Marketo Engage Champions 2024/25. | **13 februari kl. 8:00 MT** | [Registrera](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
 
 * **[!DNL Commerce]** | _Commerce &amp; Coffee: The Rise of Self-Service in B2B_ | Börja året bra med våra [!DNL Commerce] experter, Corey Gelato och Agbi Bajrushi, när de utforskar de senaste B2B-trenderna och en strategi för att utnyttja nya Adobe [!DNL Commerce] -funktioner för att ligga steget före konkurrenterna hela året. | **13 februari kl. 11:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
