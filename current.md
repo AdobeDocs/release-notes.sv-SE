@@ -6,9 +6,9 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a92a0f05c31eda25feb5f7555b87f711ac089a40
+source-git-commit: 4111e60fce38d2d4921bc817a587b735989fccc2
 workflow-type: tm+mt
-source-wordcount: '4194'
+source-wordcount: '4111'
 ht-degree: 8%
 
 ---
@@ -94,10 +94,6 @@ Viktiga funktioner:
 +++Information
 
 * **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | Häng med kollegor och höra från chefer på Coca-Cola Company, JPMorganChase, ServiceNow med flera. | **18-19 mars @ Las Vegas &amp; Online** | [Registrera](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Marketo and Marketo Engage]** | _Adobe Marketo Engage Champion Office Hours - februari 2025_ | Följ oss på en tidsvänlig Mästtid för amerikansk och LATAM, ledd av Marketo Engage Champions 2024/25. | **13 februari kl. 8:00 MT** | [Registrera](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
-
-* **[!DNL Commerce]** | _Commerce &amp; Coffee: The Rise of Self-Service in B2B_ | Börja året bra med våra [!DNL Commerce] experter, Corey Gelato och Agbi Bajrushi, när de utforskar de senaste B2B-trenderna och ett sätt att utnyttja nya Adobe [!DNL Commerce] -funktioner för att ligga steget före konkurrenterna hela året. | **13 februari kl. 11:00 MT** | [Registrera](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
 Visa alla [kommande aktiviteter](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
