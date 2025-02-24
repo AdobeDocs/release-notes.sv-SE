@@ -6,9 +6,9 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 137dc623cf4b283e8a18e609d6847b72a5f20aa7
+source-git-commit: 566009aeac5ff30a0368d90226e1fd31583cba5d
 workflow-type: tm+mt
-source-wordcount: '3609'
+source-wordcount: '3652'
 ht-degree: 8%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 8%
 
 ## Februari 2025
 
-Senaste uppdatering: **19 februari 2025**
+Senaste uppdatering: **24 februari 2025**
 
 Använd de här länkarna för att hitta versionsinformation, händelser, nya självstudiekurser och de senaste supportartiklarna i kunskapsbasen:
 
@@ -87,11 +87,13 @@ Viktiga funktioner:
 
 +++Information
 
-* **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | Häng med kollegor och höra från chefer på Coca-Cola Company, JPMorganChase, ServiceNow med flera. | **18-19 mars @ Las Vegas &amp; Online** | [Registrera](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Experience Cloud]** | Adobe Summit | _The Digital Experience Conference_ | Häng med kollegor och höra från chefer på Coca-Cola Company, JPMorganChase, ServiceNow med flera. | **18-19 mars @ Las Vegas &amp; Online** | [Registrera](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Experience Cloud]** | _Adobe Digital Insights: Unwrapping 2024 semester results and early 2025 trends_ | En omfattande sammanfattning av 2024 års helgshoppingtrender och en översikt fram till första halvåret 2025. Använd dessa insikter för att hjälpa er att förutse och överträffa kundernas förväntningar under det kommande året. | **20 februari kl. 10:00 MST** | [Registrera](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
+* **[!DNL Workfront]** | Lär dig av andra | _Mät och dela Workfront Value_ | Följ oss den 26 februari 2025 när kollegor från Synchrony och EMMsphere berättar hur de skapade sin ultimata&quot;Varför,&quot; för Workfront och hur de förmedlar mätbara resultat som tids- och kostnadsbesparingar.| **26 februari kl. 8:00 PT** | [Registrera](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
-* **[!DNL Workfront]** | _Connect: Workfront Collective_ | Delta i månatliga Workfront Collective-event som tagits fram för att kommunicera med andra kunder, diskutera Workfront funktioner, utbyta idéer och brainstorm tillsammans för att lösa vanliga problem. | **24 februari kl. 7:00 MST** | [Registrera](https://events.teams.microsoft.com/event/d3b3a3c3-9563-4499-a147-8b966d13a30d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | Webbinarium | _Säkra chefssponsring för Adobe Workfront_ | Upptäck hur AI Assistant kan ge värdefull funktionell information, öka produktiviteten och omdefiniera arbetet i Adobe Experience Platform och dess plattformsbaserade program.| **27 februari kl. 9:00 MST** | [Registrera](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Låsa upp funktionsinsikter med AI Assistant i Adobe Experience Platform_ | Upptäck hur AI Assistant kan ge värdefull funktionell information, öka produktiviteten och omdefiniera arbetet i Adobe Experience Platform och dess plattformsbaserade program.| **27 februari kl. 8.30 PST** | [Registrera](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
 Och många fler! Visa alla [kommande aktiviteter](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
