@@ -6,7 +6,7 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3a542c8eddc0015672a975dd2b9fcd024a808084
+source-git-commit: f3fadcb8c041692973a902fd3433483592aebf4c
 workflow-type: tm+mt
 source-wordcount: '3652'
 ht-degree: 8%
@@ -87,13 +87,13 @@ Viktiga funktioner:
 
 +++Information
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _The Digital Experience Conference_ | Häng med kollegor och höra från chefer på Coca-Cola Company, JPMorganChase, ServiceNow med flera. | **18-19 mars @ Las Vegas &amp; Online** | [Registrera](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Workfront]** | Lär dig av andra | _Mät och dela Workfront Value_ | **26 februari kl. 8:00 PT** | Följ oss den 26 februari 2025 när kollegor från Synchrony och EMMsphere berättar hur de skapade sin ultimata&quot;Varför,&quot; för Workfront och hur de förmedlar mätbara resultat som tids- och kostnadsbesparingar. | [Registrera](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
-* **[!DNL Workfront]** | Lär dig av andra | _Mät och dela Workfront Value_ | Följ oss den 26 februari 2025 när kollegor från Synchrony och EMMsphere berättar hur de skapade sin ultimata&quot;Varför,&quot; för Workfront och hur de förmedlar mätbara resultat som tids- och kostnadsbesparingar.| **26 februari kl. 8:00 PT** | [Registrera](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
+* **[!DNL Workfront]** | Webbinarium | _Säkra chefssponsring för Adobe Workfront_ | **27 februari kl. 9.00 MST** | Upptäck hur AI Assistant kan ge värdefull funktionell information, öka produktiviteten och omdefiniera arbetet i Adobe Experience Platform och dess plattformsbaserade program. | [Registrera](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | Webbinarium | _Säkra chefssponsring för Adobe Workfront_ | Upptäck hur AI Assistant kan ge värdefull funktionell information, öka produktiviteten och omdefiniera arbetet i Adobe Experience Platform och dess plattformsbaserade program.| **27 februari kl. 9:00 MST** | [Registrera](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Låsa upp funktionsinsikter med AI Assistant i Adobe Experience Platform_ | **27 februari kl. 8.30 PST** | Upptäck hur AI Assistant kan ge värdefull funktionell information, öka produktiviteten och omdefiniera arbetet i Adobe Experience Platform och dess plattformsbaserade program. | [Registrera](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
-* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Låsa upp funktionsinsikter med AI Assistant i Adobe Experience Platform_ | Upptäck hur AI Assistant kan ge värdefull funktionell information, öka produktiviteten och omdefiniera arbetet i Adobe Experience Platform och dess plattformsbaserade program.| **27 februari kl. 8.30 PST** | [Registrera](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Cloud]** | Adobe Summit | _The Digital Experience Conference_ | **18-19 mars på Las Vegas &amp; Online**| Häng med kollegor och höra från chefer på Coca-Cola Company, JPMorganChase, ServiceNow med flera. |  [Registrera](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 Och många fler! Visa alla [kommande aktiviteter](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
