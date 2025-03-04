@@ -6,9 +6,9 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ec5ef84d81c827c1bb16146f9694c31069023f2e
+source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
 workflow-type: tm+mt
-source-wordcount: '3571'
+source-wordcount: '3647'
 ht-degree: 8%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 8%
 
 ## Februari 2025
 
-Senaste uppdatering: **27 februari 2025**
+Senaste uppdatering: **4 mars 2025**
 
 Använd de här länkarna för att hitta versionsinformation, händelser, nya självstudiekurser och de senaste supportartiklarna i kunskapsbasen:
 
-* [[!DNL Experience League] händelser och uppdateringar](#events) (**26 februari**)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (**4 mars**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -87,9 +87,13 @@ Viktiga funktioner:
 
 +++Information
 
-* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Låsa upp funktionsinsikter med AI Assistant i Adobe Experience Platform_ | **27 februari kl. 8.30 PST** | Upptäck hur AI Assistant kan ge värdefull funktionell information, öka produktiviteten och omdefiniera arbetet i Adobe Experience Platform och dess plattformsbaserade program. | [Registrera](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Manager Forms]** | _Espressos &amp; Experience Manager: AEM Forms_ | **6 mars** | Träffa Adobe AEM produktteam när de sätter fokus på AEM Forms senaste innovationer, bland annat nya Gen AI Assistant, Unified Composition med AEM Sites och nya sätt att distribuera formulär via konversationer. | [Registrera](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _The Digital Experience Conference_ | **18-19 mars på Las Vegas &amp; Online**| Häng med kollegor och höra från chefer på Coca-Cola Company, JPMorganChase, ServiceNow med flera. |  [Registrera](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing &amp; Creative_ | **7 mars** | Vare sig du är systemadministratör för en marknadsförare, en kreatör eller något annat team kommer denna interaktiva diskussion att fokusera på bästa praxis och gemensam brainstorming. | [Registrera](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+
+* **[!DNL Workfront]** | _Admin 101: Hämta Workfront-data_ | **11 mars** | Har du inte använt Workfront tidigare? Delta i den tredje sessionen i Admin 101-serien och lär dig mer om rapportering. Du kan förvänta dig en interaktiv diskussion om utkast, Dashboards, Custom Forms med flera. | [Registrera](https://events.teams.microsoft.com/event/eda5b596-f91d-4834-80a0-e77205101a92@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Cloud]** | _Adobe Summit - The Digital Experience Conference_ | **18-19 mars på Las Vegas &amp; Online**| Häng med kollegor och höra från chefer på Coca-Cola Company, JPMorganChase, ServiceNow med flera. |  [Registrera](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 Och många fler! Visa alla [kommande aktiviteter](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
