@@ -6,9 +6,9 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
+source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
 workflow-type: tm+mt
-source-wordcount: '3647'
+source-wordcount: '3677'
 ht-degree: 8%
 
 ---
@@ -125,8 +125,9 @@ Lär dig mer om [!DNL Experience Cloud] centrala gränssnittskomponenter och adm
 
 +++Information
 
-| Datum | Funktion | Beskrivning |
+| Datum | Uppdatering | Beskrivning |
 | -----------| -----------| ---------- |
+| 6 mars 2025 | Korrigera menyalternativ genom att högerklicka | Experience Cloud rubriknavigeringsflikar tillåter nu funktioner för högerklickning och rullgardinsmeny. Detta åtgärdar ett fel som introducerades i februari 2-versionen av designsystemet Spectrum 2. |
 | Februari 13 | Spektrum 2 | Programramen [!DNL Experience Cloud], inklusive rubrikfältet och komponenter som öppnas från rubrikfältet (och vänster navigeringsfält för vissa program), uppdateras till Spectrum 2. Spectrum är Adobe designstandard. Den här uppdaterade designen innehåller uppdaterade ikonografier men samma funktionalitet. Flera element i sidhuvudet placeras dock om för att justeras mot andra Adobe-webbplatser och -program. |
 
 Hjälp om de centrala gränssnittskomponenterna i [!DNL Experience Cloud] finns i [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (inkluderar [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets] och [!UICONTROL Audiences]).
