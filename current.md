@@ -6,9 +6,9 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
+source-git-commit: 09edfe74b52391d042548e0eb9dfbe33381d3d85
 workflow-type: tm+mt
-source-wordcount: '3677'
+source-wordcount: '3669'
 ht-degree: 8%
 
 ---
@@ -87,13 +87,13 @@ Viktiga funktioner:
 
 +++Information
 
-* **[!DNL Experience Manager Forms]** | _Espressos &amp; Experience Manager: AEM Forms_ | **6 mars** | Träffa Adobe AEM produktteam när de sätter fokus på AEM Forms senaste innovationer, bland annat nya Gen AI Assistant, Unified Composition med AEM Sites och nya sätt att distribuera formulär via konversationer. | [Registrera](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+* **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | **18-19 mars på Las Vegas &amp; Online**| Häng med kollegor och höra från chefer på Coca-Cola Company, JPMorganChase, ServiceNow med flera. |  [Registrera](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing &amp; Creative_ | **7 mars** | Vare sig du är systemadministratör för en marknadsförare, en kreatör eller något annat team kommer denna interaktiva diskussion att fokusera på bästa praxis och gemensam brainstorming. | [Registrera](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+* **[!DNL Workfront]** | _Lär dig mer: Använd Adobe Workfront Planning för att diagram över din kurs_ | **13 mars** | Besök våra Adobe produktchefer för en djupgående introduktionssession om Workfront Planning där de berättar hur den här funktionen kan ge en heltäckande bild av den operativa informationen i organisationen. | [Registrera](https://events.teams.microsoft.com/event/2b79ba76-86bb-4100-9db7-c3d399e5d457@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Admin 101: Hämta Workfront-data_ | **11 mars** | Har du inte använt Workfront tidigare? Delta i den tredje sessionen i Admin 101-serien och lär dig mer om rapportering. Du kan förvänta dig en interaktiv diskussion om utkast, Dashboards, Custom Forms med flera. | [Registrera](https://events.teams.microsoft.com/event/eda5b596-f91d-4834-80a0-e77205101a92@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Admin 101: Ta med dina Workfront-frågor_ | **25 mars** | Har du inte använt Workfront tidigare? Missade du någon av de tidigare administratörssessionerna? Delta i vår sammanfattningssession för att ställa frågor, få resurser och rekommendationer och träffa andra nya administratörer. | [Registrera](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Cloud]** | _Adobe Summit - The Digital Experience Conference_ | **18-19 mars på Las Vegas &amp; Online**| Häng med kollegor och höra från chefer på Coca-Cola Company, JPMorganChase, ServiceNow med flera. |  [Registrera](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Target]** | _Personalization på Scale Insights, Intelligence and Impact_ | **1 april** | Adobe Target innovationer, inklusive Gen AI, och bästa praxis för AI-driven personalisering och experimenterande i stor skala. | [Registrera](https://event.adobe.com/adobetargetmaturitywebinars03)
 
 Och många fler! Visa alla [kommande aktiviteter](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
