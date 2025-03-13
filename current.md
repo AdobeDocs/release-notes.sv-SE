@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9bae2ace4b03080dcb5568d029a7cec530948547
+source-git-commit: 88777fd2d5c5f195b07fc537d25887de5dd68eee
 workflow-type: tm+mt
-source-wordcount: '4039'
+source-wordcount: '3994'
 ht-degree: 6%
 
 ---
@@ -19,15 +19,19 @@ ht-degree: 6%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/#home) hjälper dig att lära dig mer om Experience Cloud och Adobe företagsprogram. För bästa möjliga upplevelse kan du logga in och anpassa sökningen i vårt kostnadsfria resursbibliotek.
+[Experience League](https://experienceleague.adobe.com/#home) är ett resursbibliotek som kan hjälpa dig att lära dig mer om Experience Cloud och Adobe företagsprogram. Logga in och:
 
-* **Håll dig informerad:** Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [produktuppdateringen för Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html).
+* [Anpassa din inlärning](https://experienceleague.adobe.com/en/home/profile-settings): Hjälp oss att anpassa din inlärning. Välj din roll, bransch och de produkter som intresserar dig.
+* [Bläddra och upptäck](https://experienceleague.adobe.com/en/browse): Hitta populärt innehåll, nya självstudiekurser, dokumentation, kommande evenemang och mycket annat!
+* [Få nya perspektiv](https://experienceleague.adobe.com/en/perspectives): Vi har samlat en mängd olika användningsexempel och bästa praxis från verkligheten, skrivna av kollegor och Adobe produktexperter.
+* [Bli certifierad](https://experienceleague.adobe.com/en/certification-home): Den nya Adobe Certification Portal gör att du kan hålla dig uppdaterad och får en enkel process.
+* [Delta med kollegor](https://experienceleaguecommunities.adobe.com/): Gå med i grupper, träffa våra Experience League Community Advisors och lär dig hur du kan bli en expert.
 
-* **Lämna feedback:** Leta efter **_Var det här innehållet till hjälp?_** popup längst ned i varje artikel eller video. Dina synpunkter är välstrukturerade och skickas till skribenterna.
+Om du vill få ett e-postmeddelande varje kvartal om uppdateringar av den här sidan prenumererar du på [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## Mars 2025
 
-Senaste uppdatering: **12 mars 2025**
+Senaste uppdatering: **13 mars 2025**
 
 Använd de här länkarna för att hitta versionsinformation, händelser, nya självstudiekurser och de senaste supportartiklarna i kunskapsbasen:
 
@@ -58,37 +62,13 @@ Använd de här länkarna för att hitta versionsinformation, händelser, nya sj
 * [Certifiering på Adobe](https://experienceleague.adobe.com/en/certification-home)
 * [Säkerhetsluckor för Adobe-produkter](https://helpx.adobe.com/se/security.html)
 
-## [!DNL Experience League] uppdateringar och händelser {#events}
+## Händelser på [!DNL Experience League] {#events}
 
-Läs om spännande event på Experience League. Det är en fantastisk plats att lära sig, interagera och få svar från produktexperter på Adobe!
+Sök efter [händelser](https://experienceleague.adobe.com/events/) och registrera dig för de som intresserar dig.
 
-### Uppdateringar till Experience League
-
-+++Information
-
-**Personaliserad hemsida**
-
-Helt nya [Experience League home](https://experienceleague.adobe.com/?lang=en) innehåller anpassade utbildningsrekommendationer som drivs av [!DNL Adobe Target].
-
-Viktiga funktioner:
-
-* Rekommenderat innehåll baserat på roll, produkt och senaste aktivitet
-* Nyligen visat innehåll
-* Föreslagna on-demand-händelser och certifieringar
-* Nytt publicerat innehåll för din produkt
-* Nytt, uppdaterat gränssnitt
-
-[Läs mer...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud/discover-smarter-faster-learning-with-experience-league-s-new/td-p/739750)
-
-+++
-
-### Evenemang på Experience League
-
-+++Information
++++Händelser
 
 * **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | **18-19 mars på Las Vegas &amp; Online**| Häng med kollegor och höra från chefer på Coca-Cola Company, JPMorganChase, ServiceNow med flera. |  [Registrera](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _Lär dig mer: Använd Adobe Workfront Planning för att diagram över din kurs_ | **13 mars** | Besök våra Adobe produktchefer för en djupgående introduktionssession om Workfront Planning där de berättar hur den här funktionen kan ge en heltäckande bild av den operativa informationen i organisationen. | [Registrera](https://events.teams.microsoft.com/event/2b79ba76-86bb-4100-9db7-c3d399e5d457@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _Admin 101: Ta med dina Workfront-frågor_ | **25 mars** | Har du inte använt Workfront tidigare? Missade du någon av de tidigare administratörssessionerna? Delta i vår sammanfattningssession för att ställa frågor, få resurser och rekommendationer och träffa andra nya administratörer. | [Registrera](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -110,7 +90,9 @@ Och många fler! Visa alla [kommande aktiviteter](https://experienceleague.adobe
 
 Läs om de senaste funktionerna och uppdateringarna i [!DNL Adobe System Status].
 
-+++Information
+Inga Mars-uppdateringar.
+
++++Versionsinformation
 
 [!DNL Adobe System Status] innehåller detaljerad information, statusuppdateringar och e-postmeddelanden om Adobe produkter och tjänster. Få meddelanden om driftavbrott, avbrott och underhållshändelser. Kolla in det på [status.adobe.com](https://status.adobe.com/).
 
@@ -130,7 +112,7 @@ Information om den senaste versionen finns här:
 
 Lär dig mer om [!DNL Experience Cloud] centrala gränssnittskomponenter och administration. Hantera produkter och användare, konfigurera profilinställningar, söka i Experience Cloud-objekt och hantera cookies.
 
-+++Information
++++Nya funktioner
 
 | Datum | Uppdatering | Beskrivning |
 | -----------| -----------| ---------- |
