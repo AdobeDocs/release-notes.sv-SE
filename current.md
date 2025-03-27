@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b650fd69124036dd9e12bdb901467b3c5ab49de7
+source-git-commit: 53b0b8e4d33473fdca0a31307b905f51a49d405a
 workflow-type: tm+mt
-source-wordcount: '3994'
+source-wordcount: '3934'
 ht-degree: 6%
 
 ---
@@ -191,17 +191,15 @@ Hitta den senaste versionsinformationen för [!DNL Adobe Analytics] och [!DNL Ap
 
 ### AppMeasurement {#appm}
 
-Versionsversion: **2.27.0**
+* [Versionsinformation för AppMeasurement för JavaScript](https://github.com/adobe/appmeasurement/releases)
 
-* [Versionsinformation för AppMeasurement för JavaScript](https://experienceleague.adobe.com/en/docs/analytics/implementation/appmeasurement-updates)
+<!-- ### New [!DNL Analytics] tutorials {#tutorials-analytics}
 
-### Nya [!DNL Analytics] självstudier {#tutorials-analytics}
+New tutorials published for Adobe [!DNL Analytics] on Experience League.
 
-Nya självstudiekurser publicerade för Adobe [!DNL Analytics] på Experience League.
-
-| Publicerad | Namn | Typ | Beskrivning |
+|Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-| Mars 2025 | [Migrera Adobe Analytics till Web SDK med taggar](https://experienceleague.adobe.com/en/docs/platform-learn/migrate-analytics-to-websdk/migration-to-websdk-overview) | Flera videor | Lär dig hur du migrerar en Adobe [!DNL Analytics]-implementering med tillägget [!DNL Analytics] i Experience Platform Tags (tidigare kallat [!DNL Launch]) till Web SDK med hjälp av Web SDK-tillägget även i Taggar. |
+|March 2025|[Migrate Adobe Analytics to Web SDK using Tags](https://experienceleague.adobe.com/en/docs/platform-learn/migrate-analytics-to-websdk/migration-to-websdk-overview)| Multiple videos |Learn the steps to migrate an Adobe [!DNL Analytics] implementation using the [!DNL Analytics] extension in Experience Platform Tags (formerly known as [!DNL Launch]) to Web SDK, using the Web SDK extension also in Tags. |
 
 <!-- ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
