@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d895210dc6c24a5e5230f60987c125a2d8ba0bfb
+source-git-commit: 3c74dd10ff1a557693da52dfaf58d051bfbca521
 workflow-type: tm+mt
-source-wordcount: '3729'
+source-wordcount: '3847'
 ht-degree: 6%
 
 ---
@@ -33,7 +33,7 @@ Om du vill få ett e-postmeddelande varje kvartal om uppdateringar av den här s
 
 Använd de här länkarna för att hitta versionsinformation, händelser, nya självstudiekurser och de senaste supportartiklarna i kunskapsbasen:
 
-* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad **8** april)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad **9** april)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -67,6 +67,10 @@ Sök efter [händelser](https://experienceleague.adobe.com/events/) och registre
 +++Händelser
 
 * **[!DNL Analytics]** | _Data Drip: Fördelar med att migrera från ett gammalt system till WebSDK_ | **10 april** | Följ oss som Adobe Technical Advisor, Arindam Agarwal, och guidar oss genom fördelarna med att implementera Adobe WebSDK. Arindam kommer att ge en detaljerad översikt och besvara frågor direkt under Frågor och svar. Anmäl dig idag! | [Registrera](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Real-Time Customer Data Platform]** | _Vänta inte ... Samarbeta! Vi presenterar Real-Time CDP Collaboration_ | **10 april** | Real-Time CDP Collaboration är nu tillgängligt för kunder i USA och tillhandahåller användarvänligt, sekretesscentrerat datasamarbete för varumärken och utgivare. Det hjälper er att upptäcka, aktivera och mäta målgrupper för att maximera annonsintäkter och strömlinjeforma betalda medier i takt med betald marknadsföring. Det bästa är att om du är kund till Real-Time CDP har du REDAN TILLGÅNG till den här nya fantastiska funktionen! | [Registrera](https://engage.adobe.com/ExpLeagueLive-250410.html)
+
+* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing &amp; Creative_ | **11 april** | Den här interaktiva diskussionen är inriktad på att knyta dig samman med andra administratörer, dela med dig av bästa praxis samt tips och tricks som hjälper dig att få ut så mycket som möjligt av Workfront för dig och dina användare. | [Registrera](https://events.teams.microsoft.com/event/f0e497b7-4f44-457f-bfa0-6d9b8c5f4e7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Visa alla [kommande aktiviteter](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
