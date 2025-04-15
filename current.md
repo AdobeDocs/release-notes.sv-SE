@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3c74dd10ff1a557693da52dfaf58d051bfbca521
+source-git-commit: aa6db19854fe6a00df59aa25a18874bc3a0d72f4
 workflow-type: tm+mt
-source-wordcount: '3847'
+source-wordcount: '3862'
 ht-degree: 6%
 
 ---
@@ -33,7 +33,7 @@ Om du vill få ett e-postmeddelande varje kvartal om uppdateringar av den här s
 
 Använd de här länkarna för att hitta versionsinformation, händelser, nya självstudiekurser och de senaste supportartiklarna i kunskapsbasen:
 
-* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad **9** april)
+* [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad **15** april)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - centralt gränssnitt och administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -66,11 +66,11 @@ Sök efter [händelser](https://experienceleague.adobe.com/events/) och registre
 
 +++Händelser
 
-* **[!DNL Analytics]** | _Data Drip: Fördelar med att migrera från ett gammalt system till WebSDK_ | **10 april** | Följ oss som Adobe Technical Advisor, Arindam Agarwal, och guidar oss genom fördelarna med att implementera Adobe WebSDK. Arindam kommer att ge en detaljerad översikt och besvara frågor direkt under Frågor och svar. Anmäl dig idag! | [Registrera](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
+* **[!DNL Marketo]** | _Marketo &amp; Mochas: Granska en ärvd eller aktuell instans_ | **17 april** | Ärvde du nyligen en Marketo-instans? Eller vill du kanske utföra regelbundna granskningar av den aktuella instansen för att maximera dess potential? Delta i vårt webbinarium Marketo &amp; Mochas med våra Adobe Business Advisors, Cynthia Chang och Carly Gaver, som fokuserar på hur du kör en djupdykning för att förstå hur din instans ser ut. | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
-* **[!DNL Real-Time Customer Data Platform]** | _Vänta inte ... Samarbeta! Vi presenterar Real-Time CDP Collaboration_ | **10 april** | Real-Time CDP Collaboration är nu tillgängligt för kunder i USA och tillhandahåller användarvänligt, sekretesscentrerat datasamarbete för varumärken och utgivare. Det hjälper er att upptäcka, aktivera och mäta målgrupper för att maximera annonsintäkter och strömlinjeforma betalda medier i takt med betald marknadsföring. Det bästa är att om du är kund till Real-Time CDP har du REDAN TILLGÅNG till den här nya fantastiska funktionen! | [Registrera](https://engage.adobe.com/ExpLeagueLive-250410.html)
+* **[!DNL Workfront]** | _Connect: Workfront Collective_ | **21 april** | Evenemanget har ingen formell presentation eller dagordning. Diskussionsämnena bygger på ert engagemang. Tänk på det här seminariet som en kollektiv problemlösande session om det finns något du är utmanad med i Workfront (eller en framgång som du vill dela och marknadsföra!) och om du vill kommunicera genom lösningar med andra kunder är detta den perfekta händelsen för dig. | [Registrera](https://events.teams.microsoft.com/event/ba1a80ab-01c0-4675-83e5-d6d96f1aa9b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing &amp; Creative_ | **11 april** | Den här interaktiva diskussionen är inriktad på att knyta dig samman med andra administratörer, dela med dig av bästa praxis samt tips och tricks som hjälper dig att få ut så mycket som möjligt av Workfront för dig och dina användare. | [Registrera](https://events.teams.microsoft.com/event/f0e497b7-4f44-457f-bfa0-6d9b8c5f4e7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Multisolution** | _Bakom bruset: En fullständig beskrivning av proaktiva övervakningsverktyg_ | **24 april** | Delta i en insiktsfull session om hur ni kan utnyttja de senaste övervakningsverktygen som SWAT, Fastly och New Relic för att optimera systemets hälsa och prestanda.  | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 Visa alla [kommande aktiviteter](https://experienceleague.adobe.com/events/) eller bläddra bland [tidigare händelseinspelningar](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
 
@@ -349,11 +349,13 @@ Hämta de senaste uppdateringarna för [!DNL Adobe Campaign]. Hitta nya självst
 
 ### Senaste kampanjproduktreleaser
 
-* [!DNL Campaign] v8: (14 februari 2025) [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8.7.4: [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Web User Interface]: (18 februari 2025) [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign Standard]: [ 25.1 - Versionsinformation 2025 ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
+
+* [!DNL Campaign Classic] 7.4.2: [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
 
 <!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
