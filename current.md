@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 461a76bce5aeb1da20b613af4dccbc0ebf1383e0
+source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
 workflow-type: tm+mt
-source-wordcount: '4030'
+source-wordcount: '4034'
 ht-degree: 6%
 
 ---
@@ -30,6 +30,8 @@ På den här sidan kan du hitta programspecifika versionsinformation, kommande e
 Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [produktuppdateringen för Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html).
 
 Uppdaterat: **16 april 2025**
+
++++Visa alla produkter
 
 * [[!DNL Experience League] händelser och uppdateringar](#events) (uppdaterad **15** april)
 * [[!DNL Adobe System Status]](#status)
@@ -58,11 +60,13 @@ Uppdaterat: **16 april 2025**
 * [Certifiering på Adobe](https://experienceleague.adobe.com/en/certification-home)
 * [Säkerhetsluckor för Adobe-produkter](https://helpx.adobe.com/se/security.html)
 
++++
+
 ## Händelser på [!DNL Experience League] {#events}
 
 Sök efter [händelser](https://experienceleague.adobe.com/en/events) och registrera dig för de som intresserar dig.
 
-+++Händelser
++++Kommande event
 
 * **[!DNL Marketo]** | _Marketo &amp; Mochas: Granska en ärvd eller aktuell instans_ | **17 april** | Ärvde du nyligen en Marketo-instans? Eller vill du kanske utföra regelbundna granskningar av den aktuella instansen för att maximera dess potential? Delta i vårt webbinarium Marketo &amp; Mochas med våra Adobe Business Advisors, Cynthia Chang och Carly Gaver, som fokuserar på hur du kör en djupdykning för att förstå hur din instans ser ut. | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
