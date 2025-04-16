@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
+source-git-commit: 9705d647e844bc4d5f2ded18db9e8eb3ad716086
 workflow-type: tm+mt
-source-wordcount: '4034'
+source-wordcount: '4036'
 ht-degree: 6%
 
 ---
@@ -91,13 +91,13 @@ Releasedatum: **20 mars 2025**
 **Nyheter**
 
 * Betaversion av Virtual Assistant
-* Ny hjälpsida för händelseordlistor
+* Ny hjälpsida för händelseordlista
 * Felkorrigeringar och förbättringar
 
 | Funktion | Beskrivning |
 | ------- | ------- |
-| **Betaversion av virtuell assistent** | <ul><li>Virtuell hjälp är en funktion som gör att [!DNL Adobe Status] kunder på webben och i mobilen kan få svar på sina frågor och utföra snabba åtgärder utan att lämna startsidan. Det kan fungera som en plats där de kan få alla sina frågor lösta. Om du vill delta i en betaversion av en kund, skicka ett e-postmeddelande till [statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com). </li></ul> |
-| **Ny hjälpsida för händelseordlistan** | <ul><li>En dedikerad hjälpsida som vägleder [!DNL Adobe Status]-användare om alla händelsetyper, ikonografi och deras status så att det blir enklare att navigera på webbplatsen.</li><li>Adobe statusöversikt > Hjälp-menyn har ett nytt menyalternativ (händelseordlista) som pekar på den nya sidan.</li><li>Alla Adobe-ytor som refererar till [!DNL Adobe Status] kan lägga till länkar till den nya hjälpsidan.</li></ul> |
+| **Betaversion av virtuell assistent** | <ul><li>Virtual Assistant är en funktion som gör att statuskunder på webben och i mobilen kan få svar på sina frågor och utföra snabba åtgärder utan att lämna startsidan. Den kan fungera som en plats för att få alla frågor lösta. Om du vill delta i en betaversion av en kund, skicka ett e-postmeddelande till [statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com). </li></ul> |
+| **Ny händelseordlista** | <ul><li>En dedikerad hjälpsida som vägleder [!DNL Adobe Status]-användare om alla händelsetyper, ikonografi och deras status så att det blir enklare att navigera på webbplatsen.</li><li>Adobe statusöversikt > Hjälp-menyn har ett nytt menyalternativ (händelseordlista) som pekar på den nya sidan.</li><li>Alla Adobe-ytor som refererar till [!DNL Adobe Status] kan lägga till länkar till den nya hjälpsidan.</li></ul> |
 | **Felkorrigeringar och förbättringar** | <ul><li>Slack-meddelanden - påminnelsemeddelandet visas som schemalagt</li><li>Indragna produkthändelser ska inte visas på sidan Översikt</li><li>_Stängt_ > _Meddelande om inaktiverad CSO_-uppdatering och meddelanden skickas inte</li><li>Status för webbsidhuvud och sidfot som tar lång tid att läsa in vid uppdatering</li><li>Menyn för statuslokalisering i sidfoten är bruten</li></ul> |
 
 Tidigare versionsinformation för [!DNL Adobe System Status]:
@@ -364,13 +364,13 @@ Hämta de senaste uppdateringarna för [!DNL Adobe Campaign]. Hitta nya självst
 
 ### Senaste kampanjproduktreleaser
 
-* [!DNL Campaign] v8.7.4: [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8.7.4: 10 april 2025 - [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Web User Interface]: [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: 18 februari 2025 - [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign Standard]: [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: 25.1 - [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
 
-* [!DNL Campaign Classic] 7.4.2: [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
+* [!DNL Campaign Classic] 7.4.2: 2 april 2025 - [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
 
 <!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
