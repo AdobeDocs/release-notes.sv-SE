@@ -6,10 +6,10 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dffaee650ea54de990c60a8e5bec09e4eb61f941
+source-git-commit: af9bda242f4ea74b71a8d42ca8669124f6e2cf13
 workflow-type: tm+mt
-source-wordcount: '4030'
-ht-degree: 6%
+source-wordcount: '3798'
+ht-degree: 7%
 
 ---
 
@@ -29,7 +29,7 @@ På den här sidan kan du hitta programspecifika versionsinformation, kommande e
 
 Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sidan prenumererar du på [produktuppdateringen för Adobe Priority](https://www.adobe.com/subscription/priority-product-update.html).
 
-**Uppdaterad 16 april 2025**
+**Uppdaterad 25 april 2025**
 
 +++Visa alla produkter
 
@@ -67,15 +67,7 @@ Sök efter [händelser](https://experienceleague.adobe.com/en/events) och regist
 
 +++Kommande event
 
-* **[!DNL Marketo]** | _Marketo &amp; Mochas: Granska en ärvd eller aktuell instans_ | **17 april** | Ärvde du nyligen en Marketo-instans? Eller vill du kanske utföra regelbundna granskningar av den aktuella instansen för att maximera dess potential? Delta i vårt webbinarium Marketo &amp; Mochas med våra Adobe Business Advisors, Cynthia Chang och Carly Gaver, som fokuserar på hur du kör en djupdykning för att förstå hur din instans ser ut. | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
-
-* **[!DNL Workfront]** | _Connect: Workfront Collective_ | **21 april** | Evenemanget har ingen formell presentation eller dagordning. Diskussionsämnena bygger på ert engagemang. Se den här workshopen som en gemensam problemlösningssession. Om det finns något du är utmanad med i Workfront (eller en framgång som du vill dela och marknadsföra!) och vill kommunicera genom lösningar med andra kunder är det här evenemanget perfekt för dig. | [Registrera](https://events.teams.microsoft.com/event/ba1a80ab-01c0-4675-83e5-d6d96f1aa9b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Multisolution** | _Bakom bruset: En fullständig beskrivning av proaktiva övervakningsverktyg_ | **24 april** | Delta i en insiktsfull session om hur ni kan utnyttja de senaste övervakningsverktygen som SWAT, Fastly och New Relic för att optimera systemets hälsa och prestanda.  | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
-* **[!DNL Campaign Classic]** | _Leveransprestanda för Adobe ACC - felsökning_ | **25 april** | Under den här sessionen kommer vi att utforska vanliga utmaningar när vi levererar optimala prestanda med Adobe Campaign Classic (ACC) och tillhandahålla användbara strategier för felsökning och problemlösning. Lär dig identifiera flaskhalsar i prestandan, åtgärda problem med leveransförberedelser/konfigurationsinkonsekvenser och implementera bästa praxis för att säkerställa smidig kommunikation. | [Registrera](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/default_template/event_landing.html?sco-id=5748224915&amp;_charset_=utf-8)
-
-Visa den fullständiga listan över [kommande aktiviteter](https://experienceleague.adobe.com/en/events) eller bläddra bland [tidigare händelser](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) på Experience League.
+Visa den fullständiga listan över [kommande](https://experienceleague.adobe.com/en/events)- och [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview)-evenemang på Experience League.
 
 +++
 
