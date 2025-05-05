@@ -12,7 +12,7 @@ Vi välkomnar bidrag från både vårt community och från anställda hos Adobe 
 ## Adobes uppförandekod gällande öppen källkod
 
 
-Detta projekt har antagit [Adobe Open Source Code of Conduct](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) eller [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). Mer information finns i artikeln [Contributing](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/contributing.html).
+Detta projekt har antagit [Adobe Open Source Code of Conduct](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/code-of-conduct.html?lang=sv-SE) eller [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). Mer information finns i artikeln [Contributing](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/contributing.html?lang=sv-SE).
 
 ## Om dina bidrag till innehåll hos Adobe
 
@@ -22,7 +22,7 @@ Hur du bidrar beror på vem du är och vilken typ av ändringar du vill bidra me
 
 ### Mindre ändringar
 
-Om du bidrar med mindre uppdateringar, för att du helt enkelt vill, bör du gå till artikeln och klicka på länken **Redigera** i den som sedan tar dig till artikelns GitHub-källa. Använd sedan helt enkelt GitHub-gränssnittet för att göra uppdateringarna. Mer information finns i den allmänna [guiden för bidragsgivare till Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Om du bidrar med mindre uppdateringar, för att du helt enkelt vill, bör du gå till artikeln och klicka på länken **Redigera** i den som sedan tar dig till artikelns GitHub-källa. Använd sedan helt enkelt GitHub-gränssnittet för att göra uppdateringarna. Mer information finns i den allmänna [guiden för bidragsgivare till Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=sv-SE).
 
 Mindre korrigeringar och förtydliganden som du lämnar in för dokumentation och kodexempel i den här databasen omfattas av Adobes användarvillkor.
 

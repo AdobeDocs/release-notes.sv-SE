@@ -69,7 +69,7 @@ Funktioner och korrigeringar.
 Versionsinformation för [!DNL Experience Platform,] inklusive [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services] och säkerhetsbulletiner.
 
 * [Experience Cloud ID-tjänst](#ecid)
-* [Versionsinformation för Experience Platform](https://www.adobe.com/go/platform-release-notes-en)
+* [Versionsinformation för Experience Platform](https://www.adobe.com/go/platform-release-notes-en_se)
 * [Experience Platform Launch](#launch)
 * [Journey Orchestration](#journey)
 * [Mobile Services och SDK:er för mobiler](#mobile)
