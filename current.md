@@ -220,7 +220,7 @@ Nya självstudiekurser har publicerats för [!DNL Customer Journey Analytics].
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Maj 2025 | [Använda [!UICONTROL Quick insights]-panelen](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/panels/use-the-quick-insights-panel) | Ny video | Lär dig hur du besvarar affärsfrågor snabbt och enkelt med panelen _[!UICONTROL Quick insights]_i [!DNL Customer Journey Analytics]. |
+| Maj 2025 | [Använda [!UICONTROL Quick insights]-panelen](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/panels/use-the-quick-insights-panel) | Ny video | Lär dig hur du besvarar affärsfrågor snabbt och enkelt med panelen _[!UICONTROL Quick insights]_&#x200B;i [!DNL Customer Journey Analytics]. |
 
 +++
 
