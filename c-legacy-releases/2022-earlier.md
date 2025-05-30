@@ -6,15 +6,16 @@ solution: Experience Cloud,Analytics,Target,Advertising
 seo-title: Release Notes for 2021 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 exl-id: 980a6e5e-a561-4fb5-b1cc-467ddabf0d01
-source-git-commit: 590f0a21ab8ef16b2ccf9f651a2ef2e7cae48ff3
+source-git-commit: 62cb9a8cd5ed8b54594f7f33f90d344014f74752
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
-# Versionsinformation för 2021 och tidigare
+# Versionsinformation för 2022 och tidigare
 
+* [Versionsinformation 2022 PDF](2022-Adobe-Experience-Cloud-Release-Notes.pdf)
 * [Versionsinformation 2021 PDF](2021-Adobe-Experience-Cloud-Release-Notes.pdf)
 * [Versionsinformation 2020 PDF](2020-Adobe-Experience-Cloud-Release-Notes.pdf)
 * [Versionsinformation 2019 PDF](2019-Adobe-Experience-Cloud-Release-Notes.pdf)
