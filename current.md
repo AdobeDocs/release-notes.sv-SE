@@ -6,9 +6,9 @@ last-update: July 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: be1dcb3e5ac95b29a8d1a94885b43a3e78908082
+source-git-commit: 18ba41dff87cafc1d14be0f26b83ecd907d3bf6c
 workflow-type: tm+mt
-source-wordcount: '7007'
+source-wordcount: '7180'
 ht-degree: 6%
 
 ---
@@ -50,14 +50,14 @@ Om du vill få ett månatligt e-postmeddelande om uppdateringar av den här sida
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Kunddatahantering - Voices](#voices)
 * [Digital Experience-utkast](#blueprints)
-* [Certifiering på Adobe](https://experienceleague.adobe.com/sv/certification-home)
+* [Certifiering på Adobe](https://experienceleague.adobe.com/en/certification-home)
 * [Säkerhetsluckor för Adobe-produkter](https://helpx.adobe.com/se/security.html)
 
 +++
 
 ## Schema för händelse {#events}
 
-Sök efter [händelser](https://experienceleague.adobe.com/sv/events) och registrera dig för de som intresserar dig.
+Sök efter [händelser](https://experienceleague.adobe.com/en/events) och registrera dig för de som intresserar dig.
 
 +++Kommande event
 
@@ -77,7 +77,7 @@ Sök efter [händelser](https://experienceleague.adobe.com/sv/events) och regist
 
 * **Adobe Workfront** | _Designa enkelt: Hur Kohler omdesignade Creative Brief_ | Fallstudie om kreativ, kortfattad processinnovation i Workfront. | 6 augusti 2025 - 12:00 MT | [Registrera](https://events.teams.microsoft.com/event/fbfa9ecf-7042-4ed8-b7a5-58351dae561f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-Visa den fullständiga listan över [kommande](https://experienceleague.adobe.com/sv/events)- och [on-demand](https://experienceleague.adobe.com/sv/docs/events/experience-league-recorded-events/overview)-evenemang på Experience League.
+Visa den fullständiga listan över [kommande](https://experienceleague.adobe.com/en/events)- och [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview)-evenemang på Experience League.
 
 +++
 
@@ -89,11 +89,11 @@ Hitta de senaste utbildningsresurserna som publicerats för generativ AI (genAI)
 
 | Produkt | Resurs | Beskrivning |
 | ------- | ------- | ------- |
-| [!DNL Experience Cloud] | [Generativ AI i [!DNL Experience Cloud]](https://experienceleague.adobe.com/sv/docs/core-services/interface/features/generative-ai) | Hitta hjälp med generativ AI (GenAI) och AI-assistenten i Experience Cloud-program. |
-| [!DNL Experience Cloud] | [Agentinsk AI](https://experienceleague.adobe.com/sv/docs/core-services/interface/features/agentic-ai) | Läs mer om Product Support Agent och Data Insights Agent (agauthenticated AI). |
-| [!DNL Customer Journey Analytics] | [Introduktion till [!DNL Content Analytics]](https://experienceleague.adobe.com/sv/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics) | Läs om hur Content Analytics använder AI- och Experience Platform-infrastrukturen för att visa vad som gör innehållet effektivt. Teamen kan optimera engagemanget bättre, driva konverteringar och fatta smartare, databaserade beslut. |
-| [!DNL Journey Optimizer] | [Guide till gränssnittet i Formelverktyget i Journey Optimizer](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/formula-builder-ui) | Lär dig hur du använder AI-formelverktyget i Adobe Journey Optimizer för att skapa anpassade strategier för rangordning av erbjudanden. |
-| [!DNL Journey Optimizer] | [Samla erbjudanden om interaktion med Adobe Web SDK för AI-modellutbildning](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/capturing-offer-interactions-with-web-sdk-ai-model) | Lär dig hur du hämtar in interaktionsdata - t.ex. erbjudanden och klickningar - med Adobe Experience Platform Web SDK (alloy.js). Dessa data är grunden för utbildning av AI-modeller i Adobe Journey Optimizer (AJO) på ett intelligent sätt för att rangordna erbjudanden baserat på användarbeteende och sammanhangsbaserade signaler. |
+| [!DNL Experience Cloud] | [Generativ AI i [!DNL Experience Cloud]](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai) | Hitta hjälp med generativ AI (GenAI) och AI-assistenten i Experience Cloud-program. |
+| [!DNL Experience Cloud] | [Agentinsk AI](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Läs mer om Product Support Agent och Data Insights Agent (agauthenticated AI). |
+| [!DNL Customer Journey Analytics] | [Introduktion till [!DNL Content Analytics]](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics) | Läs om hur Content Analytics använder AI- och Experience Platform-infrastrukturen för att visa vad som gör innehållet effektivt. Teamen kan optimera engagemanget bättre, driva konverteringar och fatta smartare, databaserade beslut. |
+| [!DNL Journey Optimizer] | [Guide till gränssnittet i Formelverktyget i Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/formula-builder-ui) | Lär dig hur du använder AI-formelverktyget i Adobe Journey Optimizer för att skapa anpassade strategier för rangordning av erbjudanden. |
+| [!DNL Journey Optimizer] | [Samla erbjudanden om interaktion med Adobe Web SDK för AI-modellutbildning](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/capturing-offer-interactions-with-web-sdk-ai-model) | Lär dig hur du hämtar in interaktionsdata - t.ex. erbjudanden och klickningar - med Adobe Experience Platform Web SDK (alloy.js). Dessa data är grunden för utbildning av AI-modeller i Adobe Journey Optimizer (AJO) på ett intelligent sätt för att rangordna erbjudanden baserat på användarbeteende och sammanhangsbaserade signaler. |
 
 +++
 
@@ -105,14 +105,14 @@ Hitta de senaste utbildningsresurserna som publicerats för generativ AI (genAI)
 
 Tidigare versionsinformation för [!DNL Adobe System Status]:
 
-* [April 2025](https://experienceleague.adobe.com/sv/docs/release-notes/experience-cloud/previous/2025/04162025#status)
-* [Augusti 2024](https://experienceleague.adobe.com/sv/docs/release-notes/experience-cloud/previous/2024/09142023#status)
-* [Maj 2024](https://experienceleague.adobe.com/sv/docs/release-notes/experience-cloud/previous/2024/05152024#status)
-* [Januari 2024](https://experienceleague.adobe.com/sv/docs/release-notes/experience-cloud/previous/2024/02142024#status)
-* [Oktober 2023](https://experienceleague.adobe.com/sv/docs/release-notes/experience-cloud/previous/2023/10042023#status)
-* [Augusti 2023](https://experienceleague.adobe.com/sv/docs/release-notes/experience-cloud/previous/2023/08092023#status)
-* [Mars 2023](https://experienceleague.adobe.com/sv/docs/release-notes/experience-cloud/previous/2023/03082023#status)
-* [Januari 2023](https://experienceleague.adobe.com/sv/docs/release-notes/experience-cloud/previous/2023/02082023#status)
+* [April 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/04162025#status)
+* [Augusti 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/09142023#status)
+* [Maj 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024#status)
+* [Januari 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/02142024#status)
+* [Oktober 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/10042023#status)
+* [Augusti 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/08092023#status)
+* [Mars 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/03082023#status)
+* [Januari 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/02082023#status)
 
 +++
 
@@ -128,11 +128,11 @@ Uppdaterades inte i juli.
 | -----------| -----------| ---------- |
 | Support for restricted IP address  | **Planned: August 7, 2025**  | For organizations that have implemented IP address restrictions in Admin Console, Experience Cloud will respect those restrictions on the `experience.adobe.com` domain at login and new page loads in that organization.  | -->
 
-I [Experience Cloud-gränssnittet och administrationshandboken](https://experienceleague.adobe.com/sv/docs/core-services/interface/experience-cloud) finns mer information om:
+I [Experience Cloud-gränssnittet och administrationshandboken](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) finns mer information om:
 
-* [Generativ AI i Experience Cloud-program](https://experienceleague.adobe.com/sv/docs/core-services/interface/features/generative-ai)
-* [Användarhantering och produktlicenser](https://experienceleague.adobe.com/sv/docs/core-services/interface/administration/admin-console) (Admin Console)
-* [Kundattribut, målgruppsbibliotek, Assets](https://experienceleague.adobe.com/sv/docs/core-services/interface/services/overview) med flera
+* [Generativ AI i Experience Cloud-program](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai)
+* [Användarhantering och produktlicenser](https://experienceleague.adobe.com/en/docs/core-services/interface/administration/admin-console) (Admin Console)
+* [Kundattribut, målgruppsbibliotek, Assets](https://experienceleague.adobe.com/en/docs/core-services/interface/services/overview) med flera
 
 +++
 
@@ -142,9 +142,25 @@ Hitta den senaste versionsinformationen och den nya dokumentationen för [!DNL E
 
 +++Versionsinformation, självstudiekurser och supportartiklar
 
-Planerad version: **29 juli 2025**
+Juni 2025 innehåller uppdateringar av:
 
-* Versionsinformation om [[!DNL Experience Platform] ](https://experienceleague.adobe.com/sv/docs/experience-platform/release-notes/latest)
+* Åtkomstkontroll
+* Hantering av avancerad datalivscykel
+* Katalogtjänst
+* Kontrollpaneler
+* Dataförvaltning
+* Mål 
+* Federerad målgruppssammansättning
+* Integritetstjänst
+* Sandlådor
+* Segmentering
+* Källor
+
+Nästa planerade version: **29 juli 2025**
+
+**Versionsinformation för AEP**
+
+* Versionsinformation om [[!DNL Experience Platform] ](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
 
 * [[!DNL Experience Platform] Versionsinformation för Mobile SDK](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
@@ -154,7 +170,7 @@ Nya självstudiekurser publicerade för Adobe [!DNL Experience Platform] på Exp
 
 | Publicerad | Program | Namn | Typ | Beskrivning |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| Juni 2025 | [!DNL Experience Platform] | [Länkningsregler för identitetsdiagram - identitetsinställningar](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/identities/graph-linking-rules/identity-settings) | Ny video | Lär dig hur du aktiverar och konfigurerar länkningsregler för identitetsdiagram i Adobe Experience Platform för att skapa korrekta kundprofiler. Den här videon handlar om namnområdesprioritering, unika inställningar och validering, så att du kan börja använda dessa funktioner i dina sandlådor effektivt. |
+| Juni 2025 | [!DNL Experience Platform] | [Länkningsregler för identitetsdiagram - identitetsinställningar](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/identities/graph-linking-rules/identity-settings) | Ny video | Lär dig hur du aktiverar och konfigurerar länkningsregler för identitetsdiagram i Adobe Experience Platform för att skapa korrekta kundprofiler. Den här videon handlar om namnområdesprioritering, unika inställningar och validering, så att du kan börja använda dessa funktioner i dina sandlådor effektivt. |
 
 ### Ny kunskapsbas för stöd för [!DNL Experience Platform]{#kb-aep}
 
@@ -162,12 +178,12 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Experience Plat
 
 | Publicerad | Namn | Typ | Beskrivning |
 |---------|----|----|-----------|
-| Juni 2025 | [Lösa den nedtonade knappen **[!UICONTROL Edge]** i AEP **[!UICONTROL Profile Viewer]**](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26624) | Ny artikel | Lär dig mer om lösningarna på problemet när knappen **[!UICONTROL Edge]** under **[!UICONTROL Audience Membership]** i Adobe Experience Platform (AEP) **[!UICONTROL Profile Viewer]** visas nedtonad. |
-| Juni 2025 | [Åtgärda SFTP-fleråtkomstsfel i Adobe Experience Platform](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26748) | Ny artikel | Lär dig mer om lösningar på problemet när Adobe Experience Platform (AEP) inte kan importera data från SFTP när åtkomstprinciper begränsar flera åtkomster. |
-| Juni 2025 | [Det går inte att komma åt Adobe Experience Platform](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26778) | Ny artikel | Lär dig mer om lösningarna på problemet där felet uppstår. *Inga sandlådor har aktiverats för den här användaren. Tala med organisationens administratör och begär åtkomst till minst en sandlåda.* i Adobe Experience Platform, även om du har lagts till i rätt produktprofil med administratörsbehörighet. |
-| Juni 2025 | [Problem med operandjämförelse i Adobe Experience Platform [!UICONTROL Audience Builder]](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26806) | Ny artikel | Lär dig mer om lösningarna på problemet när du använder Adobe Experience Platform (AEP) [!UICONTROL Audience Builder]. Flera fel inträffar när målgrupper filtreras med Experience Event-data. |
-| Juni 2025 | [Åtgärda fel vid identitetsaktivering i Adobe Experience Platform](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26861) | Ny artikel | Lär dig mer om lösningarna på problemet när du aktiverar identiteter till ett mål i Adobe Experience Platform (AEP). Ett *ACTSVC-8104-401-autentiseringsfel* orsakar aktiveringsfel. |
-| Juni 2025 | [AEP - Vad du ska göra när du har nått det maximala antalet samtidiga sessioner i frågetjänsten](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26872) | Ny artikel | Lär dig mer om lösningarna på problemet när du når maximalt 10 samtidiga sessioner i frågetjänsten i en produktions- eller utvecklingsmiljö. |
+| Juni 2025 | [Lösa den nedtonade knappen **[!UICONTROL Edge]** i AEP **[!UICONTROL Profile Viewer]**](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26624) | Ny artikel | Lär dig mer om lösningarna på problemet när knappen **[!UICONTROL Edge]** under **[!UICONTROL Audience Membership]** i Adobe Experience Platform (AEP) **[!UICONTROL Profile Viewer]** visas nedtonad. |
+| Juni 2025 | [Åtgärda SFTP-fleråtkomstsfel i Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26748) | Ny artikel | Lär dig mer om lösningar på problemet när Adobe Experience Platform (AEP) inte kan importera data från SFTP när åtkomstprinciper begränsar flera åtkomster. |
+| Juni 2025 | [Det går inte att komma åt Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26778) | Ny artikel | Lär dig mer om lösningarna på problemet där felet uppstår. *Inga sandlådor har aktiverats för den här användaren. Tala med organisationens administratör och begär åtkomst till minst en sandlåda.* i Adobe Experience Platform, även om du har lagts till i rätt produktprofil med administratörsbehörighet. |
+| Juni 2025 | [Problem med operandjämförelse i Adobe Experience Platform [!UICONTROL Audience Builder]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26806) | Ny artikel | Lär dig mer om lösningarna på problemet när du använder Adobe Experience Platform (AEP) [!UICONTROL Audience Builder]. Flera fel inträffar när målgrupper filtreras med Experience Event-data. |
+| Juni 2025 | [Åtgärda fel vid identitetsaktivering i Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26861) | Ny artikel | Lär dig mer om lösningarna på problemet när du aktiverar identiteter till ett mål i Adobe Experience Platform (AEP). Ett *ACTSVC-8104-401-autentiseringsfel* orsakar aktiveringsfel. |
+| Juni 2025 | [AEP - Vad du ska göra när du har nått det maximala antalet samtidiga sessioner i frågetjänsten](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26872) | Ny artikel | Lär dig mer om lösningarna på problemet när du når maximalt 10 samtidiga sessioner i frågetjänsten i en produktions- eller utvecklingsmiljö. |
 
 +++
 
@@ -179,17 +195,17 @@ Hitta de senaste självstudiekurserna för [!DNL Real-Time CDP].
 
 | Publicerad | Namn | Typ | Beskrivning |
 | ----------| ---------- | ---------- |---------- |
-| Juli 2025 | [Skapa ett projekt i Real-Time CDP Collaboration](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/collaboration/create-a-project) | Ny video | Lär dig grunderna i hur du skapar projekt i Collaboration, inklusive en kort titt på upptäckt, aktivering och mätning. |
-| Juli 2025 | [Real-Time CDP Collaboration introduktion](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-intro) | Ny video | Få en introduktion till Adobe Real-Time CDP Collaboration, en specialbyggd applikation för datasamarbete som gör att ni kan identifiera och aktivera värdefulla målgrupper och använda mätfunktioner för att få påtagliga resultat. |
-| Juli 2025 | [Real-Time CDP - översikt för byråpersonal](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/collaboration/rtcdp-overview-for-agency-practitioners) | Ny video | Lär dig hur Real-Time CDP fungerar och vad det gör, med fokus på datakällor och målgrupper som driver på deras Real-Time CDP Collaboration användningsfall och arbetsflöden. |
-| Juli 2025 | [Real-Time CDP Collaboration: Process och personer](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/collaboration/rtcdp-collaboration-process-and-people) | Ny video | För myndigheter och betalda medieteam: en snabb titt på Real-Time CDP - vad det är, hur det fungerar och hur datakällor och målgrupper kan effektivisera samarbetet. |
-| Juli 2025 | [Konfigurera filbaserat molnlagringsutrymme eller e-postmarknadsföringsmål](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations#destinations) | Ny video | Få tips under genomgången av konfigurationen av ett filbaserat mål i Adobe Real-Time CDP. Detta gäller molnlagringsdestinationer (till exempel S3 eller SFTP) och även e-postmarknadsföringsdestinationer. |
+| Juli 2025 | [Skapa ett projekt i Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/create-a-project) | Ny video | Lär dig grunderna i hur du skapar projekt i Collaboration, inklusive en kort titt på upptäckt, aktivering och mätning. |
+| Juli 2025 | [Real-Time CDP Collaboration introduktion](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-intro) | Ny video | Få en introduktion till Adobe Real-Time CDP Collaboration, en specialbyggd applikation för datasamarbete som gör att ni kan identifiera och aktivera värdefulla målgrupper och använda mätfunktioner för att få påtagliga resultat. |
+| Juli 2025 | [Real-Time CDP - översikt för byråpersonal](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/rtcdp-overview-for-agency-practitioners) | Ny video | Lär dig hur Real-Time CDP fungerar och vad det gör, med fokus på datakällor och målgrupper som driver på deras Real-Time CDP Collaboration användningsfall och arbetsflöden. |
+| Juli 2025 | [Real-Time CDP Collaboration: Process och personer](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/rtcdp-collaboration-process-and-people) | Ny video | För myndigheter och betalda medieteam: en snabb titt på Real-Time CDP - vad det är, hur det fungerar och hur datakällor och målgrupper kan effektivisera samarbetet. |
+| Juli 2025 | [Konfigurera filbaserat molnlagringsutrymme eller e-postmarknadsföringsmål](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations#destinations) | Ny video | Få tips under genomgången av konfigurationen av ett filbaserat mål i Adobe Real-Time CDP. Detta gäller molnlagringsdestinationer (till exempel S3 eller SFTP) och även e-postmarknadsföringsdestinationer. |
 
 Mer information finns i:
 
-* Videosjälvstudiekurser: [Förstå Real-Time Customer Data Platform](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform)
+* Videosjälvstudiekurser: [Förstå Real-Time Customer Data Platform](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform)
 
-* Produktdokumentation: [Real-Time Customer Data Platform](https://experienceleague.adobe.com/sv/docs/real-time-customer-data-platform)
+* Produktdokumentation: [Real-Time Customer Data Platform](https://experienceleague.adobe.com/en/docs/real-time-customer-data-platform)
 
 +++
 
@@ -201,9 +217,17 @@ Hitta den senaste versionsinformationen för [!DNL Adobe Analytics] och [!DNL Ap
 
 [!DNL Analytics] Releasedatum: **16 juli 2025**
 
-* [!DNL Analytics] [versionsinformation](https://experienceleague.adobe.com/sv/docs/analytics/release-notes/latest)
+Bland uppdateringarna finns:
 
-* [!DNL Analytics] [produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/sv/docs/analytics)
+* Livesream TNT-fält med algoritmer
+* Uppdaterad navigering till användargränssnittet för kundattribut
+* Direktuppspelningsmedia: Data för supportschema
+
+**Versionsinformation för analyser**
+
+* [!DNL Analytics] [versionsinformation](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)
+
+* [!DNL Analytics] [produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/en/docs/analytics)
 
 ### AppMeasurement {#appm}
 
@@ -215,7 +239,7 @@ New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/sv/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
+|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
 
 <!-- 
 ### New [!DNL Analytics] support knowledge base{#kb-analytics}
@@ -224,9 +248,9 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|June 2025|[Analytics shared audience keeps showing collecting data on **[!UICONTROL Audience Library]**](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26635)|New article| Learn about the solutions to the issue when data isn't collected for a custom variable (For example: `eVar1`), the value will be shown as "`未指定`" in the **[!UICONTROL Analysis Workspace]** freeform table.|
-|June 2025|[Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26568)|New article| Learn about Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA.|
-|June 2025|[Too many `Contains` operators cause segments working incorrectly](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-25262)|New article| Learn about the solutions to the issue when too many `Contains` operators cause segments to work incorrectly.|
+|June 2025|[Analytics shared audience keeps showing collecting data on **[!UICONTROL Audience Library]**](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26635)|New article| Learn about the solutions to the issue when data isn't collected for a custom variable (For example: `eVar1`), the value will be shown as "`未指定`" in the **[!UICONTROL Analysis Workspace]** freeform table.|
+|June 2025|[Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26568)|New article| Learn about Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA.|
+|June 2025|[Too many `Contains` operators cause segments working incorrectly](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25262)|New article| Learn about the solutions to the issue when too many `Contains` operators cause segments to work incorrectly.|
 -->
 +++
 
@@ -236,11 +260,21 @@ Hitta den senaste versionsinformationen för [!DNL Customer Journey Analytics]. 
 
 +++Versionsinformation och nya självstudiekurser
 
-* [Versionsinformation](https://experienceleague.adobe.com/sv/docs/analytics-platform/using/releases/latest#releases)
+Utgåvor av [!DNL Customer Journey Analytics] sker kontinuerligt. Versionsinformationen uppdateras därför flera gånger i månaden. Kontrollera dem regelbundet.
 
-  Utgåvor av [!DNL Customer Journey Analytics] sker kontinuerligt. Versionsinformationen uppdateras därför flera gånger i månaden. Kontrollera dem regelbundet.
+Uppdateringar i juli:
 
-* [Produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/sv/docs/customer-journey-analytics)
+* Lägga till och visa kommentarer i Analysis Workspace-projekt
+* Projekt som laddas ned som PDF-filer hämtas till din arbetsstation
+* Härledda fält - funktionen Typecast
+* Härledda fält - funktionen Datummatematik
+* Ares: Funktionen Härlett fältdjup
+* Stöd för förrendering i Chrome
+
+**Versionsinformation för CJA**
+
+* [Versionsinformation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)
+* [Produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
 ### Nya [!DNL Customer Journey Analytics] självstudier {#tutorials-cja}
 
@@ -248,13 +282,13 @@ Nya självstudiekurser har publicerats för [!DNL Customer Journey Analytics].
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Juni 2025 | [Introduktion till Data Insights Agent](https://experienceleague.adobe.com/sv/docs/customer-journey-analytics-learn/tutorials/data-insights-agent/introduction-to-the-data-insights-agent) | Ny video | Läs mer om Data Insights Agent i Customer Journey Analytics. Denna AI-drivna lösning bryter igenom flaskhalsar i företaget genom att ge marknadsförarna omedelbar, transparent information. |
-| Juni 2025 | [Använd Data Insights Agent](https://experienceleague.adobe.com/sv/docs/customer-journey-analytics-learn/tutorials/data-insights-agent/use-the-data-insights-agent) | Ny video | Analysera data med hjälp av naturliga språkinställningar, generera frihandstabeller, visualiseringar och datavekvationer, och minska beroendet av dataanalytiker. |
-| Juni 2025 | [Användningsexempel för Data Insights Agent](https://experienceleague.adobe.com/sv/docs/customer-journey-analytics-learn/tutorials/data-insights-agent/data-insights-agent-use-cases) | Ny video | Effektivisera analysen med naturliga språkfrågor, visualiseringar i realtid och frihandstabeller. Öka effektiviteten i marknadsstrategiutveckling, kampanjhantering och resultatrapportering. |
-| Juni 2025 | [Content Analytics - Skapa konfiguration](https://experienceleague.adobe.com/sv/docs/customer-journey-analytics-learn/tutorials/content-analytics/create-configuration) | Ny video | Lär dig använda det guidade arbetsflödet i Content Analytics. Det förenklar installationsprocessen för marknadsförare och möjliggör effektiv datainsamling, bearbetning och rapportering inom Customer Journey Analytics. |
-| Juni 2025 | [Lägg till komponenter på frihandspanelen](https://experienceleague.adobe.com/sv/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/panels/add-components-to-the-freeform-panel) | Ny video | Använd frihandspaneler för att utforska, jämföra och korrelera era kundupplevelsedata via ett flexibelt dra-och-släpp-gränssnitt. |
-| Juni 2025 | [Content Analytics - Redigera konfiguration](https://experienceleague.adobe.com/sv/docs/customer-journey-analytics-learn/tutorials/content-analytics/edit-configuration) | Ny video | Redigera effektivt Content Analytics-konfigurationer genom att justera namn, datavyer och inställningar för upplevelsehämtning. Den här åtgärden uppdaterar automatiskt mätvärden och utför finjusteringar via tillägget Content Analytics Tags för optimerade insikter. |
-| Juni 2025 | [Konfigurera behörigheter](https://experienceleague.adobe.com/sv/docs/customer-journey-analytics-learn/tutorials/access-control/set-up-permissions) | Ny video | Lär dig att konfigurera rollbaserade behörigheter i Customer Journey Analytics. Lär dig att tilldela användare, konfigurera produktprofiler och hantera åtkomstnivåer. Se hur ni använder detaljstyrda datakontroller, som filtrering på rad- och mätnivå, med segment i datavyer |
+| Juni 2025 | [Introduktion till Data Insights Agent](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-insights-agent/introduction-to-the-data-insights-agent) | Ny video | Läs mer om Data Insights Agent i Customer Journey Analytics. Denna AI-drivna lösning bryter igenom flaskhalsar i företaget genom att ge marknadsförarna omedelbar, transparent information. |
+| Juni 2025 | [Använd Data Insights Agent](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-insights-agent/use-the-data-insights-agent) | Ny video | Analysera data med hjälp av naturliga språkinställningar, generera frihandstabeller, visualiseringar och datavekvationer, och minska beroendet av dataanalytiker. |
+| Juni 2025 | [Användningsexempel för Data Insights Agent](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-insights-agent/data-insights-agent-use-cases) | Ny video | Effektivisera analysen med naturliga språkfrågor, visualiseringar i realtid och frihandstabeller. Öka effektiviteten i marknadsstrategiutveckling, kampanjhantering och resultatrapportering. |
+| Juni 2025 | [Content Analytics - Skapa konfiguration](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/create-configuration) | Ny video | Lär dig använda det guidade arbetsflödet i Content Analytics. Det förenklar installationsprocessen för marknadsförare och möjliggör effektiv datainsamling, bearbetning och rapportering inom Customer Journey Analytics. |
+| Juni 2025 | [Lägg till komponenter på frihandspanelen](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/panels/add-components-to-the-freeform-panel) | Ny video | Använd frihandspaneler för att utforska, jämföra och korrelera era kundupplevelsedata via ett flexibelt dra-och-släpp-gränssnitt. |
+| Juni 2025 | [Content Analytics - Redigera konfiguration](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/edit-configuration) | Ny video | Redigera effektivt Content Analytics-konfigurationer genom att justera namn, datavyer och inställningar för upplevelsehämtning. Den här åtgärden uppdaterar automatiskt mätvärden och utför finjusteringar via tillägget Content Analytics Tags för optimerade insikter. |
+| Juni 2025 | [Konfigurera behörigheter](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/access-control/set-up-permissions) | Ny video | Lär dig att konfigurera rollbaserade behörigheter i Customer Journey Analytics. Lär dig att tilldela användare, konfigurera produktprofiler och hantera åtkomstnivåer. Se hur ni använder detaljstyrda datakontroller, som filtrering på rad- och mätnivå, med segment i datavyer |
 
 ### Ny kunskapsbas för stöd för [!DNL Customer Journey Analytics]{#kb-cja}
 
@@ -262,7 +296,7 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Customer Journe
 
 | Publicerad | Namn | Typ | Beskrivning |
 |---------|----|----|-----------|
-| Juni 2025 | [Förstå begränsningar för datastorlek i CJA-anslutningar](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26969) | Ny artikel | Läs mer om begränsningar för datastorlek i CJA-anslutningar och de bästa sätten att hantera datainmatning för att upprätthålla systemets effektivitet och efterlevnad. |
+| Juni 2025 | [Förstå begränsningar för datastorlek i CJA-anslutningar](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26969) | Ny artikel | Läs mer om begränsningar för datastorlek i CJA-anslutningar och de bästa sätten att hantera datainmatning för att upprätthålla systemets effektivitet och efterlevnad. |
 
 +++
 
@@ -274,9 +308,9 @@ Hitta den senaste versionsinformationen för [!DNL Streaming Media Analytics]. S
 
 Inte uppdaterat.
 
-* [!DNL Streaming Media Analytics] [versionsinformation](https://experienceleague.adobe.com/sv/docs/media-analytics/using/release-notes/release-notes)
+* [!DNL Streaming Media Analytics] [versionsinformation](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes)
 
-* [!DNL Streaming Media Analytics] [produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/sv/docs/media-analytics/using/media-overview)
+* [!DNL Streaming Media Analytics] [produktdokumentation och självstudiekurser](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview)
 
 +++
 
@@ -290,18 +324,18 @@ Nya funktioner, korrigeringar och uppdateringar i [!DNL Experience Manager]. Ado
 
 Nästa planerade version: **31 juli 2025**
 
-* [Versionsinformation - startsida för AEM CS](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
-* [Den senaste översiktsvideon om AEM CS-versionen](https://experienceleague.adobe.com/sv/docs/events/aemcs-release-update-recordings/overview)
+* [Versionsinformation - startsida för AEM CS](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
+* [Den senaste översiktsvideon om AEM CS-versionen](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
 
 Andra [!DNL Experience Manager] produktversionsinformation finns på följande sidor:
 
-* [[!DNL Experience Manager] 6.5 Versionsinformation om Service Pack](https://experienceleague.adobe.com/sv/docs/experience-manager-65/content/release-notes/release-notes)
-* [[!DNL Experience Manager] Versionsinformation för Cloud Manager](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-manager/content/release-notes/current)
-* [Versionsinformation för konverteringstjänsten för automatiserade formulär](https://experienceleague.adobe.com/sv/docs/aem-forms-automated-conversion-service/using/release-notes)
-* [[!DNL Experience Manager] Versionsinformation om Assets Dynamic Media](https://experienceleague.adobe.com/sv/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
-* [[!DNL Experience Manager] Versionsinformation för Brand Portal](https://experienceleague.adobe.com/sv/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
-* [[!DNL Experience Manager] Versionsinformation för skrivbordsapp](https://experienceleague.adobe.com/sv/docs/experience-manager-desktop-app/using/release-notes)
-* [[!DNL Experience Manager] Versionsinformation för Dispatcher](https://experienceleague.adobe.com/sv/docs/experience-manager-dispatcher/using/getting-started/release-notes)
+* [[!DNL Experience Manager] 6.5 Versionsinformation om Service Pack](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes)
+* [[!DNL Experience Manager] Versionsinformation för Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current)
+* [Versionsinformation för konverteringstjänsten för automatiserade formulär](https://experienceleague.adobe.com/en/docs/aem-forms-automated-conversion-service/using/release-notes)
+* [[!DNL Experience Manager] Versionsinformation om Assets Dynamic Media](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
+* [[!DNL Experience Manager] Versionsinformation för Brand Portal](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
+* [[!DNL Experience Manager] Versionsinformation för skrivbordsapp](https://experienceleague.adobe.com/en/docs/experience-manager-desktop-app/using/release-notes)
+* [[!DNL Experience Manager] Versionsinformation för Dispatcher](https://experienceleague.adobe.com/en/docs/experience-manager-dispatcher/using/getting-started/release-notes)
 
 ### Nya [!DNL Experience Manager] självstudier {#tutorials-aem}
 
@@ -309,10 +343,10 @@ Nya självstudiekurser publicerade för [!DNL Experience Manager] på [!DNL Expe
 
 | Publicerad | Program | Namn | Typ | Beskrivning |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| Juni 2025 | [!DNL Experience Manager] | [Experience Optimization and Value Realization](https://experienceleague.adobe.com/sv/playlists/experience-manager-all-experience-optimization-and-value-realization) | Ny video | Korta klipp från Adobe Summit 2025. |
-| Juni 2025 | [!DNL Experience Manager] | [Generativa AI- och AI-drivna innovationer i Experience Manager](https://experienceleague.adobe.com/sv/playlists/experience-manager-all-gen-ai-driven-innovations) | Ny video | Korta klipp från Adobe Summit 2025. |
-| Juni 2025 | [!DNL Experience Manager Assets] | [Dynamiska media för genomskinlighet och batchbearbetning av innehållsautomatisering](https://experienceleague.adobe.com/sv/docs/experience-manager-learn/assets/dynamic-media/images/dynamic-media-image-automation) | Ny video | Lär dig hur du använder Dynamic Media i AEM för att skapa virtuella renderingar, hantera genomskinlighet och automatisera bildbearbetning för återanvändning av skalbart innehåll. |
-| Juni 2025 | [!DNL Experience Manager Sites] | [Skapa en Live-redigeringsguide i [!DNL Sites]](https://experienceleague.adobe.com/sv/docs/experience-manager-learn/sites/expert-resources/authoring-guide-in-sites) | Ny video | AEM Champion Brett Birschbach visar hur man skapar en handbok för redigering i realtid i Adobe Experience Manager (AEM) Sites. |
+| Juni 2025 | [!DNL Experience Manager] | [Experience Optimization and Value Realization](https://experienceleague.adobe.com/en/playlists/experience-manager-all-experience-optimization-and-value-realization) | Ny video | Korta klipp från Adobe Summit 2025. |
+| Juni 2025 | [!DNL Experience Manager] | [Generativa AI- och AI-drivna innovationer i Experience Manager](https://experienceleague.adobe.com/en/playlists/experience-manager-all-gen-ai-driven-innovations) | Ny video | Korta klipp från Adobe Summit 2025. |
+| Juni 2025 | [!DNL Experience Manager Assets] | [Dynamiska media för genomskinlighet och batchbearbetning av innehållsautomatisering](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/images/dynamic-media-image-automation) | Ny video | Lär dig hur du använder Dynamic Media i AEM för att skapa virtuella renderingar, hantera genomskinlighet och automatisera bildbearbetning för återanvändning av skalbart innehåll. |
+| Juni 2025 | [!DNL Experience Manager Sites] | [Skapa en Live-redigeringsguide i [!DNL Sites]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/expert-resources/authoring-guide-in-sites) | Ny video | AEM Champion Brett Birschbach visar hur man skapar en handbok för redigering i realtid i Adobe Experience Manager (AEM) Sites. |
 
 ### Ny kunskapsbas för stöd för [!DNL Experience Manager]{#kb-aem}
 
@@ -320,43 +354,43 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Experience Mana
 
 | Publicerad | Namn | Typ | Beskrivning |
 |---------|--------|---------|---------|
-| Juni 2025 | [Kan inte se bilderna som extraherats från `.ai` fil som överförts till DMC](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26845) | Ny artikel | Lär dig mer om lösningarna på problemet när du överför en `.ai`-fil antingen via AEM eller till DMC direkt och konfigurerar överföringsinställningarna för att extrahera en bild från den `.ai` -filen. Du kan inte se bilden i DMC-gränssnittet. |
-| Juni 2025 | [Hemsidan läses inte in med innehåll på Adobe Experience Manager](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26752) | Ny artikel | Lär dig mer om lösningarna på problemet när AEM as a Cloud Service ibland skickar en tom hemsida, vilket stör användarupplevelsen och utlöser falska varningar om driftstopp. |
-| Juni 2025 | [AEM kortar av extraherad text från stora PDF-filer efter 100 K-tokens](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26785) | Ny artikel | Lär dig mer om lösningar på problemet när AEM begränsar PDF textextrahering till 100 000 tokens som standard, vilket kan orsaka ofullständig indexering för stora dokument. |
-| Juni 2025 | [AEM Forms: Korrigerar visning av AEMFD-paketversion efter installation av tillägg](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26862) | Ny artikel | Lär dig mer om lösningarna på problemet när pakethanteraren fortfarande visar en gammal AEMFD-paketversion när du har installerat den senaste AEM Forms-tillägget på AEM 6.5 SP21 eller senare. |
-| Juni 2025 | [Exportera resurser och metadata från Scene7 med API](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26902) | Ny artikel | Lär dig mer om lösningarna på problemet där Scene7 (Dynamic Media Classic) inte erbjuder ett inbyggt sätt att exportera alla resurser och metadata direkt. |
-| Juni 2025 | [Adobe [!UICONTROL Asset Link] lämnar länkar i ett otillgängligt läge när InDesign används](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26922) | Ny artikel | Lär dig mer om lösningar på problemet där Adobe [!UICONTROL Asset Link] gör att resurslänkar i InDesign inte är tillgängliga. |
-| Juni 2025 | [Adobe Experience Manager: Tillfälliga filer under `/tmp` finns kvar i standby-instansen med  [!DNL S3 DataStore]](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26998) | Ny artikel | Lär dig mer om lösningar på problemet när oväntad användning av diskutrymme inträffar i Adobe Experience Manager (AEM) vänteläge med cold. |
-| Juni 2025 | [Adobe Experience Manager: Skilj produkt- och anpassningsproblem innan Adobe kundsupport kontaktas](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27017) | Ny artikel | Lär dig hur du kan skilja mellan olika utgåvor av AEM som har sin grund i kärnprodukten, från anpassad kod eller tredjepartsintegreringar. |
-| Juni 2025 | [Åtgärdar [!DNL Node.js] 14.x-sårbarhet i AEM On-Premise](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26653) | Ny artikel | Lär dig hur du löser ett säkerhetsproblem som orsakas av en inaktuell [!DNL Node.js] 14.x-installation i en AEM-lokal miljö som körs på [!DNL Red Hat Enterprise Linux] (RHEL). |
-| Juni 2025 | [AEM kan inte omdirigera `/robots.txt` via  [!DNL Apache] omskrivningsregel](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26718) | Ny artikel | Lär dig mer om lösningar på problemet när [!DNL Apache] har konfigurerats för att skriva om `/robots.txt` till en DAM-sökväg (Digital Asset Management) i AEM, men begäran returnerar fortfarande ett *404* -fel. |
-| Juni 2025 | [Felaktiga versionsnummer i  [!DNL Windows] &quot;[!UICONTROL Add/Remove Programs]&quot; för AEM Forms Workbench och Designer](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26846) | Ny artikel | Lär dig mer om lösningarna på problemet när du installerar Adobe Experience Manager (AEM) Forms Workbench och Designer på [!DNL Windows], även efter att du har tillämpat Service Pack eller fullständiga installationsprogram, förblir versionen som visas i [!UICONTROL Control Panel]-gränssnittet i [!UICONTROL Add/Remove Programs] 6.5.0 *statisk.* |
-| Juni 2025 | [Videospelaren för dynamiska media fungerar inte i lägre miljöer](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26871) | Ny artikel | Lär dig mer om lösningar på problemet i Adobe Experience Manager (AEM) lägre miljöer när systemet genererar felformaterade URL:er som bryter videouppspelningen. |
-| Juni 2025 | [AEM Cloud-förhandsvisningen visar *Det fungerar!* i stället för webbplatsens startsida ](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26745) | Ny artikel | Lär dig mer om lösningar på problemet när din Adobe Experience Manager (AEM) _publicerings_ - eller _förhandsgranskningsmiljö_ visar en *It fungerar!*-meddelande i stället för webbplatsens hemsida. |
-| Juni 2025 | [Löser överhoppade eller avinstallerade paket i Adobe Cloud Manager-distributioner](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26840) | Ny artikel | Lär dig mer om lösningar på problem där visst innehåll eller konfigurationspaket ignoreras eller inte installeras vid distributioner av Adobe Cloud Manager för AEM (v6.5 eller AEM as a Cloud Service). |
-| Juni 2025 | [Åtgärdar distributionsfel i AEM as a Cloud Service](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26557) | Ny artikel | Lär dig mer om lösningar på problemet när det uppstår distributionsfel i Adobe Experience Manager (AEM) as a Cloud Service som orsakas av anpassningar i databasens initieringsskript. |
-| Juni 2025 | [Lösa åtkomstproblem i AEM as a Cloud Service via enkel inloggning](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26626) | Ny artikel | Lär dig mer om lösningar på problemet där du inte kan logga in på AEM as a Cloud Service författarinstans med dina inloggningsuppgifter för företagsspecifik inloggning, trots att du har rätt behörighet. |
-| Juni 2025 | [DAM-återgivningar (Digital Asset Management) matchar inte originalfilerna i AEM](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26639) | Ny artikel | Lär dig mer om lösningar på problemet i Adobe Experience Manager as a Cloud Service (AEMaaCS) där vissa resurser i DAM-systemet (Digital Asset Management) visar inkonsekventa återgivningar jämfört med den ursprungliga filen - särskilt i webbåtergivningar. |
-| Juni 2025 | [Felmatchning av videominiatyr mellan Dynamic Media och DAM [!UICONTROL Card View] i AEMaaCS](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26677) | Ny artikel | Lär dig mer om lösningarna på problemet där videominiatyrer skiljer sig åt mellan dynamiska media (till exempel: [!UICONTROL Asset Details] sida) och gränssnittet för DAM (Digital Asset Management) (till exempel: [!UICONTROL Card View] eller [!UICONTROL Asset Properties] dialogruta). |
-| Juni 2025 | [[!UICONTROL Content Fragments]-länken läser in felaktig URL på AEM startsida ](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26700) | Ny artikel | Lär dig mer om lösningarna på problemet där länken [!UICONTROL Content Fragments] på startsidan för Adobe Experience Manager (AEM) läser in felaktiga URL:er i miljöer på grund av inaktuella [!UICONTROL Externalizer] -inställningar eller felkonfigurerade Cloud Manager-miljövariabler. |
-| Juni 2025 | [Konfigurationsproblem för VPN för avancerat nätverk i AEMaaCS](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26714) | Ny artikel | Lär dig mer om lösningar på problemet när du konfigurerar avancerat nätverk med ett VPN (Virtual Private Network) i Adobe Experience Manager as a Cloud Service (AEMaaCS), problem med adressutrymmeskonflikter, ogiltiga DNS-matcharinställningar (Domain Name System) och fastsatta tillstånd under installationen. |
-| Juni 2025 | [[!DNL OAuth] 401-fel vid användning av server-till-server-autentisering i AEM](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26755) | Ny artikel | Lär dig mer om lösningarna på problemet när ett *401-oauktoriserat fel* i AEM as a Cloud Service inträffar när du byter från JWT till [!DNL OAuth] server-till-server-autentisering. |
-| Juni 2025 | [Det går inte att spara när en ny användare skapas i AEMaaCS](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26777) | Ny artikel | Lär dig mer om lösningar på problemet i Adobe Experience Manager as a Cloud Service (AEMaaCS) där ett fel inträffar när en ny användare sparas på grund av olösta konflikter. |
-| Juni 2025 | [Det går inte att skapa Adobe IMS-konfiguration för mål i AEMaaCS](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26820) | Ny artikel | Lär dig mer om lösningarna på problemet när dekrypteringsfel och saknade behörigheter förhindrar skapandet av Adobe Identity Management System (IMS) Technical Account Configurations för Target-integrering i AEMaaCS. |
-| Juni 2025 | [AEM as a Cloud Service: *405* fel för `PUT` och `DELETE` i Stage/Prod](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26841) | Ny artikel | Lär dig mer om lösningar på problemet där `PUT` och `DELETE` HTTP-metoder blockeras i scen- och produktionsmiljöer i AEMaaCS. |
-| Juni 2025 | [Smarta taggar fungerar inte i AEM Sites utan Assets-licens](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26842) | Ny artikel | Läs om lösningarna på problemet där smarta taggar inte fungerar i AEM Sites utan en Assets-licens. |
-| Juni 2025 | [Återgivningar för smart beskärning har inte genererats i AEMaaCS](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26873) | Ny artikel | Läs om lösningarna på problemet i Adobe Experience Manager (AEM) as a Cloud Service - Assets, Smart Crop där renderingar inte kan generera i scenmiljön på grund av ogiltiga proportioner eller anpassade arbetsflöden som står i konflikt med varandra. |
-| Juni 2025 | [Lägger till ytterligare språk till `cq:tags` som inte fungerar i AEMaaCS](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26906) | Ny artikel | Lär dig mer om lösningar på problemet i Adobe Experience Manager as a Cloud Service (AEMaaCS) när försök görs att lägga till nederländska (*nl*) som ett språk som stöds under `cq:tags` lyckas lokalt, men inte återspeglas i utvecklingsmiljön efter distributionen via Cloud Manager. |
-| Juni 2025 | [Fritext [!UICONTROL Omni-search] leder till prestandaförbättringar i AEM](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26950) | Ny artikel | Lär dig mer om lösningarna på problemet när textsökningar i frihandstexten i AEM [!UICONTROL Omni-search] genererar flera frågor utan filter, vilket ger sämre prestanda och tidsgränser i redigeringsmiljön. |
-| Juni 2025 | [Hämtar alla händelser från de senaste 7 dagarna med Adobe I/O [!UICONTROL Journaling] API ](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26979) | Ny artikel | Lär dig mer om lösningarna på problemet när du använder Adobe I/O [!UICONTROL Journaling]-API:t för att hämta händelser från de senaste sju dagarna. Begränsningar uppstår på grund av API:ts tokenbaserade numreringssystem. |
-| Juni 2025 | [Det går inte att ändra resursen **Granskningsstatus** i AEMaaCS med `jcr:all` behörigheter](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27001) | Ny artikel | Lär dig mer om lösningarna på problemet i Adobe Experience Manager as a Cloud Service (AEMaaCS) när du har `jcr:all`-behörigheter som inte tillåter att du ändrar **granskningsstatus** för resurser. |
-| Juni 2025 | [Pipeline-kompileringsfel på grund av biblioteket [!UICONTROL PDFBox] i AEM as a Cloud Service](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27012) | Ny artikel | Lär dig mer om lösningar på problemet när Pipeline-kompilering i Adobe Experience Manager (AEM) as a Cloud Service misslyckas när biblioteket [!UICONTROL PDFBox] inte är korrekt inbäddat som ett OSGi-kompatibelt paket. |
-| Juni 2025 | [Sökfilterbeteende i AEM Guides Editor](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26565) | Ny artikel | Lär dig mer om lösningar på problemet där användning av delar av ord i sökningen i AEM Guides Editor inte ger några resultat. |
-| Juni 2025 | [Lägg till VTT-bildtexter i AEMaaCS Dynamic Media](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26676) | Ny artikel | Lär dig mer om lösningar på problemet när Adobe Experience Manager as a Cloud Service (AEMaaCS) inte erbjuder ett offentligt API för programmässig överföring av VTT-bildtextfiler till Dynamic Media. |
-| Juni 2025 | [Snurra uppsättningar har fastnat i bearbetningstillstånd i AEM Dynamic Media](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26715) | Ny artikel | Lär dig mer om lösningarna på problemet i Adobe Experience Manager (AEM) as a Cloud Service när Dynamic Media Spin Sets hamnar i ett behandlingsläge och inte utlöser efterbearbetningsarbetsflödet automatiskt. |
-| Juni 2025 | [Headless-innehåll läses inte in i AEM as a Cloud Service - Sites](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26746) | Ny artikel | Lär dig mer om lösningarna på problemet när rubrikfria innehållsfragment inte kan läsas in i den nya Content Fragment Editor i AEM as a Cloud Service (AEMaaCS). |
-| Juni 2025 | [Proaktiv varning på grund av trafiktoppar vid AEM-ursprung](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26750) | Ny artikel | Lär dig mer om lösningarna på problemet när AEM as a Cloud Service (AEMaaCS) utlöser en proaktiv varning på grund av en trafiktoppning vid startpunkten, som visar ett högt antal anslutningar och ett ökat antal förfrågningar om ursprung. |
-| Juni 2025 | [Menyn **[!UICONTROL Update]** visas inte längre för AEM as a Cloud Service-utvecklingsmiljöer i Cloud Manager](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26894) | Ny artikel | Lär dig mer om lösningar på problemet när **[!UICONTROL Update]**-menyn inte längre visas för AEM as a Cloud Service-utvecklingsmiljöer i Cloud Manager. |
+| Juni 2025 | [Kan inte se bilderna som extraherats från `.ai` fil som överförts till DMC](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26845) | Ny artikel | Lär dig mer om lösningarna på problemet när du överför en `.ai`-fil antingen via AEM eller till DMC direkt och konfigurerar överföringsinställningarna för att extrahera en bild från den `.ai` -filen. Du kan inte se bilden i DMC-gränssnittet. |
+| Juni 2025 | [Hemsidan läses inte in med innehåll på Adobe Experience Manager](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26752) | Ny artikel | Lär dig mer om lösningarna på problemet när AEM as a Cloud Service ibland skickar en tom hemsida, vilket stör användarupplevelsen och utlöser falska varningar om driftstopp. |
+| Juni 2025 | [AEM kortar av extraherad text från stora PDF-filer efter 100 K-tokens](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26785) | Ny artikel | Lär dig mer om lösningar på problemet när AEM begränsar PDF textextrahering till 100 000 tokens som standard, vilket kan orsaka ofullständig indexering för stora dokument. |
+| Juni 2025 | [AEM Forms: Korrigerar visning av AEMFD-paketversion efter installation av tillägg](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26862) | Ny artikel | Lär dig mer om lösningarna på problemet när pakethanteraren fortfarande visar en gammal AEMFD-paketversion när du har installerat den senaste AEM Forms-tillägget på AEM 6.5 SP21 eller senare. |
+| Juni 2025 | [Exportera resurser och metadata från Scene7 med API](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26902) | Ny artikel | Lär dig mer om lösningarna på problemet där Scene7 (Dynamic Media Classic) inte erbjuder ett inbyggt sätt att exportera alla resurser och metadata direkt. |
+| Juni 2025 | [Adobe [!UICONTROL Asset Link] lämnar länkar i ett otillgängligt läge när InDesign används](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26922) | Ny artikel | Lär dig mer om lösningar på problemet där Adobe [!UICONTROL Asset Link] gör att resurslänkar i InDesign inte är tillgängliga. |
+| Juni 2025 | [Adobe Experience Manager: Tillfälliga filer under `/tmp` finns kvar i standby-instansen med  [!DNL S3 DataStore]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26998) | Ny artikel | Lär dig mer om lösningar på problemet när oväntad användning av diskutrymme inträffar i Adobe Experience Manager (AEM) vänteläge med cold. |
+| Juni 2025 | [Adobe Experience Manager: Skilj produkt- och anpassningsproblem innan Adobe kundsupport kontaktas](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27017) | Ny artikel | Lär dig hur du kan skilja mellan olika utgåvor av AEM som har sin grund i kärnprodukten, från anpassad kod eller tredjepartsintegreringar. |
+| Juni 2025 | [Åtgärdar [!DNL Node.js] 14.x-sårbarhet i AEM On-Premise](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26653) | Ny artikel | Lär dig hur du löser ett säkerhetsproblem som orsakas av en inaktuell [!DNL Node.js] 14.x-installation i en AEM-lokal miljö som körs på [!DNL Red Hat Enterprise Linux] (RHEL). |
+| Juni 2025 | [AEM kan inte omdirigera `/robots.txt` via  [!DNL Apache] omskrivningsregel](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26718) | Ny artikel | Lär dig mer om lösningar på problemet när [!DNL Apache] har konfigurerats för att skriva om `/robots.txt` till en DAM-sökväg (Digital Asset Management) i AEM, men begäran returnerar fortfarande ett *404* -fel. |
+| Juni 2025 | [Felaktiga versionsnummer i  [!DNL Windows] &quot;[!UICONTROL Add/Remove Programs]&quot; för AEM Forms Workbench och Designer](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26846) | Ny artikel | Lär dig mer om lösningarna på problemet när du installerar Adobe Experience Manager (AEM) Forms Workbench och Designer på [!DNL Windows], även efter att du har tillämpat Service Pack eller fullständiga installationsprogram, förblir versionen som visas i [!UICONTROL Control Panel]-gränssnittet i [!UICONTROL Add/Remove Programs] 6.5.0 *statisk.* |
+| Juni 2025 | [Videospelaren för dynamiska media fungerar inte i lägre miljöer](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26871) | Ny artikel | Lär dig mer om lösningar på problemet i Adobe Experience Manager (AEM) lägre miljöer när systemet genererar felformaterade URL:er som bryter videouppspelningen. |
+| Juni 2025 | [AEM Cloud-förhandsvisningen visar *Det fungerar!* i stället för webbplatsens startsida ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26745) | Ny artikel | Lär dig mer om lösningar på problemet när din Adobe Experience Manager (AEM) _publicerings_ - eller _förhandsgranskningsmiljö_ visar en *It fungerar!*-meddelande i stället för webbplatsens hemsida. |
+| Juni 2025 | [Löser överhoppade eller avinstallerade paket i Adobe Cloud Manager-distributioner](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26840) | Ny artikel | Lär dig mer om lösningar på problem där visst innehåll eller konfigurationspaket ignoreras eller inte installeras vid distributioner av Adobe Cloud Manager för AEM (v6.5 eller AEM as a Cloud Service). |
+| Juni 2025 | [Åtgärdar distributionsfel i AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26557) | Ny artikel | Lär dig mer om lösningar på problemet när det uppstår distributionsfel i Adobe Experience Manager (AEM) as a Cloud Service som orsakas av anpassningar i databasens initieringsskript. |
+| Juni 2025 | [Lösa åtkomstproblem i AEM as a Cloud Service via enkel inloggning](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26626) | Ny artikel | Lär dig mer om lösningar på problemet där du inte kan logga in på AEM as a Cloud Service författarinstans med dina inloggningsuppgifter för företagsspecifik inloggning, trots att du har rätt behörighet. |
+| Juni 2025 | [DAM-återgivningar (Digital Asset Management) matchar inte originalfilerna i AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26639) | Ny artikel | Lär dig mer om lösningar på problemet i Adobe Experience Manager as a Cloud Service (AEMaaCS) där vissa resurser i DAM-systemet (Digital Asset Management) visar inkonsekventa återgivningar jämfört med den ursprungliga filen - särskilt i webbåtergivningar. |
+| Juni 2025 | [Felmatchning av videominiatyr mellan Dynamic Media och DAM [!UICONTROL Card View] i AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26677) | Ny artikel | Lär dig mer om lösningarna på problemet där videominiatyrer skiljer sig åt mellan dynamiska media (till exempel: [!UICONTROL Asset Details] sida) och gränssnittet för DAM (Digital Asset Management) (till exempel: [!UICONTROL Card View] eller [!UICONTROL Asset Properties] dialogruta). |
+| Juni 2025 | [[!UICONTROL Content Fragments]-länken läser in felaktig URL på AEM startsida ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26700) | Ny artikel | Lär dig mer om lösningarna på problemet där länken [!UICONTROL Content Fragments] på startsidan för Adobe Experience Manager (AEM) läser in felaktiga URL:er i miljöer på grund av inaktuella [!UICONTROL Externalizer] -inställningar eller felkonfigurerade Cloud Manager-miljövariabler. |
+| Juni 2025 | [Konfigurationsproblem för VPN för avancerat nätverk i AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26714) | Ny artikel | Lär dig mer om lösningar på problemet när du konfigurerar avancerat nätverk med ett VPN (Virtual Private Network) i Adobe Experience Manager as a Cloud Service (AEMaaCS), problem med adressutrymmeskonflikter, ogiltiga DNS-matcharinställningar (Domain Name System) och fastsatta tillstånd under installationen. |
+| Juni 2025 | [[!DNL OAuth] 401-fel vid användning av server-till-server-autentisering i AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26755) | Ny artikel | Lär dig mer om lösningarna på problemet när ett *401-oauktoriserat fel* i AEM as a Cloud Service inträffar när du byter från JWT till [!DNL OAuth] server-till-server-autentisering. |
+| Juni 2025 | [Det går inte att spara när en ny användare skapas i AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26777) | Ny artikel | Lär dig mer om lösningar på problemet i Adobe Experience Manager as a Cloud Service (AEMaaCS) där ett fel inträffar när en ny användare sparas på grund av olösta konflikter. |
+| Juni 2025 | [Det går inte att skapa Adobe IMS-konfiguration för mål i AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26820) | Ny artikel | Lär dig mer om lösningarna på problemet när dekrypteringsfel och saknade behörigheter förhindrar skapandet av Adobe Identity Management System (IMS) Technical Account Configurations för Target-integrering i AEMaaCS. |
+| Juni 2025 | [AEM as a Cloud Service: *405* fel för `PUT` och `DELETE` i Stage/Prod](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26841) | Ny artikel | Lär dig mer om lösningar på problemet där `PUT` och `DELETE` HTTP-metoder blockeras i scen- och produktionsmiljöer i AEMaaCS. |
+| Juni 2025 | [Smarta taggar fungerar inte i AEM Sites utan Assets-licens](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26842) | Ny artikel | Läs om lösningarna på problemet där smarta taggar inte fungerar i AEM Sites utan en Assets-licens. |
+| Juni 2025 | [Återgivningar för smart beskärning har inte genererats i AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26873) | Ny artikel | Läs om lösningarna på problemet i Adobe Experience Manager (AEM) as a Cloud Service - Assets, Smart Crop där renderingar inte kan generera i scenmiljön på grund av ogiltiga proportioner eller anpassade arbetsflöden som står i konflikt med varandra. |
+| Juni 2025 | [Lägger till ytterligare språk till `cq:tags` som inte fungerar i AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26906) | Ny artikel | Lär dig mer om lösningar på problemet i Adobe Experience Manager as a Cloud Service (AEMaaCS) när försök görs att lägga till nederländska (*nl*) som ett språk som stöds under `cq:tags` lyckas lokalt, men inte återspeglas i utvecklingsmiljön efter distributionen via Cloud Manager. |
+| Juni 2025 | [Fritext [!UICONTROL Omni-search] leder till prestandaförbättringar i AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26950) | Ny artikel | Lär dig mer om lösningarna på problemet när textsökningar i frihandstexten i AEM [!UICONTROL Omni-search] genererar flera frågor utan filter, vilket ger sämre prestanda och tidsgränser i redigeringsmiljön. |
+| Juni 2025 | [Hämtar alla händelser från de senaste 7 dagarna med Adobe I/O [!UICONTROL Journaling] API ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26979) | Ny artikel | Lär dig mer om lösningarna på problemet när du använder Adobe I/O [!UICONTROL Journaling]-API:t för att hämta händelser från de senaste sju dagarna. Begränsningar uppstår på grund av API:ts tokenbaserade numreringssystem. |
+| Juni 2025 | [Det går inte att ändra resursen **Granskningsstatus** i AEMaaCS med `jcr:all` behörigheter](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27001) | Ny artikel | Lär dig mer om lösningarna på problemet i Adobe Experience Manager as a Cloud Service (AEMaaCS) när du har `jcr:all`-behörigheter som inte tillåter att du ändrar **granskningsstatus** för resurser. |
+| Juni 2025 | [Pipeline-kompileringsfel på grund av biblioteket [!UICONTROL PDFBox] i AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27012) | Ny artikel | Lär dig mer om lösningar på problemet när Pipeline-kompilering i Adobe Experience Manager (AEM) as a Cloud Service misslyckas när biblioteket [!UICONTROL PDFBox] inte är korrekt inbäddat som ett OSGi-kompatibelt paket. |
+| Juni 2025 | [Sökfilterbeteende i AEM Guides Editor](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26565) | Ny artikel | Lär dig mer om lösningar på problemet där användning av delar av ord i sökningen i AEM Guides Editor inte ger några resultat. |
+| Juni 2025 | [Lägg till VTT-bildtexter i AEMaaCS Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26676) | Ny artikel | Lär dig mer om lösningar på problemet när Adobe Experience Manager as a Cloud Service (AEMaaCS) inte erbjuder ett offentligt API för programmässig överföring av VTT-bildtextfiler till Dynamic Media. |
+| Juni 2025 | [Snurra uppsättningar har fastnat i bearbetningstillstånd i AEM Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26715) | Ny artikel | Lär dig mer om lösningarna på problemet i Adobe Experience Manager (AEM) as a Cloud Service när Dynamic Media Spin Sets hamnar i ett behandlingsläge och inte utlöser efterbearbetningsarbetsflödet automatiskt. |
+| Juni 2025 | [Headless-innehåll läses inte in i AEM as a Cloud Service - Sites](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26746) | Ny artikel | Lär dig mer om lösningarna på problemet när rubrikfria innehållsfragment inte kan läsas in i den nya Content Fragment Editor i AEM as a Cloud Service (AEMaaCS). |
+| Juni 2025 | [Proaktiv varning på grund av trafiktoppar vid AEM-ursprung](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26750) | Ny artikel | Lär dig mer om lösningarna på problemet när AEM as a Cloud Service (AEMaaCS) utlöser en proaktiv varning på grund av en trafiktoppning vid startpunkten, som visar ett högt antal anslutningar och ett ökat antal förfrågningar om ursprung. |
+| Juni 2025 | [Menyn **[!UICONTROL Update]** visas inte längre för AEM as a Cloud Service-utvecklingsmiljöer i Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26894) | Ny artikel | Lär dig mer om lösningar på problemet när **[!UICONTROL Update]**-menyn inte längre visas för AEM as a Cloud Service-utvecklingsmiljöer i Cloud Manager. |
 
 +++
 
@@ -366,9 +400,9 @@ Få tillgång till versionsinformation, nya självstudiekurser och supportartikl
 
 +++Versionsinformation, nya självstudiekurser och supportartiklar
 
-* Se [Versionsinformation för [!DNL Adobe Commerce] och [!DNL Magento Open Source]](https://experienceleague.adobe.com/sv/docs/commerce-operations/release/notes/overview) för att hålla dig uppdaterad.
-* Se [Adobe [!DNL Commerce] Tjänstguider](https://experienceleague.adobe.com/sv/docs/commerce/user-guides/home) för information och dokumentation om Commerce Services-releaser.
-* Se [Produkttillgänglighet](https://experienceleague.adobe.com/sv/docs/commerce-operations/release/product-availability) för att få tillgång till enskilda versionsinformation och för att verifiera tillgänglighet.
+* Se [Versionsinformation för [!DNL Adobe Commerce] och [!DNL Magento Open Source]](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview) för att hålla dig uppdaterad.
+* Se [Adobe [!DNL Commerce] Tjänstguider](https://experienceleague.adobe.com/en/docs/commerce/user-guides/home) för information och dokumentation om Commerce Services-releaser.
+* Se [Produkttillgänglighet](https://experienceleague.adobe.com/en/docs/commerce-operations/release/product-availability) för att få tillgång till enskilda versionsinformation och för att verifiera tillgänglighet.
 
 ### Nya självstudiekurser för [!DNL Adobe Commerce] {#tutorials-commerce}
 
@@ -376,11 +410,11 @@ Nya självstudiekurser för [!DNL Adobe Commerce] på Experience League.
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Juli 2025 | [GraphQL och REST](https://experienceleague.adobe.com/sv/docs/commerce-learn/tutorials/graphql-rest/intro-graphql) | Nya videoklipp | Få en introduktion till GraphQL, branschstandarden för hur kraftfulla applikationer på klientsidan talar med en serverdel. Det är ett allt viktigare ämne för Adobe Commerce-utvecklare, eftersom plattformen fortsätter att utöka sina funktioner när det gäller headless-implementationer. (Fyra delar.) |
-| Juli 2025 | [Skapa en nedladdningsbar produkt](https://experienceleague.adobe.com/sv/docs/commerce-learn/tutorials/getting-started/create-products/create-downloadable-product) | Ny video | Lär dig hur du skapar en nedladdningsbar produkt med REST API och Adobe Commerce Admin. |
-| Juli 2025 | [Skapa en paketprodukt](https://experienceleague.adobe.com/sv/docs/commerce-learn/tutorials/getting-started/create-products/create-bundle-product) | Ny video | Lär dig hur du skapar en paketprodukt med REST API och Commerce Admin. |
-| Juli 2025 | [Skapa en presentkortsprodukt](https://experienceleague.adobe.com/sv/docs/commerce-learn/tutorials/getting-started/create-products/create-gift-card-product) | Ny video | Lär dig hur du skapar en presentkortsprodukt med REST API och Adobe Commerce Admin. |
-| Juli 2025 | [Adobe Commerce dataanslutning - fullständig demonstration](https://experienceleague.adobe.com/sv/docs/commerce-learn/tutorials/getting-started/capabilities/data-connection) | Ny video | Titta på en fullständig demonstration om Adobe Commerce Data Connection. |
+| Juli 2025 | [GraphQL och REST](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/graphql-rest/intro-graphql) | Nya videoklipp | Få en introduktion till GraphQL, branschstandarden för hur kraftfulla applikationer på klientsidan talar med en serverdel. Det är ett allt viktigare ämne för Adobe Commerce-utvecklare, eftersom plattformen fortsätter att utöka sina funktioner när det gäller headless-implementationer. (Fyra delar.) |
+| Juli 2025 | [Skapa en nedladdningsbar produkt](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/create-products/create-downloadable-product) | Ny video | Lär dig hur du skapar en nedladdningsbar produkt med REST API och Adobe Commerce Admin. |
+| Juli 2025 | [Skapa en paketprodukt](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/create-products/create-bundle-product) | Ny video | Lär dig hur du skapar en paketprodukt med REST API och Commerce Admin. |
+| Juli 2025 | [Skapa en presentkortsprodukt](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/create-products/create-gift-card-product) | Ny video | Lär dig hur du skapar en presentkortsprodukt med REST API och Adobe Commerce Admin. |
+| Juli 2025 | [Adobe Commerce dataanslutning - fullständig demonstration](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/data-connection) | Ny video | Titta på en fullständig demonstration om Adobe Commerce Data Connection. |
 
 ### Ny kunskapsbas för stöd för [!DNL Commerce]{#kb-commerce}
 
@@ -388,52 +422,52 @@ Nya artiklar och uppdateringar av befintliga artiklar för Adobe Commerce.
 
 | Publicerad | Namn | Typ | Beskrivning |
 |---------|--------|---------|---------|
-| Juni 2025 | [[!DNL Quality Patches Tool] (QPT)](https://experienceleague.adobe.com/sv/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview) | Nya artiklar | Nya artiklar om hur du tillämpar plåster som finns i QPT 1.1.63, QPT 1.1.64 och QPT 1.1.65 har publicerats och finns i respektive avsnitt. |
-| Juni 2025 | [Säkerhetsuppdatering för Adobe Commerce - APSB25-50](https://experienceleague.adobe.com/sv/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/security-update-available-for-adobe-commerce-apsb25-50) | Nya artiklar | Den 10 juni 2025 släppte Adobe en regelbundet schemalagd säkerhetsuppdatering för Adobe Commerce och Magento Open Source. |
-| Juni 2025 | [PayPal-sandlådekontot har inte verifierats](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26836) | Nya artiklar | Lär dig mer om lösningarna på problemet när ditt PayPal-sandlådekonto inte har verifierats så att du inte kan slutföra introduktionen med [!UICONTROL Payment Services] i Adobe Commerce. |
-| Juni 2025 | [Åtgärda versionsmatchningsfel i Adobe Commerce i molninfrastrukturen](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26788) | Nya artiklar | Lär dig mer om lösningarna på problemet när distributionen från [!UICONTROL Staging] till Production misslyckas om infrastrukturversionen av Adobe Commerce i molnet i [!UICONTROL Staging] är äldre än i Production. |
-| Juni 2025 | [Betalningsmetoder visas inte vid utcheckning med flera adresser](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26824) | Nya artiklar | Lär dig mer om lösningar på problemet när de flesta betalningsmetoder inte visas i kassan när flera leveransadresser används. |
-| Juni 2025 | [Kreditkortet kunde inte betala i en sandlådemiljö](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26825) | Nya artiklar | Lär dig mer om lösningar på problemet när ett testkreditkort inte fungerar i sandlådemiljö med PayPal API:er. |
-| Juni 2025 | [Felsök installationen av betaltjänster](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26826) | Nya artiklar | Lär dig mer om lösningar på problem där fel uppstår under installationen av betaltjänster. |
-| Juni 2025 | [Försenade betalningstjänstrapportdata](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26837) | Nya artiklar | Lär dig mer om lösningar på problemet när fördröjda betalningstjänster används i Adobe Commerce. |
-| Juni 2025 | [PayPal-gatewayen avvisade begäran - dubblettfakturaproblem](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26838) | Nya artiklar | Lär dig mer om lösningar på problemet när fel uppstår när dubbla faktura-ID:n skickas till PayPal. |
-| Juni 2025 | [Minska utgången `oauth_tokens` före uppgradering 2.4.6](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26848) | Nya artiklar | Lär dig mer om lösningarna på problemet när ett stort antal `oauth_tokens` visas i din `oauth_token`-tabell, vilket kan göra att det tar lång tid att uppgradera till version 2.4.6. |
-| Juni 2025 | [Felsök [!DNL Upgrade Compatibility Tool] fel](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26849) | Nya artiklar | Lär dig mer om lösningar på problemet när fel uppstår när du använder [!DNL Upgrade Compatibility Tool]. |
-| Juni 2025 | [403 fel vid åtkomst av [!DNL Site-Wide Analysis Tool] i Adobe Commerce](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26852) | Nya artiklar | Lär dig mer om lösningar på problemet när 403 fel inträffar när du försöker få åtkomst till [!DNL Site-Wide Analysis Tool] i Adobe Commerce. |
-| Juni 2025 | [Administratörslösenord har sparats som oformaterad text i åtgärdsloggen](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26853) | Nya artiklar | Lär dig mer om lösningarna på problemet när en Commerce-administratör skapar en ny användare med administratörsbehörighet och lösenordet sparas som oformaterad text i databastabellen `magento_logging_event_changes`. |
-| Juni 2025 | [Så här kontrollerar du varför [!DNL cron] inaktiverades](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26854) | Nya artiklar | Lär dig mer om lösningar på problem med [!DNL cron] i Adobe Commerce för molninfrastrukturprodukter. |
-| Juni 2025 | [Webbplatsen är inte tillgänglig på grund av ursprungsinsvepning](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26856) | Nya artiklar | Lär dig mer om lösningarna på problemet när din Adobe Commerce på molninfrastrukturen [!UICONTROL Staging] eller i Production Site Store och/eller Admin inte är tillgänglig. |
-| Juni 2025 | [Problem med plugin-program för disposition vid uppgradering till Adobe Commerce 2.4.4](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26858) | Nya artiklar | Lär dig mer om lösningar på problem med plugin-program för disposition när du uppgraderar från Adobe Commerce 2.4.3 och tidigare till Adobe Commerce 2.4.4 eller senare (när framtida versioner släpps). |
-| Juni 2025 | [Produktbilder visas inte trots [!UICONTROL Product Edit] bildroller](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26859) | Nya artiklar | Lär dig mer om lösningarna på problemet när produktbilder inte visas i din butik, trots att bildroller har angetts på sidan [!UICONTROL Product Edit]. |
-| Juni 2025 | [Elasticsearch visas som sökmotor trots [!DNL OpenSearch] installation](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26877) | Nya artiklar | Lär dig mer om lösningarna på problemet där Elasticsearch fortfarande visas som sökmotor för Adobe Commerce i molnet även efter installation eller uppgradering till [!DNL OpenSearch]. |
-| Juni 2025 | [Distributionen fastnade med felet&quot;Det går inte att överföra programmet till fjärrklustret&quot; ](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26878) | Nya artiklar | Lär dig mer om lösningarna på problemet där distributionen fastnar och felmeddelandet finns i distributionsloggen: *Fel: Det går inte att överföra programmet till fjärrklustret.* |
-| Juni 2025 | [Låsta (nedtonade) fält i Commerce Admin](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26879) | Nya artiklar | Lär dig mer om lösningar på problemet när du inte kan ändra låsta (nedtonade) fält i Commerce Admin. |
-| Juni 2025 | [*E: Fel vid verifiering av`routes.yaml`* fel under [!UICONTROL Staging] eller Production Deployment](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26880) | Nya artiklar | Lär dig mer om lösningarna på problemet där du fick *E: Fel vid verifiering av`routes.yaml`*-felmeddelande när du försöker distribuera projektet till [!UICONTROL Staging]- eller produktionsmiljön. |
-| Juni 2025 | [Omdistributionen av miljön misslyckades eller [!DNL MySQL] servern har försvunnit](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26881) | Nya artiklar | Lär dig mer om lösningarna på problemet där det brist på utrymme som tilldelats för [!DNL MySQL] orsakar problem med fast distribution eller databasanslutning. |
-| Juni 2025 | [Omdirigera till överordnad miljö vid åtkomst till den nya integreringsmiljön](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26882) | Nya artiklar | Lär dig mer om lösningarna på problemet där du omdirigeras till den överordnade miljön i stället för att använda en ny integreringsmiljö. |
-| Juni 2025 | [*404* fel vid åtkomst av `robots.txt` i Adobe Commerce i molninfrastruktur](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26885) | Nya artiklar | Lär dig mer om lösningarna på problemet när ett *404* -fel inträffar vid åtkomst av `robots.txt`-filen i Adobe Commerce i molninfrastrukturen. |
-| Juni 2025 | [Lös `robots.txt` så att standardinställningarna inte uppdateras eller visas](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26886) | Nya artiklar | Lär dig mer om lösningarna på problemet där filen `robots.txt` i Adobe Commerce är korrekt konfigurerad, men fortfarande innehåller standardinställningar eller inte kan uppdateras. |
-| Juni 2025 | [*Det går inte att ta bort filen. Varning!unlink: Det finns inget sådant fil- eller katalogfel* från administratören](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26887) | Nya artiklar | Lär dig mer om lösningar på problemet när felet *Det går inte att ta bort filen. Varning!unlink: Det finns inget sådant fil- eller katalogfel* i Commerce Admin när du tömmer JavaScript/CSS. |
-| Juni 2025 | [Exakt matchningssökning fungerar inte i Adobe Commerce 2.4.x](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26888) | Nya artiklar | Lär dig mer om lösningarna på problemet där sökresultat från butiker som använder samma söksträng skiljer sig åt i Adobe Commerce 2.4.x jämfört med Adobe Commerce 2.3.x. |
-| Juni 2025 | [Ta bort filer säkert när diskutrymmet i Adobe Commerce på molninfrastrukturen tar slut](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26889) | Nya artiklar | Lär dig mer om lösningarna på problemet där du har slut på diskutrymme och behöver ta bort filer på ett säkert sätt. |
-| Juni 2025 | [GraphQL-fråga för att dölja kategorier fungerar inte med B2B **[!UICONTROL Shared Catalog]**](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26890) | Nya artiklar | Lär dig mer om lösningar på problemet där GraphQL-frågor ignorerar kategoribehörigheter i Adobe Commerce 2.4.3 med B2B **[!UICONTROL Shared Catalog]** aktiverat. |
-| Juni 2025 | [**laminas/laminas-escape-program 2.7.1** orsakar fel på Adobe Commerce-sidor för frontend och admin ](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26891) | Nya artiklar | Lär dig hur du löser ett fel som orsakas av **laminas/laminas-escape er 2.7.1** som påverkar Adobe Commerce klientsida och admin-sidor. |
-| Juni 2025 | [Kan inte spara leverans som URL-nyckel](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26896) | Nya artiklar | Lär dig mer om lösningarna på problemet när du inte kan spara frakt som en URL-nyckel (till exempel: */leverans*) för produkter eller CMS-sidor. |
-| Juni 2025 | [Använd en patch för att fortsätta erbjuda [!DNL DHL] som fraktfirma](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26897) | Nya artiklar | Lär dig hur du kan använda en korrigering som stöd för det uppdaterade 6.2-schemat för att fortsätta erbjuda [!DNL DHL] som fraktfirma. |
-| Juni 2025 | [Den övre navigeringspanelen läses inte in på storefront](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26898) | Nya artiklar | Lär dig mer om lösningarna på problemet där vissa sidors innehåll, vanligtvis den översta navigeringspanelen, inte visas i butiken om [!DNL Varnish] används för cachelagring. |
-| Juni 2025 | [Det går inte att ändra **[!UICONTROL Search Engine]** med Commerce Admin (**[!UICONTROL Search Engine]** -menyn är inte tillgänglig)](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26899) | Nya artiklar | Lär dig mer om lösningar på problemet med att inte kunna ändra Adobe Commerce **[!UICONTROL Search Engine]** med Commerce Admin om fältet **[!UICONTROL Search Engine]** inte visas eller om kryssrutan **[!UICONTROL Use system value]** är nedtonad och inte är tillgänglig. |
-| Juni 2025 | [Plugin-program för disposition mot attacker med beroendekonfusion](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26900) | Nya artiklar | Lär dig mer om lösningar på problem med Composer-pluginen som släppts för attacker med beroendekonfusion. |
-| Juni 2025 | [Index har gjorts ogiltiga och `indexer_reindex_all_invalid` körs hela tiden](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26901) | Nya artiklar | Lär dig mer om lösningarna på problemet när sajten har prestandaproblem som orsakas av konstant omindexering. |
-| Juni 2025 | [Långsam prestanda på grund av icke-cachebara sidor](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26903) | Nya artiklar | Lär dig mer om lösningarna på problemet när fler inläsningstider eller avbrott på webbplatsen orsakas av att helsidescachen (till exempel: [!DNL Fastly]) inaktiveras för alla block på sidor som ska cachelagras. |
-| Juni 2025 | [Uppgradera till version 10.0 [!DNL DHL] för att fortsätta erbjuda [!DNL DHL] frakt](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26904) | Nya artiklar | Lär dig mer om lösningarna för att hjälpa handlare att fortsätta erbjuda [!DNL DHL] leverans efter att [!DNL DHL] schemaversion 6.2 togs bort i slutet av december 2022. |
-| Juni 2025 | [Inaktivera utdata från Adobe Commerce Banner för att förbättra webbplatsens prestanda](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26909) | Nya artiklar | Lär dig mer om lösningar på problemet där låg webbplatsprestanda uppstår som orsakas av att modulen `Magento_Banner` är aktiverad men inte används. |
-| Juni 2025 | [Distributionen misslyckades: Det går inte att använda MDVA-43395-korrigering](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26911) | Nya artiklar | Lär dig mer om lösningarna på problemet där försök att använda MDVA-43395-korrigeringen leder till misslyckad distribution. |
-| Juni 2025 | [Distributionen misslyckas med *Fel när projektet byggdes: Byggkroken misslyckades med statuskoden 1*](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26912) | Nya artiklar | Lär dig mer om lösningarna på problemet där distributionsprocessens byggfas misslyckas och felmeddelandet sammanfattas med: *Fel när projekt skapades: Byggkroken misslyckades med statuskod 1.* |
-| Juni 2025 | [Distributionsfel från att aktivera tidig alfa [!DNL Baler] modul](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26914) | Nya artiklar | Lär dig mer om lösningar på problemet när distributionsfel inträffar när du använder modulen [!DNL Baler] i en produktionsmiljö. |
-| Juni 2025 | [Distributionen misslyckas med rätt åtkomstnycklar i `env:COMPOSER_AUTH` eller `auth.json`](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26921) | Nya artiklar | Lär dig mer om lösningarna på problemet när distributionen misslyckas med en *fil som inte kunde hämtas (HTTP/1.1 404 Hittades inte)* -fel i distributionsloggen. |
-| Juni 2025 | [[!DNL MySQL] tabeller är för stora](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26945) | Nya artiklar | Lär dig mer om lösningarna på problemet när en [!DNL MySQL]-tabell blir större än 1 GB. |
-| Juni 2025 | [Förstå rekommendationer för kökonfiguration i miljögranskningsrapport](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26956) | Nya artiklar | Läs mer om rekommendationer för miljögranskningsrapporter gällande kökonfiguration i Adobe Commerce om molninfrastruktur. |
-| Juni 2025 | [Ta bort leveransplockning från fel adress](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26962) | Nya artiklar | Lär dig mer om lösningar på problemet där leveranslösningen använder standardbutiksadressen i stället för produktens källadress för att släppa frakten. |
+| Juni 2025 | [[!DNL Quality Patches Tool] (QPT)](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview) | Nya artiklar | Nya artiklar om hur du tillämpar plåster som finns i QPT 1.1.63, QPT 1.1.64 och QPT 1.1.65 har publicerats och finns i respektive avsnitt. |
+| Juni 2025 | [Säkerhetsuppdatering för Adobe Commerce - APSB25-50](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/security-update-available-for-adobe-commerce-apsb25-50) | Nya artiklar | Den 10 juni 2025 släppte Adobe en regelbundet schemalagd säkerhetsuppdatering för Adobe Commerce och Magento Open Source. |
+| Juni 2025 | [PayPal-sandlådekontot har inte verifierats](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26836) | Nya artiklar | Lär dig mer om lösningarna på problemet när ditt PayPal-sandlådekonto inte har verifierats så att du inte kan slutföra introduktionen med [!UICONTROL Payment Services] i Adobe Commerce. |
+| Juni 2025 | [Åtgärda versionsmatchningsfel i Adobe Commerce i molninfrastrukturen](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26788) | Nya artiklar | Lär dig mer om lösningarna på problemet när distributionen från [!UICONTROL Staging] till Production misslyckas om infrastrukturversionen av Adobe Commerce i molnet i [!UICONTROL Staging] är äldre än i Production. |
+| Juni 2025 | [Betalningsmetoder visas inte vid utcheckning med flera adresser](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26824) | Nya artiklar | Lär dig mer om lösningar på problemet när de flesta betalningsmetoder inte visas i kassan när flera leveransadresser används. |
+| Juni 2025 | [Kreditkortet kunde inte betala i en sandlådemiljö](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26825) | Nya artiklar | Lär dig mer om lösningar på problemet när ett testkreditkort inte fungerar i sandlådemiljö med PayPal API:er. |
+| Juni 2025 | [Felsök installationen av betaltjänster](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26826) | Nya artiklar | Lär dig mer om lösningar på problem där fel uppstår under installationen av betaltjänster. |
+| Juni 2025 | [Försenade betalningstjänstrapportdata](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26837) | Nya artiklar | Lär dig mer om lösningar på problemet när fördröjda betalningstjänster används i Adobe Commerce. |
+| Juni 2025 | [PayPal-gatewayen avvisade begäran - dubblettfakturaproblem](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26838) | Nya artiklar | Lär dig mer om lösningar på problemet när fel uppstår när dubbla faktura-ID:n skickas till PayPal. |
+| Juni 2025 | [Minska utgången `oauth_tokens` före uppgradering 2.4.6](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26848) | Nya artiklar | Lär dig mer om lösningarna på problemet när ett stort antal `oauth_tokens` visas i din `oauth_token`-tabell, vilket kan göra att det tar lång tid att uppgradera till version 2.4.6. |
+| Juni 2025 | [Felsök [!DNL Upgrade Compatibility Tool] fel](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26849) | Nya artiklar | Lär dig mer om lösningar på problemet när fel uppstår när du använder [!DNL Upgrade Compatibility Tool]. |
+| Juni 2025 | [403 fel vid åtkomst av [!DNL Site-Wide Analysis Tool] i Adobe Commerce](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26852) | Nya artiklar | Lär dig mer om lösningar på problemet när 403 fel inträffar när du försöker få åtkomst till [!DNL Site-Wide Analysis Tool] i Adobe Commerce. |
+| Juni 2025 | [Administratörslösenord har sparats som oformaterad text i åtgärdsloggen](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26853) | Nya artiklar | Lär dig mer om lösningarna på problemet när en Commerce-administratör skapar en ny användare med administratörsbehörighet och lösenordet sparas som oformaterad text i databastabellen `magento_logging_event_changes`. |
+| Juni 2025 | [Så här kontrollerar du varför [!DNL cron] inaktiverades](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26854) | Nya artiklar | Lär dig mer om lösningar på problem med [!DNL cron] i Adobe Commerce för molninfrastrukturprodukter. |
+| Juni 2025 | [Webbplatsen är inte tillgänglig på grund av ursprungsinsvepning](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26856) | Nya artiklar | Lär dig mer om lösningarna på problemet när din Adobe Commerce på molninfrastrukturen [!UICONTROL Staging] eller i Production Site Store och/eller Admin inte är tillgänglig. |
+| Juni 2025 | [Problem med plugin-program för disposition vid uppgradering till Adobe Commerce 2.4.4](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26858) | Nya artiklar | Lär dig mer om lösningar på problem med plugin-program för disposition när du uppgraderar från Adobe Commerce 2.4.3 och tidigare till Adobe Commerce 2.4.4 eller senare (när framtida versioner släpps). |
+| Juni 2025 | [Produktbilder visas inte trots [!UICONTROL Product Edit] bildroller](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26859) | Nya artiklar | Lär dig mer om lösningarna på problemet när produktbilder inte visas i din butik, trots att bildroller har angetts på sidan [!UICONTROL Product Edit]. |
+| Juni 2025 | [Elasticsearch visas som sökmotor trots [!DNL OpenSearch] installation](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26877) | Nya artiklar | Lär dig mer om lösningarna på problemet där Elasticsearch fortfarande visas som sökmotor för Adobe Commerce i molnet även efter installation eller uppgradering till [!DNL OpenSearch]. |
+| Juni 2025 | [Distributionen fastnade med felet&quot;Det går inte att överföra programmet till fjärrklustret&quot; ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26878) | Nya artiklar | Lär dig mer om lösningarna på problemet där distributionen fastnar och felmeddelandet finns i distributionsloggen: *Fel: Det går inte att överföra programmet till fjärrklustret.* |
+| Juni 2025 | [Låsta (nedtonade) fält i Commerce Admin](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26879) | Nya artiklar | Lär dig mer om lösningar på problemet när du inte kan ändra låsta (nedtonade) fält i Commerce Admin. |
+| Juni 2025 | [*E: Fel vid verifiering av`routes.yaml`* fel under [!UICONTROL Staging] eller Production Deployment](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26880) | Nya artiklar | Lär dig mer om lösningarna på problemet där du fick *E: Fel vid verifiering av`routes.yaml`*-felmeddelande när du försöker distribuera projektet till [!UICONTROL Staging]- eller produktionsmiljön. |
+| Juni 2025 | [Omdistributionen av miljön misslyckades eller [!DNL MySQL] servern har försvunnit](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26881) | Nya artiklar | Lär dig mer om lösningarna på problemet där det brist på utrymme som tilldelats för [!DNL MySQL] orsakar problem med fast distribution eller databasanslutning. |
+| Juni 2025 | [Omdirigera till överordnad miljö vid åtkomst till den nya integreringsmiljön](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26882) | Nya artiklar | Lär dig mer om lösningarna på problemet där du omdirigeras till den överordnade miljön i stället för att använda en ny integreringsmiljö. |
+| Juni 2025 | [*404* fel vid åtkomst av `robots.txt` i Adobe Commerce i molninfrastruktur](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26885) | Nya artiklar | Lär dig mer om lösningarna på problemet när ett *404* -fel inträffar vid åtkomst av `robots.txt`-filen i Adobe Commerce i molninfrastrukturen. |
+| Juni 2025 | [Lös `robots.txt` så att standardinställningarna inte uppdateras eller visas](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26886) | Nya artiklar | Lär dig mer om lösningarna på problemet där filen `robots.txt` i Adobe Commerce är korrekt konfigurerad, men fortfarande innehåller standardinställningar eller inte kan uppdateras. |
+| Juni 2025 | [*Det går inte att ta bort filen. Varning!unlink: Det finns inget sådant fil- eller katalogfel* från administratören](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26887) | Nya artiklar | Lär dig mer om lösningar på problemet när felet *Det går inte att ta bort filen. Varning!unlink: Det finns inget sådant fil- eller katalogfel* i Commerce Admin när du tömmer JavaScript/CSS. |
+| Juni 2025 | [Exakt matchningssökning fungerar inte i Adobe Commerce 2.4.x](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26888) | Nya artiklar | Lär dig mer om lösningarna på problemet där sökresultat från butiker som använder samma söksträng skiljer sig åt i Adobe Commerce 2.4.x jämfört med Adobe Commerce 2.3.x. |
+| Juni 2025 | [Ta bort filer säkert när diskutrymmet i Adobe Commerce på molninfrastrukturen tar slut](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26889) | Nya artiklar | Lär dig mer om lösningarna på problemet där du har slut på diskutrymme och behöver ta bort filer på ett säkert sätt. |
+| Juni 2025 | [GraphQL-fråga för att dölja kategorier fungerar inte med B2B **[!UICONTROL Shared Catalog]**](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26890) | Nya artiklar | Lär dig mer om lösningar på problemet där GraphQL-frågor ignorerar kategoribehörigheter i Adobe Commerce 2.4.3 med B2B **[!UICONTROL Shared Catalog]** aktiverat. |
+| Juni 2025 | [**laminas/laminas-escape-program 2.7.1** orsakar fel på Adobe Commerce-sidor för frontend och admin ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26891) | Nya artiklar | Lär dig hur du löser ett fel som orsakas av **laminas/laminas-escape er 2.7.1** som påverkar Adobe Commerce klientsida och admin-sidor. |
+| Juni 2025 | [Kan inte spara leverans som URL-nyckel](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26896) | Nya artiklar | Lär dig mer om lösningarna på problemet när du inte kan spara frakt som en URL-nyckel (till exempel: */leverans*) för produkter eller CMS-sidor. |
+| Juni 2025 | [Använd en patch för att fortsätta erbjuda [!DNL DHL] som fraktfirma](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26897) | Nya artiklar | Lär dig hur du kan använda en korrigering som stöd för det uppdaterade 6.2-schemat för att fortsätta erbjuda [!DNL DHL] som fraktfirma. |
+| Juni 2025 | [Den övre navigeringspanelen läses inte in på storefront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26898) | Nya artiklar | Lär dig mer om lösningarna på problemet där vissa sidors innehåll, vanligtvis den översta navigeringspanelen, inte visas i butiken om [!DNL Varnish] används för cachelagring. |
+| Juni 2025 | [Det går inte att ändra **[!UICONTROL Search Engine]** med Commerce Admin (**[!UICONTROL Search Engine]** -menyn är inte tillgänglig)](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26899) | Nya artiklar | Lär dig mer om lösningar på problemet med att inte kunna ändra Adobe Commerce **[!UICONTROL Search Engine]** med Commerce Admin om fältet **[!UICONTROL Search Engine]** inte visas eller om kryssrutan **[!UICONTROL Use system value]** är nedtonad och inte är tillgänglig. |
+| Juni 2025 | [Plugin-program för disposition mot attacker med beroendekonfusion](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26900) | Nya artiklar | Lär dig mer om lösningar på problem med Composer-pluginen som släppts för attacker med beroendekonfusion. |
+| Juni 2025 | [Index har gjorts ogiltiga och `indexer_reindex_all_invalid` körs hela tiden](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26901) | Nya artiklar | Lär dig mer om lösningarna på problemet när sajten har prestandaproblem som orsakas av konstant omindexering. |
+| Juni 2025 | [Långsam prestanda på grund av icke-cachebara sidor](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26903) | Nya artiklar | Lär dig mer om lösningarna på problemet när fler inläsningstider eller avbrott på webbplatsen orsakas av att helsidescachen (till exempel: [!DNL Fastly]) inaktiveras för alla block på sidor som ska cachelagras. |
+| Juni 2025 | [Uppgradera till version 10.0 [!DNL DHL] för att fortsätta erbjuda [!DNL DHL] frakt](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26904) | Nya artiklar | Lär dig mer om lösningarna för att hjälpa handlare att fortsätta erbjuda [!DNL DHL] leverans efter att [!DNL DHL] schemaversion 6.2 togs bort i slutet av december 2022. |
+| Juni 2025 | [Inaktivera utdata från Adobe Commerce Banner för att förbättra webbplatsens prestanda](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26909) | Nya artiklar | Lär dig mer om lösningar på problemet där låg webbplatsprestanda uppstår som orsakas av att modulen `Magento_Banner` är aktiverad men inte används. |
+| Juni 2025 | [Distributionen misslyckades: Det går inte att använda MDVA-43395-korrigering](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26911) | Nya artiklar | Lär dig mer om lösningarna på problemet där försök att använda MDVA-43395-korrigeringen leder till misslyckad distribution. |
+| Juni 2025 | [Distributionen misslyckas med *Fel när projektet byggdes: Byggkroken misslyckades med statuskoden 1*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26912) | Nya artiklar | Lär dig mer om lösningarna på problemet där distributionsprocessens byggfas misslyckas och felmeddelandet sammanfattas med: *Fel när projekt skapades: Byggkroken misslyckades med statuskod 1.* |
+| Juni 2025 | [Distributionsfel från att aktivera tidig alfa [!DNL Baler] modul](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26914) | Nya artiklar | Lär dig mer om lösningar på problemet när distributionsfel inträffar när du använder modulen [!DNL Baler] i en produktionsmiljö. |
+| Juni 2025 | [Distributionen misslyckas med rätt åtkomstnycklar i `env:COMPOSER_AUTH` eller `auth.json`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26921) | Nya artiklar | Lär dig mer om lösningarna på problemet när distributionen misslyckas med en *fil som inte kunde hämtas (HTTP/1.1 404 Hittades inte)* -fel i distributionsloggen. |
+| Juni 2025 | [[!DNL MySQL] tabeller är för stora](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26945) | Nya artiklar | Lär dig mer om lösningarna på problemet när en [!DNL MySQL]-tabell blir större än 1 GB. |
+| Juni 2025 | [Förstå rekommendationer för kökonfiguration i miljögranskningsrapport](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26956) | Nya artiklar | Läs mer om rekommendationer för miljögranskningsrapporter gällande kökonfiguration i Adobe Commerce om molninfrastruktur. |
+| Juni 2025 | [Ta bort leveransplockning från fel adress](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26962) | Nya artiklar | Lär dig mer om lösningar på problemet där leveranslösningen använder standardbutiksadressen i stället för produktens källadress för att släppa frakten. |
 
 +++
 
@@ -449,11 +483,11 @@ Släppt: **10 juli 2025**
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
+|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
-* Information om förhandsversionen finns i [[!DNL Adobe Target] förhandsversion](https://experienceleague.adobe.com/sv/docs/target/using/release-notes/target-release-notes)
-* Aktuell information finns i [[!DNL Adobe Target] versionsinformation](https://experienceleague.adobe.com/sv/docs/target/using/release-notes/release-notes)
+* Information om förhandsversionen finns i [[!DNL Adobe Target] förhandsversion](https://experienceleague.adobe.com/en/docs/target/using/release-notes/target-release-notes)
+* Aktuell information finns i [[!DNL Adobe Target] versionsinformation](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes)
 
 +++
 
@@ -465,13 +499,13 @@ Hämta de senaste uppdateringarna för [!DNL Adobe Campaign]. Hitta nya självst
 
 ### Senaste kampanjproduktreleaser
 
-* [!DNL Web User Interface]: juli 2025 - [Versionsinformation](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: juli 2025 - [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign] v8: 9 juli 2025 - [Versionsinformation](https://experienceleague.adobe.com/sv/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Produktdokumentation](https://experienceleague.adobe.com/sv/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8: 9 juli 2025 - [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Campaign Standard]: 25.1.2 - [Versionsinformation](https://experienceleague.adobe.com/sv/docs/campaign-standard/using/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/sv/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: 25.1.2 - [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
 
-* [!DNL Campaign Classic] 7.4.2: 12 maj 2025 - [Versionsinformation](https://experienceleague.adobe.com/sv/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Produktdokumentation](https://experienceleague.adobe.com/sv/docs/campaign-classic/using/campaign-classic-home)
+* [!DNL Campaign Classic] 7.4.2: 12 maj 2025 - [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
 
 ### Nya [!DNL Campaign] självstudier {#tutorials-campaign}
 
@@ -479,7 +513,7 @@ Nya eller uppdaterade videokurser publicerade för Adobe Campaign.
 
 | Publicerad | Program | Namn | Typ | Beskrivning |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| Juni 2025 | | [Skapa innehåll med AI-assistenten för innehållsgenerering](https://experienceleague.adobe.com/sv/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-content-using-the-ai-assistant) | Ny video | Lär dig hur du använder Adobe AI Assistant Content Accelerator för att generera och anpassa e-postmeddelanden, inklusive ämnesrader, brödtext och bilder, samtidigt som du integrerar varumärkesgodkänt material för enhetlighet och regelefterlevnad. |
+| Juni 2025 | | [Skapa innehåll med AI-assistenten för innehållsgenerering](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-content-using-the-ai-assistant) | Ny video | Lär dig hur du använder Adobe AI Assistant Content Accelerator för att generera och anpassa e-postmeddelanden, inklusive ämnesrader, brödtext och bilder, samtidigt som du integrerar varumärkesgodkänt material för enhetlighet och regelefterlevnad. |
 
 ### Ny kunskapsbas för stöd för [!DNL Campaign]{#kb-campaign}
 
@@ -487,10 +521,10 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Campaign].
 
 | Publicerad | Namn | Typ | Beskrivning |
 |---------|----|----|-----------|
-| Juni 2025 | [Exportproblem efter uppgradering till version 9390 i ACC](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26780) | Ny artikel | Lär dig mer om lösningar på problemet i Adobe Campaign Classic där export av stora datavolymer misslyckas efter uppgradering till version 7.4.1 (build 9390) av klientkonsolen. |
-| Juni 2025 | [Fel vid försök att visa startadresser i Adobe Campaign Classic 7.4.2](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26814) | Ny artikel | Lär dig mer om lösningar på problemet när fel uppstår när du försöker visa startadresser på Adobe Campaign Classic. |
-| Juni 2025 | [Förstå hur meddelandecentret påverkar aktiva profiler i Adobe Campaign v8](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26812) | Ny artikel | Läs om hur Message Center påverkar aktiva profiler i Adobe Campaign v8. |
-| Juni 2025 | [Fel vid rapportgenerering när flera leveranser väljs i Adobe Campaign](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26823) | Ny artikel | Lär dig mer om lösningar på problemet med rapportgenerering när det här felmeddelandet visas: *Ett fel uppstod. Kontakta Adobe Campaign-administratören om problemet kvarstår.* |
+| Juni 2025 | [Exportproblem efter uppgradering till version 9390 i ACC](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26780) | Ny artikel | Lär dig mer om lösningar på problemet i Adobe Campaign Classic där export av stora datavolymer misslyckas efter uppgradering till version 7.4.1 (build 9390) av klientkonsolen. |
+| Juni 2025 | [Fel vid försök att visa startadresser i Adobe Campaign Classic 7.4.2](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26814) | Ny artikel | Lär dig mer om lösningar på problemet när fel uppstår när du försöker visa startadresser på Adobe Campaign Classic. |
+| Juni 2025 | [Förstå hur meddelandecentret påverkar aktiva profiler i Adobe Campaign v8](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26812) | Ny artikel | Läs om hur Message Center påverkar aktiva profiler i Adobe Campaign v8. |
+| Juni 2025 | [Fel vid rapportgenerering när flera leveranser väljs i Adobe Campaign](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26823) | Ny artikel | Lär dig mer om lösningar på problemet med rapportgenerering när det här felmeddelandet visas: *Ett fel uppstod. Kontakta Adobe Campaign-administratören om problemet kvarstår.* |
 
 +++
 
@@ -504,6 +538,20 @@ Läs mer om den senaste versionsinformationen för [!DNL Journey Optimizer]. Se 
 
 Senaste versionen: **juni 2025**
 
+Uppdateringar:
+
+* Adobe Experience Platform datasets in decisioning (beta)
+* RCS-meddelanden
+* Formulärfält i kodbaserat upplevelseinnehåll
+* Innehållsbeslutsaktivitet på resor
+* Körning av resetorr
+* Pausa och återuppta resor
+* Skala din vinnare av experiment
+* Konflikt och prioritering
+* Allmänna förbättringar
+
+**Versionsinformation för AJO**
+
 * Se [Versionsinformation för Journey Optimizer](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/whats-new/release-notes) för uppdateringar och hjälp
 
 **Obs!** [Journey Optimizer för B2B edition](#journey-optimizer-b2b-edition) är en separat produkt.
@@ -514,15 +562,15 @@ Nya självstudiekurser publicerade för Adobe [!DNL Journey Optimizer] på Exper
 
 | Publicerad | Program | Namn | Typ | Beskrivning |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| Juli 2025 | [!DNL Journey Optimizer] | [Guide till gränssnittet Formelbyggaren i Adobe Journey Optimizer](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/formula-builder-ui) | Ny video | Lär dig hur du använder AI-formelverktyget i Adobe Journey Optimizer för att skapa anpassade strategier för rangordning av erbjudanden. |
-| Juli 2025 | [!DNL Journey Optimizer] | [Konfigurera en e-postkanal](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/email-channel/configure-email-channel) | Ny video | Lär dig konfigurera e-postkanalen i Adobe Journey Optimizer. |
-| Juli 2025 | [!DNL Journey Optimizer] | [Lägg till RTF i ett redigerbart fragment](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/content-management/fragments/add-rich-text-to-editable-fragments) | Ny video | Lär dig hur du gör HTML-komponenter i ett fragment redigerbara så att både innehåll och format kan uppdateras dynamiskt. |
-| Juli 2025 | [!DNL Journey Optimizer] | [Använda redigerbara formulärfält i AJO kodbaserade upplevelser](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/editable-fields) | Ny artikel | Lär dig hur du skapar redigerbara innehållsblock med hjälp av interna formulärfält i Adobe Journey Optimizer kodbaserade upplevelsemallar som ger marknadsförarna möjlighet att använda dynamiskt, återanvändbart kampanjinnehåll. |
-| Juli 2025 | [!DNL Journey Optimizer] | [Leverera personalisering med JSON-innehåll i Journey Optimizer](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/json-content-type) | Ny artikel | Använd JSON-innehållstypen i Adobe Journey Optimizer (AJO) för att skapa flexibla, datadrivna personaliseringsupplevelser. |
-| Juli 2025 | [!DNL Journey Optimizer] | [Lägg till formulärfält i kodbaserade upplevelsekanalmallar](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences) | Ny video | Upptäck hur utvecklare kan effektivisera samarbetet med marknadsföringsteam genom att aktivera redigerbara fält i kodbaserade upplevelsekanaler. |
-| Juli 2025 | [!DNL Journey Optimizer] | [Anpassa erbjudanden med rangordningsformler baserat på postnummer och intäkter](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction) | Ny artikel | Använd Adobe Journey Optimizer rankningsformler för att dynamiskt leverera de mest relevanta finansiella erbjudandena - skräddarsydda efter varje användares postnummer och inkomstnivå - för högre engagemang och smartare personalisering. |
-| Juli 2025 | [!DNL Journey Optimizer] | [Samla erbjudanden om interaktion med Adobe Web SDK för AI-modellutbildning](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/capturing-offer-interactions-with-web-sdk-ai-model) | Ny artikel | Lär dig hur du hämtar in interaktionsdata - t.ex. erbjudanden och klickningar - med Adobe Experience Platform Web SDK (alloy.js). Dessa data är grunden för utbildning av AI-modeller i Adobe Journey Optimizer (AJO) på ett intelligent sätt för att rangordna erbjudanden baserat på användarbeteende och sammanhangsbaserade signaler. |
-| Juli 2025 | [!DNL Journey Optimizer] | [Verifiera reslogiken med körning av körning av resedagring](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/create-journeys/journey-dry-run) | Ny video | Lär dig hur du aktiverar en resa i torrkörningsläge, konfigurerar alternativ som att inaktivera väntetider och externa datakällor samt tolkar profilflödesstatistik för att validera målgruppssegmentering och villkorslogik. Förstå hur man identifierar och åtgärdar problem - t.ex. stavfel i villkorsnoder - och hur man får tillgång till och exporterar torrrapporter för ytterligare analys innan resan börjar live. |
+| Juli 2025 | [!DNL Journey Optimizer] | [Guide till gränssnittet Formelbyggaren i Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/formula-builder-ui) | Ny video | Lär dig hur du använder AI-formelverktyget i Adobe Journey Optimizer för att skapa anpassade strategier för rangordning av erbjudanden. |
+| Juli 2025 | [!DNL Journey Optimizer] | [Konfigurera en e-postkanal](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/email-channel/configure-email-channel) | Ny video | Lär dig konfigurera e-postkanalen i Adobe Journey Optimizer. |
+| Juli 2025 | [!DNL Journey Optimizer] | [Lägg till RTF i ett redigerbart fragment](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/fragments/add-rich-text-to-editable-fragments) | Ny video | Lär dig hur du gör HTML-komponenter i ett fragment redigerbara så att både innehåll och format kan uppdateras dynamiskt. |
+| Juli 2025 | [!DNL Journey Optimizer] | [Använda redigerbara formulärfält i AJO kodbaserade upplevelser](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/editable-fields) | Ny artikel | Lär dig hur du skapar redigerbara innehållsblock med hjälp av interna formulärfält i Adobe Journey Optimizer kodbaserade upplevelsemallar som ger marknadsförarna möjlighet att använda dynamiskt, återanvändbart kampanjinnehåll. |
+| Juli 2025 | [!DNL Journey Optimizer] | [Leverera personalisering med JSON-innehåll i Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/json-content-type) | Ny artikel | Använd JSON-innehållstypen i Adobe Journey Optimizer (AJO) för att skapa flexibla, datadrivna personaliseringsupplevelser. |
+| Juli 2025 | [!DNL Journey Optimizer] | [Lägg till formulärfält i kodbaserade upplevelsekanalmallar](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences) | Ny video | Upptäck hur utvecklare kan effektivisera samarbetet med marknadsföringsteam genom att aktivera redigerbara fält i kodbaserade upplevelsekanaler. |
+| Juli 2025 | [!DNL Journey Optimizer] | [Anpassa erbjudanden med rangordningsformler baserat på postnummer och intäkter](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction) | Ny artikel | Använd Adobe Journey Optimizer rankningsformler för att dynamiskt leverera de mest relevanta finansiella erbjudandena - skräddarsydda efter varje användares postnummer och inkomstnivå - för högre engagemang och smartare personalisering. |
+| Juli 2025 | [!DNL Journey Optimizer] | [Samla erbjudanden om interaktion med Adobe Web SDK för AI-modellutbildning](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/capturing-offer-interactions-with-web-sdk-ai-model) | Ny artikel | Lär dig hur du hämtar in interaktionsdata - t.ex. erbjudanden och klickningar - med Adobe Experience Platform Web SDK (alloy.js). Dessa data är grunden för utbildning av AI-modeller i Adobe Journey Optimizer (AJO) på ett intelligent sätt för att rangordna erbjudanden baserat på användarbeteende och sammanhangsbaserade signaler. |
+| Juli 2025 | [!DNL Journey Optimizer] | [Verifiera reslogiken med körning av körning av resedagring](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/journey-dry-run) | Ny video | Lär dig hur du aktiverar en resa i torrkörningsläge, konfigurerar alternativ som att inaktivera väntetider och externa datakällor samt tolkar profilflödesstatistik för att validera målgruppssegmentering och villkorslogik. Förstå hur man identifierar och åtgärdar problem - t.ex. stavfel i villkorsnoder - och hur man får tillgång till och exporterar torrrapporter för ytterligare analys innan resan börjar live. |
 
 ### Ny kunskapsbas för stöd för [!DNL Journey Optimizer]{#kb-ajo}
 
@@ -530,14 +578,14 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Journey Optimiz
 
 | Publicerad | Namn | Typ | Beskrivning |
 |---------|----|----|-----------|
-| Juni 2025 | [Fragment med redigerbara fält fungerar inte i Adobe Journey Optimizer](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26908) | Ny artikel | Lär dig mer om lösningar på problemet när fragment med redigerbara fält inte kan läsas in eller dupliceras oväntat när de läggs till i mallar i AJO. |
-| Juni 2025 | [Spårning av saknade länkar i Adobe Journey Optimizer e-postresor](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26932) | Ny artikel | Lär dig mer om lösningarna på problemet när länkspårning saknas i Adobe Journey Optimizer inträffar när e-post-URL:er använder dynamiska variabler och inte börjar med HTTP, eller när logiksatser placeras i URL-fältet. |
-| Juni 2025 | [Resor godkänns automatiskt i Adobe Journey Orchestration](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26929) | Ny artikel | Läs om lösningarna på problemet där Journeys godkänns automatiskt i Adobe Journey Orchestration. |
+| Juni 2025 | [Fragment med redigerbara fält fungerar inte i Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26908) | Ny artikel | Lär dig mer om lösningar på problemet när fragment med redigerbara fält inte kan läsas in eller dupliceras oväntat när de läggs till i mallar i AJO. |
+| Juni 2025 | [Spårning av saknade länkar i Adobe Journey Optimizer e-postresor](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26932) | Ny artikel | Lär dig mer om lösningarna på problemet när länkspårning saknas i Adobe Journey Optimizer inträffar när e-post-URL:er använder dynamiska variabler och inte börjar med HTTP, eller när logiksatser placeras i URL-fältet. |
+| Juni 2025 | [Resor godkänns automatiskt i Adobe Journey Orchestration](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26929) | Ny artikel | Läs om lösningarna på problemet där Journeys godkänns automatiskt i Adobe Journey Orchestration. |
 
 ### Fler resurser för [!DNL Journey Optimizer]
 
-* [[!DNL Journey Optimizer] dokumentation](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/ajo-home) - [Releaseringsrader](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/whats-new/release-notes) - [Instruktionsvideor](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/overview)
-* [Beslutshanteringsdokumentation](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Versionsinformation](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/whats-new/release-notes) - [Instruktionsvideor](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management) - [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/whats-new/documentation-updates)
+* [[!DNL Journey Optimizer] dokumentation](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/ajo-home) - [Releaseringsrader](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/whats-new/release-notes) - [Instruktionsvideor](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview)
+* [Beslutshanteringsdokumentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Versionsinformation](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/whats-new/release-notes) - [Instruktionsvideor](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management) - [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates)
 
 +++
 
@@ -549,19 +597,28 @@ Läs mer om den senaste versionsinformationen för [!DNL Journey Optimizer B2B E
 
 Senaste versionen: **3 juni 2025**
 
-* [[!DNL Journey Optimizer B2B Edition]](https://experienceleague.adobe.com/sv/docs/journey-optimizer-b2b) (All självhjälp)
+Uppdateringar:
+
+* E-posttestning med Litmus
+* Duplicera e-post
+* Hanteringsfältstokenformat för e-post
+* Visa totalt antal för listor
+
+**AJO B2B-resurser**
+
+* [[!DNL Journey Optimizer B2B Edition]](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b) (All självhjälp)
 * [Versionsinformation](https://experienceleague.adobe.com/sv/docs/journey-optimizer-b2b/user/release-notes) för [!DNL Journey Optimizer B2B Edition]
-* [Produktdokumentation](https://experienceleague.adobe.com/sv/docs/journey-optimizer-b2b/user/guide-overview) för [!DNL Journey Optimizer B2B Edition]
-* [Videoöversikter och självstudiekurser](https://experienceleague.adobe.com/sv/docs/journey-optimizer-b2b-learn/tutorials/overview) för [!DNL Journey Optimizer B2B Edition]
-* [Produktbeskrivning och licensiering](https://helpx.adobe.com/se/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl) för [!DNL Journey Optimizer B2B Edition]
+* [Produktdokumentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview) för [!DNL Journey Optimizer B2B Edition]
+* [Videoöversikter och självstudiekurser](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/overview) för [!DNL Journey Optimizer B2B Edition]
+* [Produktbeskrivning och licensiering](https://helpx.adobe.com/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl) för [!DNL Journey Optimizer B2B Edition]
 
 <!-- New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2025|[Account Journeys](https://experienceleague.adobe.com/sv/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
-|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
-|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
+|February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
 
 Mer information finns i:
 
@@ -579,9 +636,9 @@ Ta reda på den senaste versionsinformationen och releaseplanen för [!DNL Marke
 
 Version: **11 juli 2025**
 
-* [Aktuell versionsinformation](https://experienceleague.adobe.com/sv/docs/marketo/using/release-notes/current)
-* [!DNL Marketo Engage] [frisläppningsschema](https://experienceleague.adobe.com/sv/docs/marketo/using/release-notes/release-schedule)
-* Dynamic Chat [versionsinformation](https://experienceleague.adobe.com/sv/docs/marketo/using/release-notes/dynamic-chat) (**30 juni 2025**)
+* [Aktuell versionsinformation](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current)
+* [!DNL Marketo Engage] [frisläppningsschema](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule)
+* Dynamic Chat [versionsinformation](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/dynamic-chat) (**30 juni 2025**)
 
 <!-- ### New Marketo tutorials {#tutorials-marketo}
 
@@ -589,9 +646,9 @@ New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/sv/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
+|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
 
-Den senaste produktdokumentationen finns i [Marketo produktdokumentation](https://experienceleague.adobe.com/sv/docs/marketo/using/home) - startsidan
+Den senaste produktdokumentationen finns i [Marketo produktdokumentation](https://experienceleague.adobe.com/en/docs/marketo/using/home) - startsidan
 
 ### Ny kunskapsbas för stöd för [!DNL Marketo]
 
@@ -599,7 +656,7 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Marketo].
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Juni 2025 | [Marketo Measure kontaktytor synkroniseras inte till Marketo Engage](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26692) | Ny artikel | Lär dig mer om lösningarna på problemet när Marketo Measure kontaktytor inte visas i Marketo Engage personposter, även om de har synkroniserats till [!DNL Salesforce]. |
+| Juni 2025 | [Marketo Measure kontaktytor synkroniseras inte till Marketo Engage](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26692) | Ny artikel | Lär dig mer om lösningarna på problemet när Marketo Measure kontaktytor inte visas i Marketo Engage personposter, även om de har synkroniserats till [!DNL Salesforce]. |
 
 +++
 
@@ -611,13 +668,13 @@ Läs mer om den senaste versionsinformationen för [!DNL Adobe Workfront]. Hitta
 
 ### [!DNL Adobe Workfront] uppdateringar
 
-* [Andra utgåvan för kvartal 2025 - översikt](https://experienceleague.adobe.com/sv/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)
+* [Andra utgåvan för kvartal 2025 - översikt](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)
 
 För all versionsinformation:
 
-* På sidan [Adobe [!DNL Workfront] produktreleaser](https://experienceleague.adobe.com/sv/docs/workfront/using/product-announcements/product-releases/product-releases) finns information om [!DNL Workfront] publiceringsscheman och versionsinformation.
+* På sidan [Adobe [!DNL Workfront] produktreleaser](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) finns information om [!DNL Workfront] publiceringsscheman och versionsinformation.
 
-* Den senaste informationen om Fusion finns i [Aktivitetsöversikt för Adobe [!DNL Workfront] Fusion](https://experienceleague.adobe.com/sv/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity).
+* Den senaste informationen om Fusion finns i [Aktivitetsöversikt för Adobe [!DNL Workfront] Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity).
 
 ### Nya självstudiekurser för Adobe [!DNL Workfront] {#tutorials-workfront}
 
@@ -625,13 +682,13 @@ Nya [!DNL Workfront] självstudiekurser och evenemang på Experience League.
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Juli 2025 | [Koppla posttyper](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/workfront-planning/connect-record-types) | Ny video | Lär dig koppla ihop posttyper i Workfront Planning för att effektivisera arbetsflöden, öka klarheten och förbättra teamets ansvar och effektivitet. |
-| Juli 2025 | [Skapa en anpassad kalenderrapport](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/calendar-reports/creating-custom-calendars.html?lang=sv-SE) | Ny video | Lär dig hur du skapar en egen anpassad kalender. |
-| Juli 2025 | [Förstå kalenderrapportgränssnittet](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/reporting/calendar-reports/tour-of-the-interface) | Ny video | Lär dig mer om kalendergränssnittet, inklusive kalendergrupperingar, vyer och åtgärder. |
-| Juli 2025 | [Förstå ytterligare alternativ för kalenderrapporter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/calendar-reports/additional-calendar-options.html?lang=sv-SE) | Ny video | Lär dig hur du kopierar, redigerar, delar och tar bort en kalender. |
-| Juli 2025 | [Skapa en aktivitetsrapport](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report) | Ny video | Lär dig hur du skapar en uppgiftsrapport med ett komplext filter och hur du hittar de rapporter du skapar i Adobe Workfront. |
-| Juli 2025 | [Skapa filter med datumbaserade jokertecken](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-date-based-wildcards) | Ny video | Lär dig hur och när datumbaserade jokertecken ska användas och hur du skapar ett filter baserat på aktuellt datum. |
-| Juli 2025 | [Skapa filter med datumbaserade jokertecken](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-date-based-wildcards) | Ny video | Lär dig hur och när datumbaserade jokertecken ska användas och hur du skapar ett filter baserat på aktuellt datum. |
+| Juli 2025 | [Koppla posttyper](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/connect-record-types) | Ny video | Lär dig koppla ihop posttyper i Workfront Planning för att effektivisera arbetsflöden, öka klarheten och förbättra teamets ansvar och effektivitet. |
+| Juli 2025 | [Skapa en anpassad kalenderrapport](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/calendar-reports/creating-custom-calendars.html) | Ny video | Lär dig hur du skapar en egen anpassad kalender. |
+| Juli 2025 | [Förstå kalenderrapportgränssnittet](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/calendar-reports/tour-of-the-interface) | Ny video | Lär dig mer om kalendergränssnittet, inklusive kalendergrupperingar, vyer och åtgärder. |
+| Juli 2025 | [Förstå ytterligare alternativ för kalenderrapporter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/calendar-reports/additional-calendar-options.html) | Ny video | Lär dig hur du kopierar, redigerar, delar och tar bort en kalender. |
+| Juli 2025 | [Skapa en aktivitetsrapport](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report) | Ny video | Lär dig hur du skapar en uppgiftsrapport med ett komplext filter och hur du hittar de rapporter du skapar i Adobe Workfront. |
+| Juli 2025 | [Skapa filter med datumbaserade jokertecken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-date-based-wildcards) | Ny video | Lär dig hur och när datumbaserade jokertecken ska användas och hur du skapar ett filter baserat på aktuellt datum. |
+| Juli 2025 | [Skapa filter med datumbaserade jokertecken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-date-based-wildcards) | Ny video | Lär dig hur och när datumbaserade jokertecken ska användas och hur du skapar ett filter baserat på aktuellt datum. |
 
 ### Ny kunskapsbas för stöd för [!DNL Workfront]
 
@@ -639,9 +696,9 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Workfront].
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Juni 2025 | [Det går inte att redigera utgivningsstatus länkad till projekt i Workfront](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26961) | Ny artikel | Lär dig mer om lösningarna på problemet där du inte kan ändra status manuellt för ett problem som är kopplat till ett projekt, även om du har rätt behörigheter. |
+| Juni 2025 | [Det går inte att redigera utgivningsstatus länkad till projekt i Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26961) | Ny artikel | Lär dig mer om lösningarna på problemet där du inte kan ändra status manuellt för ett problem som är kopplat till ett projekt, även om du har rätt behörigheter. |
 
-Den senaste produktdokumentationen finns på [Adobe [!DNL Workfront] dokumentationsstartsidan](https://experienceleague.adobe.com/sv/docs/workfront/using/home).
+Den senaste produktdokumentationen finns på [Adobe [!DNL Workfront] dokumentationsstartsidan](https://experienceleague.adobe.com/en/docs/workfront/using/home).
 
 +++
 
@@ -651,9 +708,17 @@ Hitta den senaste versionsinformationen och den nya dokumentationen för [!DNL G
 
 +++Versionsinformation och dokumentation
 
-* [2025.06 - Versionsinformation](https://experienceleague.adobe.com/sv/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) för GenStudio for Performance Marketing
-* [GenStudio for Performance Marketing](https://experienceleague.adobe.com/sv/browse/genstudio-for-performance-marketing) (all självhjälp)
-* [Produktdokumentation](https://experienceleague.adobe.com/sv/docs/genstudio-for-performance-marketing/user-guide/home) för GenStudio for Performance Marketing
+Uppdateringar i juni:
+
+* Startmallar är tillgängliga
+* Funktioner för generativ utökning av AI
+* Lägg till videoklipp i annonser
+
+**Versionsinformation och resurser**
+
+* [2025.06 - Versionsinformation](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) för GenStudio for Performance Marketing
+* [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing) (all självhjälp)
+* [Produktdokumentation](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) för GenStudio for Performance Marketing
 * [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html) - produktinformation
 
 +++
@@ -662,10 +727,16 @@ Hitta den senaste versionsinformationen och den nya dokumentationen för [!DNL G
 
 +++Versionsinformation och dokumentation
 
-På följande sidor finns den senaste informationen:
+Uppdateringar i juli:
 
-* Mix Modeler [maj-juli 2025 - Versionsinformation](https://experienceleague.adobe.com/sv/docs/mix-modeler/using/releases/latest)
-* Mix Modeler [produktdokumentation](https://experienceleague.adobe.com/sv/docs/mix-modeler)
+* Målbaserade planer
+* Konfiguration för utgiftsmönster
+* Avancerade plankonfigurationer
+
+**Versionsinformation för Mix Modeler**
+
+* Mix Modeler [maj-juli 2025 - Versionsinformation](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest)
+* Mix Modeler [produktdokumentation](https://experienceleague.adobe.com/en/docs/mix-modeler)
 
 +++
 
@@ -675,19 +746,19 @@ Hitta den senaste versionsinformationen och den nya dokumentationen för [!DNL A
 
 +++Versionsinformation
 
-Om du vill bläddra i hjälpen för Adobe [!DNL Advertising] går du till [Adobe Advertising Documentation](https://experienceleague.adobe.com/sv/docs/advertising).
+Om du vill bläddra i hjälpen för Adobe [!DNL Advertising] går du till [Adobe Advertising Documentation](https://experienceleague.adobe.com/en/docs/advertising).
 
 ### Nya funktioner i [!DNL Advertising DSP] {#advertising-dsp}
 
 2 juli 2025
 
-Se [Nyheter i [!DNL Advertising DSP]](https://experienceleague.adobe.com/sv/docs/advertising/dsp/home)
+Se [Nyheter i [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home)
 
 ### Nya funktioner i [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
 2 juli 2025
 
-Se [Nyheter i [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/sv/docs/advertising/search-social-commerce/home)
+Se [Nyheter i [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
 
 +++
 
@@ -697,7 +768,7 @@ Se [Nyheter i [!DNL Advertising Search, Social, & Commerce]](https://experiencel
 
 +++Dokumentation
 
-I [Adobe Pass-dokumentation](https://experienceleague.adobe.com/sv/docs/pass) finns information om programversioner, systemkrav, begränsningar, åtgärdade problem och kända fel.
+I [Adobe Pass-dokumentation](https://experienceleague.adobe.com/en/docs/pass) finns information om programversioner, systemkrav, begränsningar, åtgärdade problem och kända fel.
 
 +++
 
@@ -711,13 +782,13 @@ Nya självstudiekurser publicerade för [!DNL Document Cloud], inklusive [!DNL A
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| May 2025 | Applications | [Comment on a PDF](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files) |  Updated video | Learn how to add comments on a shared PDF using just a web browser. Whether you're collaborating with a team or proofreading a document, Acrobat's commenting tools make it simple to provide clear and actionable feedback.  | -->
+| May 2025 | Applications | [Comment on a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files) |  Updated video | Learn how to add comments on a shared PDF using just a web browser. Whether you're collaborating with a team or proofreading a document, Acrobat's commenting tools make it simple to provide clear and actionable feedback.  | -->
 
 Om du vill bläddra bland [!DNL Document Cloud] självstudiekurser kan du läsa:
 
-* [Adobe Acrobat](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/overview)
-* [Adobe Acrobat Sign](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/sign-learning-hub/overview)
-* [Adobe Acrobat Services API-självstudiekurser](https://experienceleague.adobe.com/sv/docs/acrobat-services-learn/tutorials/overview)
+* [Adobe Acrobat](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/overview)
+* [Adobe Acrobat Sign](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/overview)
+* [Adobe Acrobat Services API-självstudiekurser](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/overview)
 * [Document Cloud – Läs mer och support](https://helpx.adobe.com/se/support/document-cloud.html)
 
 +++
@@ -730,38 +801,38 @@ Nya självstudiekurser publicerade för program i [!DNL Adobe Creative Cloud for
 
 <!-- | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/sv/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
-| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/sv/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
+| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
+| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
 
-Se [Creative Cloud for enterprise-självstudiekurser](https://experienceleague.adobe.com/sv/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) för att hitta de senaste självstudiekurserna.
+Se [Creative Cloud for enterprise-självstudiekurser](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) för att hitta de senaste självstudiekurserna.
 
 +++
 
 ## Kunddatahantering - Voices {#voices}
 
-[Voices för kunddatahantering](https://experienceleague.adobe.com/sv/docs/events/customer-data-management-voices-recordings/overview) är ditt mål som ansvarig och specialist för kunddatahantering. Den här samlingen självstudiekurser är den självstudiekurs du behöver för att höra från kollegor, få inspiration och lära dig mer om utvecklingen i MarTech. Ingen registrering behövs. Klicka bara och titta.
+[Voices för kunddatahantering](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview) är ditt mål som ansvarig och specialist för kunddatahantering. Den här samlingen självstudiekurser är den självstudiekurs du behöver för att höra från kollegor, få inspiration och lära dig mer om utvecklingen i MarTech. Ingen registrering behövs. Klicka bara och titta.
 
 ## Digital Experience-utkast {#blueprints}
 
-[Digitala upplevelseutkast](https://experienceleague.adobe.com/sv/docs/blueprints-learn/architecture/overview) är repeterbara implementeringar som gör att du kan hantera strategier och snabbt lösa etablerade affärsproblem. Varje utkast innehåller en serie artefakter som förklarar de mest värdefulla problemen, arkitekturer, implementeringssteg, tekniska överväganden och länkar till relevant dokumentation.
+[Digitala upplevelseutkast](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview) är repeterbara implementeringar som gör att du kan hantera strategier och snabbt lösa etablerade affärsproblem. Varje utkast innehåller en serie artefakter som förklarar de mest värdefulla problemen, arkitekturer, implementeringssteg, tekniska överväganden och länkar till relevant dokumentation.
 
 <!-- |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2025|[Guardrails](https://experienceleague.adobe.com/sv/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails)|Updated article |Learn about guardrails, the performance expectations and impact for the components and services within Adobe Experience Platform and Applications.| -->
+|January 2025|[Guardrails](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails)|Updated article |Learn about guardrails, the performance expectations and impact for the components and services within Adobe Experience Platform and Applications.| -->
 
 <!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/sv/docs/certification/program/overview) site on Experience League. 
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
 
 +++Details
 
-The [Experience Cloud Certification](https://experienceleague.adobe.com/sv/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
+The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
 * Available certifications
 * Certification renewals for Adobe applications
 * Certification program updates
 
-And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/sv/docs/certification/program/overview) on Experience League and start your certification journey today!
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
 
 +++ -->
 
