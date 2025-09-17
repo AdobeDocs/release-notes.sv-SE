@@ -1,14 +1,14 @@
 ---
 description: Tidigare versionsinformation om Experience Cloud produkter och tjänster. Hitta ny hjälp och självstudiekurser för Creative Cloud for Enterprise och Document Cloud.
 seo-description: New features and fixes in the Adobe Experience Cloud - 2018 and earlier.
-title: Versionsinformation för 2018 och tidigare
+title: Versionsinformation för central version 2018 och tidigare
 solution: Experience Cloud,Analytics,Target,Advertising
-seo-title: Release Notes for 2018 and Earlier for Adobe Experience Cloud
+seo-title: Central Release Notes for 2018 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 exl-id: 4e553328-1e96-48d6-addd-ff51be5eb6df
-source-git-commit: eef9efd5591a9bdf3bdd0d89237b75304c49bc55
+source-git-commit: 6fb2d115be0b2d8dacd5b24218b0c647fad782b2
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---

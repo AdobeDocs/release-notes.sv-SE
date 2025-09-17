@@ -2,13 +2,13 @@
 cloud: Experience Cloud, Experience Platform
 product: experience cloud
 user-guide-title: Versionsinformation om Adobe Experience Cloud
-breadcrumb-title: Versionsinformation
+breadcrumb-title: Versionsinformation för central
 user-guide-description: Lär dig om nya funktioner, korrigeringar och viktiga meddelanden i Adobe Experience Cloud och Experience Platform.
 user-guide-url: https://www.adobe.com
-source-git-commit: 1394b4e413867e8170a5ae1d6cd3f45fb854e1c8
+source-git-commit: ead4489c7199749dbf8fec8bd596c4968005627c
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 77%
+source-wordcount: '102'
+ht-degree: 73%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 77%
 + [Aktuella versionsinformation](current.md)
 + Tidigare versionsinformation {#previous}
    + 2025 {#2025}
+      + [Augusti 2025](c-legacy-releases/2025/08132025.md)
       + [Juli 2025](c-legacy-releases/2025/07162025.md)
       + [Juni 2025](c-legacy-releases/2025/06182025.md)
       + [Maj 2025](c-legacy-releases/2025/05142025.md)
@@ -28,7 +29,7 @@ ht-degree: 77%
    + 2024 {#2024}
       + [November 2024](c-legacy-releases/2024/10232024.md)
       + [September 2024](c-legacy-releases/2024/09122024.md)
-      + [Augusti 2024](c-legacy-releases/2024/09142023.md)
+      + [Augusti 2024](c-legacy-releases/2024/08142024.md)
       + [Juli 2024](c-legacy-releases/2024/07172024.md)
       + [Juni 2024](c-legacy-releases/2024/06122024.md)
       + [Maj 2024](c-legacy-releases/2024/05152024.md)
