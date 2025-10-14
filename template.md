@@ -1,13 +1,13 @@
 ---
 title: Versionsinformation om Adobe Experience Cloud
-description: Versionsinformation om Experience Cloud
+description: Versionsinformation för Experience Cloud
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
+source-git-commit: 6ee325d5194c99b4d828f8d335dfd8583077d1e9
 workflow-type: tm+mt
-source-wordcount: '690'
-ht-degree: 40%
+source-wordcount: '687'
+ht-degree: 35%
 
 ---
 
@@ -29,12 +29,12 @@ Nya funktioner och korrigeringar i Adobe Experience Cloud.
 Senaste uppdatering: **September 2021**
 
 * [Experience League Live Events](#events)
-* [Gränssnittskomponenter i Experience Cloud](#ecloud)
-* [Adobe – systemstatus](#status)
+* [Viktiga gränssnittskomponenter i Experience Cloud](#ecloud)
+* [Adobe systemstatus](#status)
 * [Experience Platform](#platform)
-* [Experience Platform programtjänster](#services)
+* [Experience Platform Application Services](#services)
 * [Journey Optimizer](#journey-opt)
-* [[!DNL Analytics]](#analytics)och [Customer Journey Analytics](#cust-journey)
+* [[!DNL Analytics]](#analytics) och [Customer Journey Analytics](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -44,15 +44,15 @@ Senaste uppdatering: **September 2021**
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [Document Cloud](#doc-cloud)
-* [Creative Cloud för företag](#creative-cloud)
+* [Creative Cloud for enterprise](#creative-cloud)
 
-## Adobe – systemstatus {#status}
+## Adobe systemstatus {#status}
 
 Funktioner och korrigeringar.
 
 Se [Adobe systemstatus](https://status.adobe.com/).
 
-## ![Ikon](/assets/ec_appicon_24.png) Experience Cloud Central UI Components {#ecloud}
+## Viktiga användargränssnittkomponenter i Experience Cloud {#ecloud}
 
 Experience Cloud Central Interface Components innehåller uppdateringar som du kommer åt från det enhetliga produkthuvudet, som självhjälp, sökning och inställningar för användarkonton. Uppdateringar av personer, platser (plats) och produkthantering finns här.
 
@@ -64,15 +64,15 @@ Funktioner och korrigeringar.
 
 Funktioner och korrigeringar.
 
-## ![Ikon för](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+## Experience Platform {#platform}
 
 Versionsinformation för [!DNL Experience Platform,] inklusive [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services] och säkerhetsbulletiner.
 
 * [Experience Cloud ID-tjänst](#ecid)
-* [Versionsinformation för Experience Platform](https://www.adobe.com/go/platform-release-notes-en_se)
+* [Versionsinformation för Experience Platform](https://www.adobe.com/go/platform-release-notes-en)
 * [Experience Platform Launch](#launch)
 * [Journey Orchestration](#journey)
-* [Mobile Services och SDK:er för mobiler](#mobile)
+* [Mobiltjänster och SDK för mobiler](#mobile)
 
 ### [!UICONTROL Experience Cloud ID Service] {#ecid}
 
@@ -84,7 +84,7 @@ Se
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
-Använda Adobe [!UICONTROL Experience Platform,] samordna individuella kundresor i stor skala över upplevelsekanaler genom att intelligent förutse varje enskild individs behov i realtid, oavsett vart resan tar dem.
+Med Adobe [!UICONTROL Experience Platform,] kan du samordna enskilda kundresor i stor skala över olika upplevelsekanaler genom att intelligent förutse varje individs behov i realtid, oavsett vart resan tar dem.
 
 #### Ytterligare resurser för [!UICONTROL Journey Orchestration]
 
@@ -181,9 +181,9 @@ Beskrivning
 
 ### Självhjälp
 
-**Dokumentation i samarbete**
+**Dokumentation för samarbete**
 
-Följande AEM dokumentationsuppsättningar har migrerats till en ny dokumentationsplattform för samarbete.
+Följande AEM-dokumentationsuppsättningar har migrerats till en ny dokumentationsplattform för samarbete.
 
 * Dokumentnamn
 * Dokumentnamn
@@ -230,7 +230,7 @@ Adobe Campaign är ett intuitivt och automatiserat sätt att leverera personliga
 
 Text
 
-## Reklam {#adcloud}
+## Advertising {#adcloud}
 
 | Funktion | Beskrivning |
 | ------- | ------- |
@@ -276,11 +276,11 @@ Följande funktioner släpps under kvartalet:
 
 ### Meddelanden
 
-**Marketo Engage Success Center:** Startar i februari 2020. Success Center är ett hjälpcenter i produkten som gör att du kan söka i produktdokumentation och communityn, starta instruktionsguider, komma åt hjälpavsnitt och mycket annat. Obs! Den här funktionen lanseras som en betaversion i ANZ och kommer att lanseras i Nordamerika senare under kvartalet.
+**Marketo Engage Success Center:** Startar i februari 2020. Success Center är ett hjälpcenter i produkten som gör att du kan söka i produktdokumentation och communityn, starta instruktionsguider, komma åt hjälpavsnitt och mycket annat. Obs! Den här funktionen startas som en betaversion i ANZ och kommer att lanseras i Nordamerika senare under kvartalet.
 
 ### Utgånget
 
-* **Resurs-API &quot;_method&quot;-parameter:** Efter september 2020 kommer Resurs-API-slutpunkter inte längre att acceptera &quot;_method&quot; för att skicka Query Parameters i en POST för att kringgå URI-längdbegränsningar.
+* **Resurs-API-parametern &quot;_method&quot;:** Efter september 2020 accepterar inte längre resurs-API-slutpunkter &quot;_method&quot; för att skicka frågeparametrar i ett POST-brödtext för att kringgå URI-längdbegränsningar.
 * **Stöd för Internet Explorer har tagits bort:** Från och med juliversionen den 31 juli 2020 stöds inte längre gränssnittet Marketo Engage i Internet Explorer.
 
 ### Nya kurser och självstudiekurser för lösningens namn
