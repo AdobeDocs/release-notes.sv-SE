@@ -83,7 +83,7 @@ Hitta de senaste utbildningsresurserna som publicerats för generativa AI- (genA
 | ------- | ------- | ------- | ------- |
 | AI-dokumentation - startsida | [AI-dokumentation](https://experienceleague.adobe.com/en/docs/ai) | Om du vill hitta länkar till information om AI-funktioner (generativa AI- och AI-agenter) i Experience Cloud går du till landningen av den nya produktdokumentationen. | Oktober 2025 |
 | [!DNL Experience Cloud] | [AI-agenter i [!DNL Experience Cloud]](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Hitta hjälp eller kontrollera om AI-agenter finns i Experience Cloud. | Uppdaterad oktober 2025 |
-| Acrobat | [Förbättra teamets effektivitet med PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal) | Omvandla samlingar av filer och webbplatser till kunskapsbanker som kan delas och konverteras med personaliserade AI-assistenter. | Oktober 2025 |
+| Acrobat | [Förbättra teamets effektivitet med PDF Spaces](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal) | Omvandla samlingar av filer och webbplatser till kunskapsbanker som kan delas och konverteras med personaliserade AI-assistenter. | Oktober 2025 |
 | [!DNL AEM CS] | [AEM AI Assistant](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-ai-assisstant) | Läs om hur Experience Manager AI Assistant förenklar arbetsflödena. | Oktober 2025 |
 | [!DNL Experience Platform] | [Data Insights Agent - översikt](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/data-insights-agent-overview) | Data Insight Agent utnyttjar händelser, profiler, resor och offlinedata och förenklar identifiering och möjliggör direkt personaliserade instrumentpaneler. | Oktober 2025 |
 | [!DNL Experience Platform] | [Journey Agent - översikt](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/journey-agent-overview) | Journey Agent använder AI för att skapa, analysera och optimera B2B/B2C-resor via ett konversationsgränssnitt. | Oktober 2025 |
@@ -348,7 +348,7 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Experience Mana
 | September 2025 | [Jokerteckenfrågan i `bulkStatus` flaggar giltiga sidor som *ingen källa* i AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27583) | Ny artikel | Lär dig mer om lösningar på problemet i AEMaaCS när en jokerteckenfråga i `bulkStatus` flaggar giltiga sidor som *ingen källa*. |
 | September 2025 | [[!UICONTROL Bearer token] och JWT-generering misslyckas för API:t för DA Admin i AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27613) | Ny artikel | Lär dig mer om lösningarna på problemet i AEMaaCS - Webbplatser när [!UICONTROL Bearer token] och JSON Web Token (JWT) genereras misslyckas med att autentisera API-anrop för Document Authoring (DA) Admin. |
 | September 2025 | [Inga resurser visas i AEM Editor](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27643) | Ny artikel | Lär dig mer om lösningar på problemet i AEMaaCS - Assets när [!UICONTROL Editor] inte kan visa några resurser, inklusive tidigare publicerade sådana. |
-| September 2025 | [`Coral.FileUpload` kan inte läsas in i AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27659) | Ny artikel | Lär dig mer om lösningar på problemet i AEMaaCS - Assets när komponenten `Coral.FileUpload` inte kan återges eller fungera när den infogas på sidor som `/aem/start.html`. |
+| September 2025 | [`Coral.FileUpload` kan inte läsas in i AEMaaCS](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27659) | Ny artikel | Lär dig mer om lösningar på problemet i AEMaaCS - Assets när komponenten `Coral.FileUpload` inte kan återges eller fungera när den infogas på sidor som `/aem/start.html`. |
 | September 2025 | [ACS [!DNL AEM Commons] button not visible in AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27660) | Ny artikel | Lär dig mer om lösningar på problemet i AEMaaCS när du installerar ACS [!DNL AEM Commons] via filen `pom.xml` visas inte den förväntade menyn under avsnittet **[!UICONTROL Tools]**. |
 | September 2025 | [Massmetadataredigering fungerar inte i AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27705) | Ny artikel | Lär dig mer om lösningar på problemet i AEMaaCS - Assets när massredigeringar av metadata inte sparas när enskilda resurser redigeras separat och sedan väljs om innan de sparas. |
 | September 2025 | [Inkonsekvent popup-beteende i AEM Assets på grund av  [!DNL Unified Shell] inställningar](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27066) | Ny artikel | Lär dig mer om lösningar på problemet i AEMaaCS - Assets när popup-fönster i [!UICONTROL Content Fragment List View] överlappar huvud- eller översta raden i produktions- och utvecklingsmiljöer, men inte på scenen. |
@@ -445,13 +445,13 @@ Hämta de senaste uppdateringarna för [!DNL Adobe Campaign]. Hitta nya självst
 
 ### Senaste kampanjproduktreleaser
 
-* [!DNL Web User Interface]: 9 oktober 2025 - [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: 9 oktober 2025 - [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/sv/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign] v8: 9 oktober 2025 - [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8: 9 oktober 2025 - [Versionsinformation](https://experienceleague.adobe.com/sv/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
 * [!DNL Campaign Standard]: 25.2 - Sommaren 2025 - [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
 
-* [!DNL Campaign Classic] 7.4.2: 12 maj 2025 - [Versionsinformation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
+* [!DNL Campaign Classic] 7.4.2: 12 maj 2025 - [Versionsinformation](https://experienceleague.adobe.com/sv/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Produktdokumentation](https://experienceleague.adobe.com/sv/docs/campaign-classic/using/campaign-classic-home)
 
 <!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
@@ -459,8 +459,8 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|August 2025|Campaign v8 Web User Interface |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)| Video tutorial |Learn how to use the generative AI powered Content Generator to create and enhance the email content, optimizing your email deliveries to better resonate with your audience.|
-|August 2025|Campaign v8 Web User Interface |[Configure JavaScript code activity](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity)| Video tutorial |Learn how to use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. View real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
+|August 2025|Campaign v8 Web User Interface |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/sv/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)| Video tutorial |Learn how to use the generative AI powered Content Generator to create and enhance the email content, optimizing your email deliveries to better resonate with your audience.|
+|August 2025|Campaign v8 Web User Interface |[Configure JavaScript code activity](https://experienceleague.adobe.com/sv/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity)| Video tutorial |Learn how to use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. View real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
  -->
 
 ### Ny kunskapsbas för stöd för [!DNL Campaign]{#kb-campaign}
@@ -469,14 +469,14 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Campaign].
 
 | Publicerad | Namn | Typ | Beskrivning |
 |---------|----|----|-----------|
-| September 2025 | [*SCM-120001: Det går inte att analysera schemat* i Adobe Campaign Managed Cloud](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27589) | Ny artikel | Lär dig mer om lösningarna på problemet när du använder Adobe Campaign Managed Cloud (ACC) version 8, fel som *SCM-120001: Det går inte att tolka schema* och *DEL-430014* förhindrar åtkomst till leverans- och mallinformation i ACC [!UICONTROL Client Console] . |
-| September 2025 | [Det går inte att hämta SMTP-loggar i Adobe Campaign Managed Cloud](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27591) | Ny artikel | Lär dig mer om lösningar på problemet när du inte kan hämta SMTP-loggar i Adobe Campaign Managed Cloud. |
-| September 2025 | [E-postmeddelanden i karantän som filtrerats från leveranser visas inte i karantäntabellen i ACS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27514) | Ny artikel | Lär dig mer om lösningar på problemet när e-postadresser exkluderas under leverans på grund av karantän, men de visas inte i `nms:address`-karantäntabellen i ACS. |
-| September 2025 | [Rapportera om sändningsfunktion fungerar inte i Campaign Standard efter uppgradering](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27559) | Ny artikel | Lär dig mer om lösningar på problemet där schemalagda rapporter per timme inte skickar efteruppgraderingar i ACS. |
-| September 2025 | [SSL-certifikatfel blockerar AEM-synkronisering i Campaign Classic](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27704) | Ny artikel | Lär dig mer om lösningarna på problemet när felet `IOB-090020 Error in SSL library: 'IOB-090013 error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed (code 337047686)'` visas i Adobe Campaign Classic Hosted vid försök att synkronisera innehåll med Adobe Experience Manager (AEM) eller skicka korrektur. |
-| September 2025 | [Temporärt målgruppsschema har inte definierats i Adobe Campaign](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27525) | Ny artikel | Lär dig mer om lösningarna på problemet när arbetsflöden i Adobe Campaign Classic v8 kan misslyckas efter migrering på grund av att det saknas tillfälliga målgruppsscheman. |
-| September 2025 | [Korrekturmeddelanden visar standardinnehåll i Adobe Campaign v8](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27578) | Ny artikel | Lär dig mer om lösningarna på problemet när du skickar ett korrekturmeddelande med profilersättningar i Adobe Campaign v8. Den första arbetsflödeskörningen visar bara standardinnehåll i stället för dynamiska variationer från måldata. |
-| September 2025 | [Leveransen fortsätter efter att du klickat på knappen **[!UICONTROL Stop]** i Adobe Campaign](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27427) | Ny artikel | Lär dig mer om lösningarna på problemet när en leverans med vågor i Adobe Campaign (v7/v8 med [!DNL Momentum]) inte kan stoppas när den har bearbetats av mittkällservern och skickats till [!DNL Momentum], trots att knappen **[!UICONTROL Stop]** visas i användargränssnittet. |
+| September 2025 | [*SCM-120001: Det går inte att analysera schemat* i Adobe Campaign Managed Cloud](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27589) | Ny artikel | Lär dig mer om lösningarna på problemet när du använder Adobe Campaign Managed Cloud (ACC) version 8, fel som *SCM-120001: Det går inte att tolka schema* och *DEL-430014* förhindrar åtkomst till leverans- och mallinformation i ACC [!UICONTROL Client Console] . |
+| September 2025 | [Det går inte att hämta SMTP-loggar i Adobe Campaign Managed Cloud](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27591) | Ny artikel | Lär dig mer om lösningar på problemet när du inte kan hämta SMTP-loggar i Adobe Campaign Managed Cloud. |
+| September 2025 | [E-postmeddelanden i karantän som filtrerats från leveranser visas inte i karantäntabellen i ACS](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27514) | Ny artikel | Lär dig mer om lösningar på problemet när e-postadresser exkluderas under leverans på grund av karantän, men de visas inte i `nms:address`-karantäntabellen i ACS. |
+| September 2025 | [Rapportera om sändningsfunktion fungerar inte i Campaign Standard efter uppgradering](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27559) | Ny artikel | Lär dig mer om lösningar på problemet där schemalagda rapporter per timme inte skickar efteruppgraderingar i ACS. |
+| September 2025 | [SSL-certifikatfel blockerar AEM-synkronisering i Campaign Classic](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27704) | Ny artikel | Lär dig mer om lösningarna på problemet när felet `IOB-090020 Error in SSL library: 'IOB-090013 error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed (code 337047686)'` visas i Adobe Campaign Classic Hosted vid försök att synkronisera innehåll med Adobe Experience Manager (AEM) eller skicka korrektur. |
+| September 2025 | [Temporärt målgruppsschema har inte definierats i Adobe Campaign](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27525) | Ny artikel | Lär dig mer om lösningarna på problemet när arbetsflöden i Adobe Campaign Classic v8 kan misslyckas efter migrering på grund av att det saknas tillfälliga målgruppsscheman. |
+| September 2025 | [Korrekturmeddelanden visar standardinnehåll i Adobe Campaign v8](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27578) | Ny artikel | Lär dig mer om lösningarna på problemet när du skickar ett korrekturmeddelande med profilersättningar i Adobe Campaign v8. Den första arbetsflödeskörningen visar bara standardinnehåll i stället för dynamiska variationer från måldata. |
+| September 2025 | [Leveransen fortsätter efter att du klickat på knappen **[!UICONTROL Stop]** i Adobe Campaign](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27427) | Ny artikel | Lär dig mer om lösningarna på problemet när en leverans med vågor i Adobe Campaign (v7/v8 med [!DNL Momentum]) inte kan stoppas när den har bearbetats av mittkällservern och skickats till [!DNL Momentum], trots att knappen **[!UICONTROL Stop]** visas i användargränssnittet. |
 
 +++
 
@@ -500,8 +500,8 @@ Nya självstudiekurser publicerade för Adobe [!DNL Journey Optimizer] på Exper
 
 | Publicerad | Program | Namn | Typ | Beskrivning |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| Oktober 2025 | [!DNL Journey Optimizer] | [Övervaka och analysera din resa med reserapporter](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports) | Video | Förstå hur ni kan spåra resultatet för enskilda resor hur användarna interagerar med olika steg i en resa, inklusive in- och utförselstatistik, fel och genomförda åtgärder. |
-| Oktober 2025 | [!DNL Journey Optimizer] | [Utlös Adobe Journey Optimizer Journey med Adobe Web SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/trigger-journey-on-user-login) | Video | Lär dig hur du påbörjar en Adobe Journey Optimizer-resa från sajthändelser som användarinloggningar genom att utnyttja AEP Web SDK som konfigurerats via Adobe Experience Platform Tags |
+| Oktober 2025 | [!DNL Journey Optimizer] | [Övervaka och analysera din resa med reserapporter](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports) | Video | Förstå hur ni kan spåra resultatet för enskilda resor hur användarna interagerar med olika steg i en resa, inklusive in- och utförselstatistik, fel och genomförda åtgärder. |
+| Oktober 2025 | [!DNL Journey Optimizer] | [Utlös Adobe Journey Optimizer Journey med Adobe Web SDK](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/trigger-journey-on-user-login) | Video | Lär dig hur du påbörjar en Adobe Journey Optimizer-resa från sajthändelser som användarinloggningar genom att utnyttja AEP Web SDK som konfigurerats via Adobe Experience Platform Tags |
 
 ### Ny kunskapsbas för stöd för [!DNL Journey Optimizer]{#kb-ajo}
 
@@ -509,12 +509,12 @@ Nya artiklar och uppdateringar av befintliga artiklar för [!DNL Journey Optimiz
 
 | Publicerad | Namn | Typ | Beskrivning |
 |---------|----|----|-----------|
-| September 2025 | [Valideringsfel vid användning av nyckelordet `next` i AJO [!UICONTROL personalization editor]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27510) | Ny artikel | Lär dig mer om lösningar på problemet när skriptuttryck som innehåller nyckelordet `next` utlöser ett valideringsfel i [!UICONTROL personalization editor]. |
+| September 2025 | [Valideringsfel vid användning av nyckelordet `next` i AJO [!UICONTROL personalization editor]](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27510) | Ny artikel | Lär dig mer om lösningar på problemet när skriptuttryck som innehåller nyckelordet `next` utlöser ett valideringsfel i [!UICONTROL personalization editor]. |
 
 ### Fler resurser för [!DNL Journey Optimizer]
 
-* [[!DNL Journey Optimizer] dokumentation](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/ajo-home) - [Releaseringsrader](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/whats-new/release-notes) - [Instruktionsvideor](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview)
-* [Beslutshanteringsdokumentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Versionsinformation](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/whats-new/release-notes) - [Instruktionsvideor](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management) - [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates)
+* [[!DNL Journey Optimizer] dokumentation](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/ajo-home) - [Releaseringsrader](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/whats-new/release-notes) - [Instruktionsvideor](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/overview)
+* [Beslutshanteringsdokumentation](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Versionsinformation](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/whats-new/release-notes) - [Instruktionsvideor](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management) - [Senaste dokumentationsuppdateringar](https://experienceleague.adobe.com/sv/docs/journey-optimizer/using/whats-new/documentation-updates)
 
 +++
 
@@ -530,18 +530,18 @@ Mer information finns i [Versionsinformation för AJO B2B edition](https://exper
 
 **AJO B2B-resurser**
 
-* [[!DNL Journey Optimizer B2B Edition]](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b) (All självhjälp)
-* [Produktdokumentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview) för [!DNL Journey Optimizer B2B Edition]
-* [Videoöversikter och självstudiekurser](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/overview) för [!DNL Journey Optimizer B2B Edition]
-* [Produktbeskrivning och licensiering](https://helpx.adobe.com/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl) för [!DNL Journey Optimizer B2B Edition]
+* [[!DNL Journey Optimizer B2B Edition]](https://experienceleague.adobe.com/sv/docs/journey-optimizer-b2b) (All självhjälp)
+* [Produktdokumentation](https://experienceleague.adobe.com/sv/docs/journey-optimizer-b2b/user/guide-overview) för [!DNL Journey Optimizer B2B Edition]
+* [Videoöversikter och självstudiekurser](https://experienceleague.adobe.com/sv/docs/journey-optimizer-b2b-learn/tutorials/overview) för [!DNL Journey Optimizer B2B Edition]
+* [Produktbeskrivning och licensiering](https://helpx.adobe.com/se/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl) för [!DNL Journey Optimizer B2B Edition]
 
 <!-- New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
-|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
-|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
+|February 2025|[Account Journeys](https://experienceleague.adobe.com/sv/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
 
 +++
 
@@ -555,9 +555,9 @@ Ta reda på den senaste versionsinformationen och releaseplanen för [!DNL Marke
 
 Version: **September 2025**
 
-* [Aktuell versionsinformation](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current)
-* [!DNL Marketo Engage] [frisläppningsschema](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule)
-* Dynamic Chat [versionsinformation](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/dynamic-chat) (30 juni 2025)
+* [Aktuell versionsinformation](https://experienceleague.adobe.com/sv/docs/marketo/using/release-notes/current)
+* [!DNL Marketo Engage] [frisläppningsschema](https://experienceleague.adobe.com/sv/docs/marketo/using/release-notes/release-schedule)
+* Dynamic Chat [versionsinformation](https://experienceleague.adobe.com/sv/docs/marketo/using/release-notes/dynamic-chat) (30 juni 2025)
 
 <!-- ### New Marketo tutorials {#tutorials-marketo}
 
@@ -565,9 +565,9 @@ New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
+|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/sv/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
 
-Den senaste produktdokumentationen finns i [Marketo produktdokumentation](https://experienceleague.adobe.com/en/docs/marketo/using/home) - startsidan
+Den senaste produktdokumentationen finns i [Marketo produktdokumentation](https://experienceleague.adobe.com/sv/docs/marketo/using/home) - startsidan
 
 <!-- ### New [!DNL Marketo] support knowledge base
 
@@ -575,7 +575,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|July 2025|[Marketo Measure touchpoints not syncing to Marketo Engage](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26692)|New article| Learn about the solutions to the issue when Marketo Measure touchpoints don't appear in Marketo Engage person records, even though they sync successfully to [!DNL Salesforce].| 
+|July 2025|[Marketo Measure touchpoints not syncing to Marketo Engage](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-26692)|New article| Learn about the solutions to the issue when Marketo Measure touchpoints don't appear in Marketo Engage person records, even though they sync successfully to [!DNL Salesforce].| 
 -->
 
 +++
@@ -588,13 +588,13 @@ Läs mer om den senaste versionsinformationen för [!DNL Adobe Workfront]. Hitta
 
 ### [!DNL Adobe Workfront] uppdateringar
 
-* [Översikt över den fjärde utgåvan, kvartal 2025](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview)
+* [Översikt över den fjärde utgåvan, kvartal 2025](https://experienceleague.adobe.com/sv/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview)
 
 För all versionsinformation:
 
-* På sidan [Adobe [!DNL Workfront] produktreleaser](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) finns information om [!DNL Workfront] publiceringsscheman och versionsinformation.
+* På sidan [Adobe [!DNL Workfront] produktreleaser](https://experienceleague.adobe.com/sv/docs/workfront/using/product-announcements/product-releases/product-releases) finns information om [!DNL Workfront] publiceringsscheman och versionsinformation.
 
-* Den senaste informationen om Fusion finns i [Aktivitetsöversikt för Adobe [!DNL Workfront] Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity).
+* Den senaste informationen om Fusion finns i [Aktivitetsöversikt för Adobe [!DNL Workfront] Fusion](https://experienceleague.adobe.com/sv/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity).
 
 ### Nya självstudiekurser för Adobe [!DNL Workfront] {#tutorials-workfront}
 
@@ -602,10 +602,10 @@ Nya [!DNL Workfront] självstudiekurser och evenemang på Experience League.
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Oktober 2025 | [Skapa en KPI-rapport på en arbetsytans kontrollpanel](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard) | Video | Lär dig hur du skapar en KPI-rapport på en Canvas Dashboard. |
-| Oktober 2025 | [Skapa en tabellrapport på en arbetsytans kontrollpanel](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard) | Video | Lär dig hur du skapar en tabellrapport på en Canvas Dashboard. |
-| Oktober 2025 | [Lägg till villkorsstyrd formatering i en Canvas Dashboard-rapport](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report) | Video | Lär dig hur du lägger till villkorlig formatering i en Canvas Dashboard-rapport. |
-| Oktober 2025 | [Använd ett OR-filter i en Canvas Dashboard-rapport](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report) | Video | Lär dig hur du använder ett OR-filter i en Canvas Dashboard-rapport. |
+| Oktober 2025 | [Skapa en KPI-rapport på en arbetsytans kontrollpanel](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard) | Video | Lär dig hur du skapar en KPI-rapport på en Canvas Dashboard. |
+| Oktober 2025 | [Skapa en tabellrapport på en arbetsytans kontrollpanel](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard) | Video | Lär dig hur du skapar en tabellrapport på en Canvas Dashboard. |
+| Oktober 2025 | [Lägg till villkorsstyrd formatering i en Canvas Dashboard-rapport](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report) | Video | Lär dig hur du lägger till villkorlig formatering i en Canvas Dashboard-rapport. |
+| Oktober 2025 | [Använd ett OR-filter i en Canvas Dashboard-rapport](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report) | Video | Lär dig hur du använder ett OR-filter i en Canvas Dashboard-rapport. |
 
 <!--
 ### New [!DNL Workfront] support knowledge base
@@ -614,14 +614,14 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|August 2025|[Calendar appears blank when owner is deactivated in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27192)|New article| Learn about the solutions to the issue when the owner of a calendar is deactivated, the calendar becomes blank, and no tasks or events are visible.|
-|August 2025|[Error appears when assigning resource managers in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27251)|New article| Learn about the solutions to the issue when the error *Only users with a plan license can be added as resource managers* occurs when attaching a project template that includes resource managers without the required license type.|
-|August 2025|[Issue to project conversion grants home group "view" access by default in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27261)|New article| Learn about the solutions to the issue when converting an issue into a project using a template in Adobe Workfront, the creator's home group automatically receives view access to the resulting project.|
-|August 2025|[Duplicate folders auto-created in Workfront via [!DNL Fusion] scenarios](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27287)|New article| Learn about the solutions to the issue when duplicate folders are automatically created in certain Adobe Workfront projects due to active [!DNL Fusion] connections.|
-|August 2025|[Unable to report on specific approver actions in Adobe Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27298)|New article| Learn about the solutions to the issue when Adobe Workfront reports don't natively support isolating actions taken by specific approvers in multi-stage approval workflows.|
-|August 2025|[Unable to attach template to an existing project in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27305)|New article| Learn about the solutions to the issue when an error occurs when attaching a template to an existing project in Adobe Workfront related to system-wide sharing permissions settings.|
+|August 2025|[Calendar appears blank when owner is deactivated in Workfront](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27192)|New article| Learn about the solutions to the issue when the owner of a calendar is deactivated, the calendar becomes blank, and no tasks or events are visible.|
+|August 2025|[Error appears when assigning resource managers in Workfront](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27251)|New article| Learn about the solutions to the issue when the error *Only users with a plan license can be added as resource managers* occurs when attaching a project template that includes resource managers without the required license type.|
+|August 2025|[Issue to project conversion grants home group "view" access by default in Workfront](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27261)|New article| Learn about the solutions to the issue when converting an issue into a project using a template in Adobe Workfront, the creator's home group automatically receives view access to the resulting project.|
+|August 2025|[Duplicate folders auto-created in Workfront via [!DNL Fusion] scenarios](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27287)|New article| Learn about the solutions to the issue when duplicate folders are automatically created in certain Adobe Workfront projects due to active [!DNL Fusion] connections.|
+|August 2025|[Unable to report on specific approver actions in Adobe Workfront](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27298)|New article| Learn about the solutions to the issue when Adobe Workfront reports don't natively support isolating actions taken by specific approvers in multi-stage approval workflows.|
+|August 2025|[Unable to attach template to an existing project in Workfront](https://experienceleague.adobe.com/sv/docs/experience-cloud-kcs/kbarticles/ka-27305)|New article| Learn about the solutions to the issue when an error occurs when attaching a template to an existing project in Adobe Workfront related to system-wide sharing permissions settings.|
 
-For the latest product documentation, see the [Adobe [!DNL Workfront] documentation home page](https://experienceleague.adobe.com/en/docs/workfront/using/home).
+For the latest product documentation, see the [Adobe [!DNL Workfront] documentation home page](https://experienceleague.adobe.com/sv/docs/workfront/using/home).
 -->
 
 +++
@@ -632,7 +632,7 @@ Hitta den senaste versionsinformationen och den nya dokumentationen för [!DNL G
 
 +++Versionsinformation och dokumentation
 
-Se [2025.09.11 - Versionsinformation](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) för GenStudio for Performance Marketing
+Se [2025.09.11 - Versionsinformation](https://experienceleague.adobe.com/sv/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) för GenStudio for Performance Marketing
 
 ### Nya självstudiekurser för GenStudio for Performance Marketing {#genstudio-tutorials}
 
@@ -640,13 +640,13 @@ Videosjälvstudiekurser för GenStudio for Performance Marketing.
 
 | Publicerad | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |
-| Oktober 2025 | [Tilldela varumärkesbehörigheter](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/intro/configure-brand-permissions) | Video | Lär dig hur du tilldelar behörigheter för GenStudio for Performance Marketing Brand-skapare och -redigerare. |
+| Oktober 2025 | [Tilldela varumärkesbehörigheter](https://experienceleague.adobe.com/sv/docs/genstudio-for-performance-marketing/user-guide/intro/configure-brand-permissions) | Video | Lär dig hur du tilldelar behörigheter för GenStudio for Performance Marketing Brand-skapare och -redigerare. |
 
 **GenStudio for Performance Marketing-resurser**
 
-* [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing) (all självhjälp)
-* [Produktdokumentation](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) för GenStudio for Performance Marketing
-* [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html) - produktinformation
+* [GenStudio for Performance Marketing](https://experienceleague.adobe.com/sv/browse/genstudio-for-performance-marketing) (all självhjälp)
+* [Produktdokumentation](https://experienceleague.adobe.com/sv/docs/genstudio-for-performance-marketing/user-guide/home) för GenStudio for Performance Marketing
+* [GenStudio for Performance Marketing](https://business.adobe.com/se/products/genstudio-for-performance-marketing.html) - produktinformation
 
 +++
 
@@ -654,7 +654,7 @@ Videosjälvstudiekurser för GenStudio for Performance Marketing.
 
 +++Versionsinformation och dokumentation
 
-Mer information finns i Mix Modeler [september 2025 - versionsinformation](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest)
+Mer information finns i Mix Modeler [september 2025 - versionsinformation](https://experienceleague.adobe.com/sv/docs/mix-modeler/using/releases/latest)
 
 +++
 
@@ -664,19 +664,19 @@ Hitta den senaste versionsinformationen och den nya dokumentationen för [!DNL A
 
 +++Versionsinformation
 
-Om du vill bläddra i hjälpen för Adobe [!DNL Advertising] går du till [Adobe Advertising Documentation](https://experienceleague.adobe.com/en/docs/advertising).
+Om du vill bläddra i hjälpen för Adobe [!DNL Advertising] går du till [Adobe Advertising Documentation](https://experienceleague.adobe.com/sv/docs/advertising).
 
 ### Nya funktioner i [!DNL Advertising DSP] {#advertising-dsp}
 
 18 september 2025
 
-Se [Nyheter i [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home)
+Se [Nyheter i [!DNL Advertising DSP]](https://experienceleague.adobe.com/sv/docs/advertising/dsp/home)
 
 ### Nya funktioner i [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
 23 september 2025
 
-Se [Nyheter i [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
+Se [Nyheter i [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/sv/docs/advertising/search-social-commerce/home)
 
 +++
 
@@ -686,7 +686,7 @@ Se [Nyheter i [!DNL Advertising Search, Social, & Commerce]](https://experiencel
 
 +++Dokumentation
 
-I [Adobe Pass-dokumentation](https://experienceleague.adobe.com/en/docs/pass) finns information om programversioner, systemkrav, begränsningar, åtgärdade problem och kända fel.
+I [Adobe Pass-dokumentation](https://experienceleague.adobe.com/sv/docs/pass) finns information om programversioner, systemkrav, begränsningar, åtgärdade problem och kända fel.
 
 +++
 
@@ -700,19 +700,19 @@ Nya självstudiekurser för Adobe Document Cloud.
 
 | Publicerad | Program | Namn | Typ | Beskrivning |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Oktober 2025 | Acrobat | [Förbättra teamets effektivitet med PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal) | Video | Omvandla samlingar av filer och webbplatser till kunskapsbanker som kan delas och konverteras med personaliserade AI-assistenter. I det här exemplet får du lära dig hur PDF Spaces hjälper en intern juristgrupp att snabbt och säkert uppdatera flera företagsövergripande policyer som svar på nya regeländringar. |
-| Oktober 2025 | Acrobat | [Vad är Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio) | Video | Lär dig skapa varumärkesskyddat innehåll, få insikter och effektivisera komplext arbete med Acrobat Studio - så att teamet kan agera snabbare. Acrobat Studio är en allt-i-ett-lösning som innehåller Acrobat Pro, AI Assistant, PDF Spaces plus Adobe Express Premium. |
-| Oktober 2025 | Acrobat Sign | [Skapa en återanvändbar mall](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-managing/create-a-template.html?lang=en) | Video | Lär dig hur du skapar en återanvändbar dokumentmall och lägger till den i ditt Acrobat Sign-bibliotek för framtida bruk. Dokumentmallar ger snabb och konsekvent signeringstransaktion och möjlighet att hantera dokumentrevisioner och ändringar. |
-| Oktober 2025 | Acrobat Sign | [Skicka till flera signerare](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/send-to-multiple-recipients.html?lang=en) | Video | Har du fler än en person som måste signera dokumentet? Lär dig hur du skickar ett dokument för e-signering till mer än en person i exakt den ordning du vill ha det. |
-| Oktober 2025 | Acrobat Sign | [Aktivera automatiska användartilldelningsregler](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/automatic-assignment-rules) | Video | Lär dig hur du ställer in automatiska tilldelningsregler som ger användare åtkomst till Acrobat Sign i Admin Console, vilket effektiviserar etableringen och minskar antalet manuella administrativa uppgifter. Användare kan bjuda in andra användare till Acrobat Sign via den produktåtkomst-URL som genereras från Admin Console. |
-| Oktober 2025 | Acrobat Sign | [Konfigurera sändningsalternativ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/sending-options) | Video | Lär dig hur du anpassar avtalsinformation, bifogar filer och konfigurerar ytterligare inställningar som påminnelser, förfallodatum och mottagarspråk när du skickar ett dokument för signering. |
-| Oktober 2025 | Acrobat Sign | [Acrobat Sign-texttaggar](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging) | Video | Lär dig hur du skapar Acrobat Sign-formulärfält med texttaggar. Texttaggar kan läggas till direkt i redigeringsverktyg som Microsoft Word, Adobe InDesign eller om du har en PDF - i Acrobat. |
+| Oktober 2025 | Acrobat | [Förbättra teamets effektivitet med PDF Spaces](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal) | Video | Omvandla samlingar av filer och webbplatser till kunskapsbanker som kan delas och konverteras med personaliserade AI-assistenter. I det här exemplet får du lära dig hur PDF Spaces hjälper en intern juristgrupp att snabbt och säkert uppdatera flera företagsövergripande policyer som svar på nya regeländringar. |
+| Oktober 2025 | Acrobat | [Vad är Acrobat Studio?](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio) | Video | Lär dig skapa varumärkesskyddat innehåll, få insikter och effektivisera komplext arbete med Acrobat Studio - så att teamet kan agera snabbare. Acrobat Studio är en allt-i-ett-lösning som innehåller Acrobat Pro, AI Assistant, PDF Spaces plus Adobe Express Premium. |
+| Oktober 2025 | Acrobat Sign | [Skapa en återanvändbar mall](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-managing/create-a-template.html?lang=sv-SE) | Video | Lär dig hur du skapar en återanvändbar dokumentmall och lägger till den i ditt Acrobat Sign-bibliotek för framtida bruk. Dokumentmallar ger snabb och konsekvent signeringstransaktion och möjlighet att hantera dokumentrevisioner och ändringar. |
+| Oktober 2025 | Acrobat Sign | [Skicka till flera signerare](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/send-to-multiple-recipients.html?lang=sv-SE) | Video | Har du fler än en person som måste signera dokumentet? Lär dig hur du skickar ett dokument för e-signering till mer än en person i exakt den ordning du vill ha det. |
+| Oktober 2025 | Acrobat Sign | [Aktivera automatiska användartilldelningsregler](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/automatic-assignment-rules) | Video | Lär dig hur du ställer in automatiska tilldelningsregler som ger användare åtkomst till Acrobat Sign i Admin Console, vilket effektiviserar etableringen och minskar antalet manuella administrativa uppgifter. Användare kan bjuda in andra användare till Acrobat Sign via den produktåtkomst-URL som genereras från Admin Console. |
+| Oktober 2025 | Acrobat Sign | [Konfigurera sändningsalternativ](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/sending-options) | Video | Lär dig hur du anpassar avtalsinformation, bifogar filer och konfigurerar ytterligare inställningar som påminnelser, förfallodatum och mottagarspråk när du skickar ett dokument för signering. |
+| Oktober 2025 | Acrobat Sign | [Acrobat Sign-texttaggar](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging) | Video | Lär dig hur du skapar Acrobat Sign-formulärfält med texttaggar. Texttaggar kan läggas till direkt i redigeringsverktyg som Microsoft Word, Adobe InDesign eller om du har en PDF - i Acrobat. |
 
 Om du vill bläddra bland [!DNL Document Cloud] självstudiekurser kan du läsa:
 
-* [Adobe Acrobat](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/overview)
-* [Adobe Acrobat Sign](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/overview)
-* [Adobe Acrobat Services API-självstudiekurser](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/overview)
+* [Adobe Acrobat](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/overview)
+* [Adobe Acrobat Sign](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/sign-learning-hub/overview)
+* [Adobe Acrobat Services API-självstudiekurser](https://experienceleague.adobe.com/sv/docs/acrobat-services-learn/tutorials/overview)
 * [Document Cloud – Läs mer och support](https://helpx.adobe.com/se/support/document-cloud.html)
 
 +++
@@ -725,33 +725,33 @@ Nya självstudiekurser publicerade för program i [!DNL Adobe Creative Cloud for
 
 | Publicerad | Program | Namn | Typ | Beskrivning |
 | -----------| -----------|---------- | ---------- | ---------- |
-| September 2025 | Firefly | [Skapa en anpassad modell](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model) | Video | Lär dig hur du skapar egna modeller i Firefly för att skapa nya bilder för din organisations varumärke med hjälp av specifika typer av format, som bakgrunder, färger och nyanser. |
-| September 2025 | Firefly | [Ta bort och ersätta bakgrund](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) | Video | Lär dig hur du använder Firefly Creative Production för att ta bort och/eller ersätta bakgrunder i stor skala. |
+| September 2025 | Firefly | [Skapa en anpassad modell](https://experienceleague.adobe.com/sv/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model) | Video | Lär dig hur du skapar egna modeller i Firefly för att skapa nya bilder för din organisations varumärke med hjälp av specifika typer av format, som bakgrunder, färger och nyanser. |
+| September 2025 | Firefly | [Ta bort och ersätta bakgrund](https://experienceleague.adobe.com/sv/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) | Video | Lär dig hur du använder Firefly Creative Production för att ta bort och/eller ersätta bakgrunder i stor skala. |
 
-Bläddra i vårt bibliotek med självstudiekurser för [Creative Cloud for enterprise](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) om du vill ha mer.
+Bläddra i vårt bibliotek med självstudiekurser för [Creative Cloud for enterprise](https://experienceleague.adobe.com/sv/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) om du vill ha mer.
 
 +++
 
 ## Kunddatahantering - Voices {#voices}
 
-[Voices för kunddatahantering](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview) är ditt mål som ansvarig och specialist för kunddatahantering. Den här samlingen självstudiekurser är den självstudiekurs du behöver för att höra från kollegor, få inspiration och lära dig mer om utvecklingen i MarTech. Ingen registrering behövs. Klicka bara och titta.
+[Voices för kunddatahantering](https://experienceleague.adobe.com/sv/docs/events/customer-data-management-voices-recordings/overview) är ditt mål som ansvarig och specialist för kunddatahantering. Den här samlingen självstudiekurser är den självstudiekurs du behöver för att höra från kollegor, få inspiration och lära dig mer om utvecklingen i MarTech. Ingen registrering behövs. Klicka bara och titta.
 
 ## Digital Experience-utkast {#blueprints}
 
-[Digitala upplevelseutkast](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview) är repeterbara implementeringar som gör att du kan hantera strategier och snabbt lösa etablerade affärsproblem. Varje utkast innehåller en serie artefakter som förklarar de mest värdefulla problemen, arkitekturer, implementeringssteg, tekniska överväganden och länkar till relevant dokumentation.
+[Digitala upplevelseutkast](https://experienceleague.adobe.com/sv/docs/blueprints-learn/architecture/overview) är repeterbara implementeringar som gör att du kan hantera strategier och snabbt lösa etablerade affärsproblem. Varje utkast innehåller en serie artefakter som förklarar de mest värdefulla problemen, arkitekturer, implementeringssteg, tekniska överväganden och länkar till relevant dokumentation.
 
 <!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/sv/docs/certification/program/overview) site on Experience League. 
 
 +++Details
 
-The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
+The [Experience Cloud Certification](https://experienceleague.adobe.com/sv/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
 * Available certifications
 * Certification renewals for Adobe applications
 * Certification program updates
 
-And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/sv/docs/certification/program/overview) on Experience League and start your certification journey today!
 
 +++ -->
