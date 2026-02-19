@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Den här versionen har migrerats till GitHub Enterprise Cloud
 
-<https://github.com/Adobe-Enterprise-Docs/release-notes.en>
+<https://github.com/Adobe-Enterprise-Docs/release-notes.sv-SE>
